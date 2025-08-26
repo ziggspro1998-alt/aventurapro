@@ -5817,3 +5817,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:18.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Isn't It Iron Pick]
+[26Aug2025 20:52:58.517] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:52:58.518] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:56:11.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
+[26Aug2025 20:58:06.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Getting an Upgrade]
+[26Aug2025 21:00:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Voluntary Exile]
+[26Aug2025 21:01:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Pillager
+[26Aug2025 21:01:04.066] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(81, 74, 92) minecraft:overworld
