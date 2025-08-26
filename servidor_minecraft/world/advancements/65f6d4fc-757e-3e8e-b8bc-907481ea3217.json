@@ -131,6 +131,7 @@
     "criteria": {
       "minecraft:pillager": "2025-08-26 20:22:38 +0000",
       "minecraft:skeleton": "2025-08-26 20:39:32 +0000",
+      "minecraft:vindicator": "2025-08-26 21:18:56 +0000",
       "minecraft:zombie": "2025-08-26 20:40:26 +0000"
     },
     "done": false
@@ -2843,9 +2844,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-26 21:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-26 21:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-26 21:16:30 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-08-26 21:10:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-26 21:11:16 +0000"
     },
     "done": true
   },
