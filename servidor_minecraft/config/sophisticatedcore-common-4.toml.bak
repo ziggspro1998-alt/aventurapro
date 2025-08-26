@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:basic_to_netherite_tier_upgrade|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true", "sophisticatedstorage:alchemy_upgrade|true", "sophisticatedstorage:packing_tape|true", "sophisticatedbackpacks:advanced_alchemy_upgrade|true", "sophisticatedstorage:limited_iron_barrel_1|true", "sophisticatedbackpacks:pickup_upgrade|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedstorage:basic_to_copper_tier_upgrade|true", "sophisticatedstorage:diamond_shulker_box|true", "sophisticatedstorage:shulker_box|true", "sophisticatedstorage:advanced_void_upgrade|true", "sophisticatedstorage:barrel|true", "sophisticatedbackpacks:advanced_void_upgrade|true", "sophisticatedstorage:copper_chest|true"]
+
