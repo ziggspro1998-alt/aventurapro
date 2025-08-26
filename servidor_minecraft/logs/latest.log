@@ -5785,3 +5785,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Aug2025 21:19:24.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [26Aug2025 21:19:24.801] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [26Aug2025 21:19:24.802] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 21:27:06.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Vindicator
+[26Aug2025 21:27:06.802] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(94, 96, 90) minecraft:overworld
+[26Aug2025 21:28:15.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Naga
+[26Aug2025 21:28:15.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(110, 53, 106) minecraft:overworld
+[26Aug2025 21:28:17.800] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[26Aug2025 21:30:24.403] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Aug2025 21:30:24.404] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Aug2025 21:30:24.404] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
