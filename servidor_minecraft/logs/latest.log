@@ -5807,3 +5807,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Aug2025 20:32:55.926] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [26Aug2025 20:38:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
 [26Aug2025 20:41:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[26Aug2025 20:43:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Into Fire]
+[26Aug2025 20:43:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Another Desert Temple!]
+[26Aug2025 20:48:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Walking on Thin Ice]
+[26Aug2025 20:51:08.667] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot

@@ -13518,3 +13518,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Aug2025 20:41:27.708] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=304, y=-22, z=-86}
 [26Aug2025 20:41:27.709] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=305, y=-22, z=-106}
 [26Aug2025 20:41:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[26Aug2025 20:41:55.056] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-22, z=0}
+[26Aug2025 20:43:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Into Fire]
+[26Aug2025 20:43:54.784] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-22, z=0}
+[26Aug2025 20:43:54.788] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=299, y=-22, z=20}
+[26Aug2025 20:43:54.788] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=327, y=-22, z=20}
+[26Aug2025 20:43:54.878] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=299, y=-22, z=20}
+[26Aug2025 20:43:54.879] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-22, z=21}
+[26Aug2025 20:43:54.879] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=327, y=-22, z=20}
+[26Aug2025 20:43:54.880] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-22, z=39}
+[26Aug2025 20:43:55.024] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-22, z=39}
+[26Aug2025 20:43:55.153] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-22, z=0}
+[26Aug2025 20:43:55.156] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=333, y=-24, z=-10}
+[26Aug2025 20:43:55.157] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=-22, z=-10}
+[26Aug2025 20:43:55.229] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-22, z=0}
+[26Aug2025 20:43:55.232] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=333, y=-24, z=-10}
+[26Aug2025 20:43:55.232] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=-22, z=-10}
+[26Aug2025 20:43:55.233] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-22, z=-19}
+[26Aug2025 20:43:55.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Another Desert Temple!]
+[26Aug2025 20:43:55.401] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-36, z=62}
+[26Aug2025 20:43:56.064] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=305, y=-22, z=-106}
+[26Aug2025 20:43:56.163] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=305, y=-22, z=-106}
+[26Aug2025 20:43:59.026] [Worker-Main-3/DEBUG] [mixin/]: Mixing MixinVillagerGoalPackages from golemsarefriends.mixin.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[26Aug2025 20:43:59.028] [Worker-Main-3/DEBUG] [mixin/]: Mixing ReplaceTaskMixin from smarterfarmers-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[26Aug2025 20:43:59.029] [Worker-Main-3/DEBUG] [mixin/]: Mixing VillagerTaskListProviderMixin from friendsandfoes-common.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[26Aug2025 20:43:59.048] [Worker-Main-3/DEBUG] [mixin/]: Mixing UseBonemealMixin from smarterfarmers-common.mixins.json into net.minecraft.world.entity.ai.behavior.UseBonemeal
+[26Aug2025 20:43:59.078] [Worker-Main-3/DEBUG] [mixin/]: Mixing TradeWithVillagerMixin from mixins.mmlib.json into net.minecraft.world.entity.ai.behavior.TradeWithVillager
+[26Aug2025 20:43:59.080] [Worker-Main-3/DEBUG] [mixin/]: Mixing TradeWithVillagerInvoker from mixins.mmlib.json into net.minecraft.world.entity.ai.behavior.TradeWithVillager
+[26Aug2025 20:43:59.080] [Worker-Main-3/DEBUG] [mixin/]: Renaming @Invoker method throwHalfStackInvoker(Lnet/minecraft/world/entity/npc/Villager;Ljava/util/Set;Lnet/minecraft/world/entity/LivingEntity;)V to throwHalfStackInvoker_$md$8175e4$0 in mixins.mmlib.json:TradeWithVillagerInvoker
+[26Aug2025 20:43:59.095] [Worker-Main-3/DEBUG] [mixin/]: Mixing compat116plus.VillagerBreedTaskMixin from pehkui.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerMakeLove
+[26Aug2025 20:43:59.953] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=340, y=-22, z=63}
+[26Aug2025 20:43:59.954] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-22, z=54}
+[26Aug2025 20:44:00.063] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=340, y=-22, z=45}
+[26Aug2025 20:44:00.064] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-22, z=28}
+[26Aug2025 20:44:00.065] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=340, y=-22, z=63}
+[26Aug2025 20:44:00.245] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-22, z=21}
+[26Aug2025 20:44:00.246] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=340, y=-22, z=45}
+[26Aug2025 20:44:00.246] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-22, z=28}
+[26Aug2025 20:44:00.438] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=-22, z=-10}
+[26Aug2025 20:44:00.439] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=345, y=-22, z=-9}
+[26Aug2025 20:44:00.439] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=354, y=-22, z=-11}
+[26Aug2025 20:44:00.622] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=-22, z=-10}
+[26Aug2025 20:44:00.623] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-22, z=-19}
+[26Aug2025 20:44:00.624] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=354, y=-22, z=-11}
+[26Aug2025 20:44:02.854] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=354, y=-22, z=-11}
+[26Aug2025 20:44:02.854] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=355, y=-22, z=-22}
+[26Aug2025 20:44:03.352] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=354, y=-22, z=-11}
+[26Aug2025 20:44:03.352] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=355, y=-22, z=-22}
+[26Aug2025 20:46:11.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 20:46:11.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Aug2025 20:48:43.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Walking on Thin Ice]
+[26Aug2025 20:49:46.366] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[26Aug2025 20:51:08.667] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 20:51:08.668] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 20:51:11.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 20:51:11.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
