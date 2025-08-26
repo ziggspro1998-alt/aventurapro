@@ -5797,3 +5797,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Aug2025 20:26:09.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
 [26Aug2025 20:26:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Wild Crops]
 [26Aug2025 20:26:18.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Suit Up]
+[26Aug2025 20:30:11.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Pillager
+[26Aug2025 20:30:11.921] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-13, 75, 35) minecraft:overworld
+[26Aug2025 20:30:33.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Pillager
+[26Aug2025 20:30:33.321] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-8, 75, 35) minecraft:overworld
+[26Aug2025 20:30:47.582] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Aug2025 20:32:32.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Pillager
+[26Aug2025 20:32:32.164] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1, 75, 31) minecraft:overworld
+[26Aug2025 20:32:55.926] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Aug2025 20:38:23.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
+[26Aug2025 20:41:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
