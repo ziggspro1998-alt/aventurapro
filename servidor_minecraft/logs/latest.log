@@ -5793,3 +5793,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Aug2025 21:30:24.403] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [26Aug2025 21:30:24.404] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
 [26Aug2025 21:30:24.404] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Aug2025 21:39:05.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
+[26Aug2025 21:40:32.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ol' Betsy]
+[26Aug2025 21:40:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
+[26Aug2025 21:40:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Vindicator
+[26Aug2025 21:40:33.942] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(67, 93, 88) minecraft:overworld
+[26Aug2025 21:42:41.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 21:42:41.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 21:42:41.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[26Aug2025 21:42:41.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[26Aug2025 21:43:02.151] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Aug2025 21:43:02.151] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[26Aug2025 21:43:02.152] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[26Aug2025 21:43:02.152] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
