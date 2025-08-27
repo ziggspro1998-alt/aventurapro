@@ -7902,3 +7902,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [27Aug2025 18:15:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Vasebreaker]
 [27Aug2025 18:22:24.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Monster Hunter]
 [27Aug2025 18:37:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
+[27Aug2025 18:53:00.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=116, y=68, z=-8} BlockPos{x=117, y=66, z=-9}
+[27Aug2025 18:53:40.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Seedy Place]
