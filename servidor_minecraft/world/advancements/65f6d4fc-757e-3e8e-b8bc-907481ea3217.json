@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-08-27 19:46:44 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
     "criteria": {
       "has_bone_meal": "2025-08-27 17:59:24 +0000"
@@ -422,6 +428,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-27 19:01:28 +0000",
+      "minecraft:skeleton": "2025-08-27 19:49:31 +0000",
       "minecraft:vindicator": "2025-08-27 18:37:35 +0000",
       "minecraft:zombie": "2025-08-27 19:33:35 +0000"
     },
@@ -1140,6 +1147,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-08-27 19:47:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-27 18:14:56 +0000"
@@ -1641,6 +1654,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-08-27 19:47:17 +0000"
     },
     "done": true
   },
@@ -2743,6 +2762,12 @@
       "minecraft:zombie": "2025-08-27 18:22:24 +0000",
       "minecraft:drowned": "2025-08-27 18:22:24 +0000",
       "minecraft:zombie_villager": "2025-08-27 18:22:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-27 19:42:18 +0000"
     },
     "done": true
   },

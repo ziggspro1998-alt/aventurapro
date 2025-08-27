@@ -7909,3 +7909,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [27Aug2025 19:07:12.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
 [27Aug2025 19:12:25.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Not Today, Thank You]
 [27Aug2025 19:36:44.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6226ms or 124 ticks behind
+[27Aug2025 19:46:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
+[27Aug2025 19:47:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
+[27Aug2025 19:47:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Life turned out to be a comedy]
