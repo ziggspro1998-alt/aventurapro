@@ -7912,3 +7912,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [27Aug2025 19:46:44.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
 [27Aug2025 19:47:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
 [27Aug2025 19:47:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Life turned out to be a comedy]
+[27Aug2025 20:00:10.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Isn't It Iron Pick]
