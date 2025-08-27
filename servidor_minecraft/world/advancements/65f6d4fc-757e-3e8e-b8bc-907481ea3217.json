@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_iron_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:28 +0000"
@@ -416,7 +422,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-27 19:01:28 +0000",
-      "minecraft:vindicator": "2025-08-27 18:37:35 +0000"
+      "minecraft:vindicator": "2025-08-27 18:37:35 +0000",
+      "minecraft:zombie": "2025-08-27 19:33:35 +0000"
     },
     "done": false
   },
@@ -1025,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 17:41:28 +0000"
@@ -1298,6 +1311,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-08-27 17:43:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
     },
     "done": true
   },
@@ -1877,6 +1896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-27 18:10:33 +0000"
@@ -1958,6 +1983,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
     },
     "done": true
   },
@@ -2141,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-27 17:38:17 +0000"
@@ -2270,6 +2307,12 @@
   "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
     },
     "done": true
   },
@@ -2486,6 +2529,12 @@
   "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
     },
     "done": true
   },
@@ -2733,6 +2782,18 @@
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-08-27 17:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-08-27 19:40:11 +0000"
     },
     "done": true
   },
