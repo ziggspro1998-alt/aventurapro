@@ -83,15 +83,39 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-27 19:12:25 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/hunting_post": {
     "criteria": {
       "has_arrow": "2025-08-27 18:15:32 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2025-08-27 18:51:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
+    "criteria": {
+      "has_item": "2025-08-27 18:52:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-08-27 18:54:50 +0000"
     },
     "done": true
   },
@@ -236,6 +260,12 @@
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-08-27 17:43:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-27 19:07:12 +0000"
     },
     "done": true
   },
@@ -385,9 +415,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-27 19:01:28 +0000",
       "minecraft:vindicator": "2025-08-27 18:37:35 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-27 19:02:06 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
@@ -410,6 +447,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 17:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-27 19:15:55 +0000"
     },
     "done": true
   },
@@ -509,6 +552,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-27 18:56:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-08-27 17:38:17 +0000"
@@ -539,6 +588,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 19:07:00 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:47 +0000"
@@ -550,6 +605,16 @@
       "custom_test_name": "2025-08-27 17:36:26 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-08-27 19:08:16 +0000",
+      "tomato": "2025-08-27 19:07:13 +0000",
+      "potato": "2025-08-27 19:14:59 +0000",
+      "wheat": "2025-08-27 18:53:40 +0000",
+      "carrot": "2025-08-27 18:54:57 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
     "criteria": {
@@ -590,6 +655,12 @@
   "expanded_combat:recipes/combat/iron_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:28 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-08-27 19:15:55 +0000"
     },
     "done": true
   },
@@ -816,6 +887,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-27 19:07:00 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:47 +0000"
@@ -873,6 +950,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-08-27 17:38:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 19:08:07 +0000"
     },
     "done": true
   },
@@ -1029,6 +1112,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-08-27 18:28:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-27 18:59:12 +0000"
     },
     "done": true
   },
@@ -1356,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-08-27 19:05:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-08-27 18:10:33 +0000"
@@ -1497,6 +1592,12 @@
   "bakery:recipes/oat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-08-27 17:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-27 19:14:44 +0000"
     },
     "done": true
   },
@@ -1692,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-27 19:14:44 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-08-27 17:37:19 +0000"
@@ -1740,9 +1847,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-27 18:55:08 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-27 18:51:15 +0000"
     },
     "done": true
   },
@@ -1761,6 +1880,12 @@
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-08-27 18:10:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 18:54:50 +0000"
     },
     "done": true
   },
@@ -1836,6 +1961,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-08-27 19:12:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 17:41:28 +0000"
@@ -1893,6 +2024,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-08-27 18:28:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-08-27 19:07:00 +0000"
     },
     "done": true
   },
@@ -2202,6 +2339,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 18:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-27 17:39:46 +0000"
@@ -2292,6 +2435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-27 19:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-08-27 18:00:38 +0000"
@@ -2343,6 +2492,12 @@
   "bakery:recipes/end_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 17:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-27 18:54:50 +0000"
     },
     "done": true
   },
@@ -2424,9 +2579,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-27 19:07:00 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:38:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 19:07:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-08-27 19:07:00 +0000"
     },
     "done": true
   },
@@ -2532,6 +2705,12 @@
       "minecraft:savanna": "2025-08-27 17:36:27 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-27 18:53:40 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
     "criteria": {
@@ -2673,6 +2852,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-27 19:08:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-27 17:59:40 +0000"
@@ -2682,6 +2867,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-27 17:41:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-27 18:54:50 +0000"
     },
     "done": true
   },
@@ -2712,6 +2903,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-27 17:41:28 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-08-27 18:51:15 +0000"
     },
     "done": true
   },
