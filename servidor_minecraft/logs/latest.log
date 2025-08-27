@@ -7901,3 +7901,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [27Aug2025 18:11:51.414] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
 [27Aug2025 18:15:30.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Vasebreaker]
 [27Aug2025 18:22:24.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Monster Hunter]
+[27Aug2025 18:37:32.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]

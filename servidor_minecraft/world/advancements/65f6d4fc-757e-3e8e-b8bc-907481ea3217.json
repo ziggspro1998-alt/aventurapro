@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-27 18:37:43 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement_0": "2025-08-27 17:56:26 +0000"
@@ -260,6 +266,12 @@
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-27 18:37:32 +0000"
     },
     "done": true
   },
@@ -364,6 +376,18 @@
       "has_diamond": "2025-08-27 17:41:47 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-27 18:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:vindicator": "2025-08-27 18:37:35 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
@@ -545,6 +569,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-08-27 18:34:35 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:28 +0000"
@@ -617,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-27 18:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-08-27 18:02:18 +0000"
@@ -662,6 +698,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
     "criteria": {
       "cooked_bacon": "2025-08-27 17:43:39 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-08-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -729,6 +771,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-08-27 17:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-27 18:34:35 +0000"
     },
     "done": true
   },
@@ -1014,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-27 18:32:09 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/decorations/sticky_basket": {
     "criteria": {
       "has_cobweb": "2025-08-27 17:41:29 +0000"
@@ -1215,6 +1269,12 @@
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 18:14:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-27 18:34:44 +0000"
     },
     "done": true
   },
@@ -1692,6 +1752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-27 18:31:45 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-27 17:41:47 +0000"
@@ -1938,6 +2004,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-08-27 18:34:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-27 18:09:55 +0000"
@@ -2163,6 +2235,12 @@
   "farmersdelight:recipes/misc/straw": {
     "criteria": {
       "has_straw_bale": "2025-08-27 17:45:10 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-08-27 18:34:35 +0000"
     },
     "done": true
   },
