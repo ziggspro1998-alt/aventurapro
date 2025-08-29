@@ -1854,6 +1854,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-29 19:04:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
+    "criteria": {
+      "has_item": "2025-08-29 19:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-08-29 18:30:34 +0000"
@@ -1962,6 +1974,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-08-29 19:17:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-08-29 18:24:12 +0000"
@@ -1983,6 +2001,18 @@
   "lootr:social": {
     "criteria": {
       "opened_chest": "2025-08-29 18:31:42 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-29 19:14:12 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-08-29 19:11:30 +0000"
     },
     "done": false
   },
@@ -2010,15 +2040,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-29 19:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-29 18:30:34 +0000"
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-08-29 19:08:33 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:slumbering_lichblade": {
+    "criteria": {
+      "requirement": "2025-08-29 19:02:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-29 18:30:34 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-29 19:11:30 +0000"
     },
     "done": true
   },
@@ -2106,6 +2160,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-08-29 19:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-08-29 18:51:04 +0000"
@@ -2157,6 +2217,12 @@
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-08-29 18:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-29 19:04:27 +0000"
     },
     "done": true
   },
@@ -2262,6 +2328,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-29 19:11:30 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-29 18:30:34 +0000"
@@ -2307,6 +2379,12 @@
   "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-08-29 18:30:34 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-08-29 19:11:30 +0000"
     },
     "done": true
   },
