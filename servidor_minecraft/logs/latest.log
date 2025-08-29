@@ -5777,3 +5777,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Aug2025 18:31:02.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Van'/2817, l='ServerLevel[world]', x=19.28, y=69.00, z=-490.40] died, message: 'Van was slain by Zombie Clown'
 [29Aug2025 18:31:02.043] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Van'/2817, l='ServerLevel[world]', x=19.28, y=69.00, z=-490.40] died: Van was slain by Zombie Clown
 [29Aug2025 18:31:42.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement ['X' Marks the Spot]
+[29Aug2025 18:38:57.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
+[29Aug2025 18:41:39.359] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[29Aug2025 18:41:39.362] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[29Aug2025 18:41:48.316] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:pillager_outpost/mountain/towers
+[29Aug2025 18:44:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Suit Up]
+[29Aug2025 18:48:01.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[29Aug2025 18:53:59.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
+[29Aug2025 18:58:10.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
+[29Aug2025 19:02:18.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Wake Up!]
