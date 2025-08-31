@@ -13360,3 +13360,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [31Aug2025 02:11:34.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31Aug2025 02:16:34.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Aug2025 02:16:34.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 02:21:03.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Wind Darkening]
+[31Aug2025 02:21:34.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 02:21:34.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 02:24:56.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Diamonds!]
+[31Aug2025 02:26:34.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Aug2025 02:26:34.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Aug2025 02:28:30.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]

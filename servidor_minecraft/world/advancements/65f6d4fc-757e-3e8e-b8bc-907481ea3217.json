@@ -103,7 +103,8 @@
       "minecraft:snowy_taiga": "2025-08-29 02:21:46 +0000",
       "minecraft:grove": "2025-08-29 02:17:29 +0000",
       "minecraft:forest": "2025-08-29 02:20:43 +0000",
-      "minecraft:meadow": "2025-08-29 02:19:02 +0000"
+      "minecraft:meadow": "2025-08-29 02:19:02 +0000",
+      "minecraft:plains": "2025-08-31 02:18:53 +0000"
     },
     "done": false
   },
@@ -2527,9 +2528,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-31 02:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2539,15 +2570,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-08-31 02:13:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-31 02:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2575,9 +2660,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-31 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2587,9 +2708,45 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-08-31 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
     },
     "done": true
   },
@@ -2599,15 +2756,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2025-08-31 02:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:13:24 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-31 02:17:02 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-08-31 02:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
     },
     "done": true
   },
@@ -2629,15 +2852,51 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-31 02:17:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-31 02:13:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
     },
     "done": true
   },
@@ -2650,6 +2909,30 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-31 02:13:08 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_diamond_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2671,15 +2954,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-08-31 02:05:37 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "goldenhopper:recipes/transportation/golden_hopper_minecart": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-31 02:23:17 +0000"
     },
     "done": true
   },
@@ -2695,9 +3038,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_wrap": {
     "criteria": {
       "has_cave_carrot": "2025-08-31 02:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-31 02:24:56 +0000"
     },
     "done": true
   },
@@ -2713,9 +3068,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-08-31 02:21:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_workstation_get": {
     "criteria": {
       "smoker": "2025-08-31 01:58:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
     },
     "done": true
   },
@@ -2737,9 +3110,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-08-31 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/packing_tape": {
     "criteria": {
       "has_slime": "2025-08-31 02:05:37 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
     },
     "done": true
   },
@@ -2752,6 +3155,18 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:13:24 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2773,6 +3188,42 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_cave_carrot_smoking": {
     "criteria": {
       "has_cave_carrot": "2025-08-31 02:04:20 +0000"
@@ -2791,9 +3242,33 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-08-31 02:13:39 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2803,9 +3278,45 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-08-31 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-31 01:57:43 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2815,9 +3326,51 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-08-31 02:05:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-08-31 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2827,9 +3380,39 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/golden_egg": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-08-31 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 02:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2851,15 +3434,57 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-31 02:13:24 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-31 02:13:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-31 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-08-31 02:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
@@ -2875,15 +3500,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-08-31 02:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-31 02:23:17 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/diamond_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_steak_and_potatoes": {
     "criteria": {
       "has_cave_carrot": "2025-08-31 02:04:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-31 02:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-08-31 02:13:39 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2025-08-31 02:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-31 02:26:04 +0000"
     },
     "done": true
   },
