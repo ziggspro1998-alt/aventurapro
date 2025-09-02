@@ -102,6 +102,8 @@
       "minecraft:windswept_hills": "2025-09-02 22:30:35 +0000",
       "minecraft:snowy_plains": "2025-09-02 22:32:33 +0000",
       "minecraft:snowy_taiga": "2025-09-02 22:29:52 +0000",
+      "minecraft:swamp": "2025-09-02 22:45:41 +0000",
+      "minecraft:forest": "2025-09-02 22:45:09 +0000",
       "minecraft:frozen_ocean": "2025-09-02 22:37:12 +0000",
       "minecraft:snowy_beach": "2025-09-02 22:32:50 +0000"
     },
@@ -125,6 +127,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/prawn_noodles": {
+    "criteria": {
+      "has_cooked_prawn": "2025-09-02 22:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-09-02 22:27:21 +0000"
@@ -137,9 +157,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/tiger_prawn_from_campfire_cooking": {
+    "criteria": {
+      "tiger_prawn": "2025-09-02 22:46:38 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-09-02 22:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-09-02 22:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
     },
     "done": true
   },
@@ -186,6 +230,12 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/cooked_tiger_prawn": {
+    "criteria": {
+      "tiger_prawn": "2025-09-02 22:46:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-02 22:26:13 +0000"
@@ -204,9 +254,21 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/tiger_prawn_from_smoking": {
+    "criteria": {
+      "tiger_prawn": "2025-09-02 22:46:38 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cupcake_display": {
     "criteria": {
       "has_stick": "2025-09-02 22:26:20 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/prawn_po_boy": {
+    "criteria": {
+      "has_cooked_prawn": "2025-09-02 22:47:24 +0000"
     },
     "done": true
   },
@@ -252,6 +314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-09-02 22:26:13 +0000"
@@ -276,9 +344,21 @@
     },
     "done": true
   },
+  "xtraarrows:recipes/all_recipes": {
+    "criteria": {
+      "has_the_recipe": "2025-09-02 22:40:55 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-02 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
     },
     "done": true
   },
@@ -303,6 +383,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-02 22:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
     },
     "done": true
   },
@@ -378,6 +464,18 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/prawn_stew": {
+    "criteria": {
+      "has_cooked_prawn": "2025-09-02 22:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-09-02 22:26:13 +0000"
@@ -390,6 +488,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2025-09-02 22:40:59 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/prawn_ceviche": {
+    "criteria": {
+      "has_cooked_prawn": "2025-09-02 22:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-02 22:27:21 +0000"
@@ -399,6 +509,18 @@
   "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-02 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
     },
     "done": true
   },
@@ -456,6 +578,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-02 22:37:13 +0000"
@@ -492,9 +632,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-09-02 22:26:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-02 22:41:34 +0000"
     },
     "done": true
   },
@@ -513,6 +671,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-09-02 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-09-02 22:40:55 +0000"
     },
     "done": true
   },
@@ -540,9 +704,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-02 22:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-02 22:41:59 +0000"
     },
     "done": true
   },
@@ -594,6 +770,12 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/prawn_roll": {
+    "criteria": {
+      "has_raw_prawn": "2025-09-02 22:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-09-02 22:28:14 +0000"
@@ -603,6 +785,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-09-02 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-09-02 22:41:59 +0000"
     },
     "done": true
   },
@@ -648,6 +836,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-09-02 22:40:55 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/salmon_wrapped_prawn": {
+    "criteria": {
+      "has_cooked_prawn": "2025-09-02 22:47:24 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-09-02 22:29:40 +0000"
@@ -672,6 +872,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-09-02 22:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-02 22:26:13 +0000"
@@ -681,6 +887,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-09-02 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
     },
     "done": true
   },
@@ -702,9 +914,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-02 22:41:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-09-02 22:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-09-02 22:40:56 +0000"
     },
     "done": true
   },
@@ -743,6 +967,12 @@
       "has_stick": "2025-09-02 22:26:20 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_salmon": "2025-09-02 22:44:27 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
