@@ -5778,3 +5778,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Sep2025 12:01:56.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Isn't It Iron Pick]
 [02Sep2025 12:02:07.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Angel'/392, l='ServerLevel[world]', x=171.07, y=53.00, z=66.44] died, message: 'Angel hit the ground too hard'
 [02Sep2025 12:02:07.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Angel'/392, l='ServerLevel[world]', x=171.07, y=53.00, z=66.44] died: Angel fell from a high place
+[02Sep2025 12:03:25.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sherwood'/94, l='ServerLevel[world]', x=-1.38, y=1.00, z=-14.60] died, message: 'Sherwood was slain by Zombie'
+[02Sep2025 12:03:25.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sherwood'/94, l='ServerLevel[world]', x=-1.38, y=1.00, z=-14.60] died: Sherwood was slain by Zombie
+[02Sep2025 12:04:15.367] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/18, l='ServerLevel[world]', x=50.66, y=13.42, z=53.53] died, message: 'Golem Healer was slain by Zombie'
+[02Sep2025 12:04:15.368] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/18, l='ServerLevel[world]', x=50.66, y=13.42, z=53.53] died: Golem Healer was slain by Zombie
+[02Sep2025 12:08:17.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[02Sep2025 12:08:22.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[02Sep2025 12:09:09.459] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Zack'/209, l='ServerLevel[world]', x=69.12, y=98.00, z=9.70] died, message: 'Zack hit the ground too hard'
+[02Sep2025 12:09:09.460] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Zack'/209, l='ServerLevel[world]', x=69.12, y=98.00, z=9.70] died: Zack fell from a high place
+[02Sep2025 12:09:26.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Suit Up]
+[02Sep2025 12:11:07.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Thomas'/222, l='ServerLevel[world]', x=87.99, y=99.00, z=51.50] died, message: 'Thomas hit the ground too hard'
+[02Sep2025 12:11:07.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Thomas'/222, l='ServerLevel[world]', x=87.99, y=99.00, z=51.50] died: Thomas fell from a high place
+[02Sep2025 12:12:46.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Seedy Place]
