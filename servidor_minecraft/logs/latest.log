@@ -5786,3 +5786,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Sep2025 22:47:09.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cinderella'/36, l='ServerLevel[world]', x=43.23, y=63.00, z=42.40] died: Cinderella fell from a high place
 [02Sep2025 22:51:16.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kristine'/192, l='ServerLevel[world]', x=4.12, y=65.00, z=50.46] died, message: 'Kristine hit the ground too hard'
 [02Sep2025 22:51:16.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kristine'/192, l='ServerLevel[world]', x=4.12, y=65.00, z=50.46] died: Kristine fell from a high place
+[02Sep2025 22:52:19.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Fool's Folly]
+[02Sep2025 22:52:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
+[02Sep2025 22:52:41.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
+[02Sep2025 22:53:32.246] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[02Sep2025 22:56:28.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
+[02Sep2025 22:57:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[02Sep2025 22:57:40.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement ['X' Marks the Spot]
+[02Sep2025 22:58:40.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Carson'/78, l='ServerLevel[world]', x=42.56, y=63.00, z=41.42] died, message: 'Carson hit the ground too hard'
+[02Sep2025 22:58:40.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Carson'/78, l='ServerLevel[world]', x=42.56, y=63.00, z=41.42] died: Carson fell from a high place
+[02Sep2025 23:00:06.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Devin'/161, l='ServerLevel[world]', x=40.20, y=63.00, z=40.30] died, message: 'Devin hit the ground too hard'
+[02Sep2025 23:00:06.479] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Devin'/161, l='ServerLevel[world]', x=40.20, y=63.00, z=40.30] died: Devin fell from a high place
