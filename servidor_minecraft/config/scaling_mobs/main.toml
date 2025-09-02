@@ -7,7 +7,7 @@
 	"Use Exponential Scaling" = false
 	#After this day in the Minecraft world, all hostile mobs will be immune to burning in daylight
 	#Range: > 0
-	"Mobs Stop Burning on Day" = 7
+	"Mobs Stop Burning on Day" = 15
 	#A list of mobs that will scale, even if they're not monsters
 	"Mob Whitelist" = []
 	#A list of mobs that will not scale, even if they're monsters
@@ -16,7 +16,7 @@
 [Health]
 	#The decimal amount that hostile mobs' health increase per day
 	#Range: 0.0 ~ Infinity
-	"Health Scale Rate" = 0.03
+	"Health Scale Rate" = 0.0
 	#The decimal amount of the mobs' base health in the beginning
 	#Range: 0.0 ~ Infinity
 	"Mob Health Base" = 0.0
@@ -27,24 +27,24 @@
 [Damage]
 	#The decimal amount that hostile mobs' damage increase per day
 	#Range: 0.0 ~ Infinity
-	"Damage Scale Rate" = 0.03
+	"Damage Scale Rate" = 0.05
 	#The decimal amount of the mobs' base damage in the beginning
 	#Range: 0.0 ~ Infinity
 	"Mob Damage Base" = 0.0
 	#The maximum amount that hostile mobs' damage can scale to
 	#Range: 0.0 ~ Infinity
-	"Max Scaled Damage" = +inf
+	"Max Scaled Damage" = 50
 
 [Speed]
 	#The decimal amount that hostile mobs' speed increase per day
 	#Range: 0.0 ~ Infinity
-	"Speed Scale Rate" = 0.005
+	"Speed Scale Rate" = 0.0
 	#The decimal amount of the mobs' base speed in the beginning
 	#Range: 0.0 ~ Infinity
 	"Mob Speed Base" = 0.0
 	#The maximum amount that hostile mobs' speed can scale to
 	#Range: 0.0 ~ Infinity
-	"Max Scaled Speed" = 1.5
+	"Max Scaled Speed" = 1.0
 
 ["Armor Piercing"]
 	#The decimal amount of increase to mobs' damage that ignores armor per day
