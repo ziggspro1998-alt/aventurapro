@@ -3013,14 +3013,28 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-04 17:24:22 +0000"
+    },
+    "done": true
+  },
   "morevillagers:master_trade": {
     "criteria": {
       "villagertrade": "2025-09-04 17:08:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-04 17:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-04 17:24:31 +0000",
+      "minecraft:vindicator": "2025-09-04 17:25:30 +0000",
       "minecraft:spider": "2025-09-04 17:06:00 +0000"
     },
     "done": false
@@ -3034,6 +3048,18 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-09-04 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2025-09-04 17:26:22 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-09-04 17:24:32 +0000"
     },
     "done": true
   },

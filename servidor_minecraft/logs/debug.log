@@ -13437,3 +13437,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 17:14:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
 [04Sep2025 17:16:58.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 17:16:58.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 17:21:58.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 17:21:58.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 17:23:56.145] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Sep2025 17:24:22.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Not Today, Thank You]
+[04Sep2025 17:26:22.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Vindicator
+[04Sep2025 17:26:22.821] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(201, 66, 383) minecraft:overworld
+[04Sep2025 17:26:25.421] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[04Sep2025 17:26:47.829] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 17:26:47.830] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 17:26:47.831] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[04Sep2025 17:26:47.831] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[04Sep2025 17:26:54.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Vindicator
+[04Sep2025 17:26:54.511] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(202, 66, 383) minecraft:overworld
+[04Sep2025 17:26:55.751] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[04Sep2025 17:26:58.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 17:26:58.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 17:27:09.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Missionary
+[04Sep2025 17:27:11.042] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[04Sep2025 17:28:20.279] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 17:28:20.280] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 17:28:20.280] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[04Sep2025 17:28:20.280] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[04Sep2025 17:28:41.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
+[04Sep2025 17:28:41.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Sep2025 17:28:54.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Sep2025 17:29:22.372] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
