@@ -5719,3 +5719,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 22:54:47.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Beau'/100, l='ServerLevel[world]', x=265.65, y=71.00, z=272.38] died: Beau was slain by Door Knight
 [04Sep2025 22:55:01.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elia'/99, l='ServerLevel[world]', x=246.74, y=71.50, z=283.49] died, message: 'Elia was slain by Door Knight'
 [04Sep2025 22:55:01.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elia'/99, l='ServerLevel[world]', x=246.74, y=71.50, z=283.49] died: Elia was slain by Door Knight
+[04Sep2025 22:57:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
+[04Sep2025 22:59:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Life turned out to be a comedy]
