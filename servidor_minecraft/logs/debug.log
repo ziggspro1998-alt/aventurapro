@@ -13463,3 +13463,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 17:28:41.774] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [04Sep2025 17:28:54.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [04Sep2025 17:29:22.372] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Sep2025 17:31:58.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 17:31:58.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 17:32:37.572] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[04Sep2025 17:33:30.353] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leanora'/10679, l='ServerLevel[world]', x=225.70, y=73.00, z=295.90] died, message: 'Leanora was slain by Zombie Villager'
+[04Sep2025 17:33:30.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Leanora'/10679, l='ServerLevel[world]', x=225.70, y=73.00, z=295.90] died: Leanora was slain by Zombie Villager
+[04Sep2025 17:34:44.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Leanora'/12014, l='ServerLevel[world]', x=251.70, y=72.51, z=288.50] died: Leanora burned to death
+[04Sep2025 17:36:58.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 17:36:58.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
