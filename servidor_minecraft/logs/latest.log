@@ -5727,3 +5727,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 23:15:28.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [04Sep2025 23:15:28.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [04Sep2025 23:15:28.703] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[04Sep2025 23:17:57.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro blew up
+[04Sep2025 23:17:57.106] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(144, -32, 257) minecraft:overworld
+[04Sep2025 23:20:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Restless Spirit
+[04Sep2025 23:22:28.314] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 23:22:28.315] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 23:22:28.315] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[04Sep2025 23:22:28.315] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[04Sep2025 23:22:28.315] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[04Sep2025 23:34:10.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fatty Demon]
