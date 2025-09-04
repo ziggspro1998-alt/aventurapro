@@ -2391,6 +2391,7 @@
       "gardeningtable": "2025-09-04 17:05:03 +0000",
       "smithingtable": "2025-09-04 03:27:08 +0000",
       "blastfurnace": "2025-09-04 02:14:18 +0000",
+      "lectern": "2025-09-04 22:16:45 +0000",
       "woodworkingtable": "2025-09-04 16:59:47 +0000",
       "composter": "2025-09-04 16:59:32 +0000"
     },
@@ -2945,7 +2946,8 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "toolsmith": "2025-09-04 03:33:01 +0000",
-      "fletcher": "2025-09-04 03:06:31 +0000"
+      "fletcher": "2025-09-04 03:06:31 +0000",
+      "librarian": "2025-09-04 22:19:47 +0000"
     },
     "done": false
   },
@@ -3477,9 +3479,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-04 22:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-09-04 22:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-04 21:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-04 22:16:51 +0000"
     },
     "done": true
   },
@@ -3585,6 +3605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-04 22:15:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-04 22:10:40 +0000"
@@ -3606,6 +3632,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-04 21:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-04 22:16:51 +0000"
     },
     "done": true
   },
@@ -3648,6 +3680,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-04 21:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-04 22:16:51 +0000"
     },
     "done": true
   },
@@ -3762,6 +3800,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-04 22:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-04 22:15:53 +0000"
     },
     "done": true
   },
