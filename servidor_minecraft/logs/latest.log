@@ -5721,3 +5721,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 22:55:01.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elia'/99, l='ServerLevel[world]', x=246.74, y=71.50, z=283.49] died: Elia was slain by Door Knight
 [04Sep2025 22:57:46.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
 [04Sep2025 22:59:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Life turned out to be a comedy]
+[04Sep2025 23:12:35.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Mutant Zombie
+[04Sep2025 23:12:35.058] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(148, 0, 227) minecraft:overworld
+[04Sep2025 23:15:28.701] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 23:15:28.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Sep2025 23:15:28.702] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[04Sep2025 23:15:28.703] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
