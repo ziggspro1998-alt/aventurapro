@@ -3074,6 +3074,7 @@
       "minecraft:pillager": "2025-09-04 17:24:31 +0000",
       "minecraft:vindicator": "2025-09-04 17:25:30 +0000",
       "minecraft:spider": "2025-09-04 17:06:00 +0000",
+      "minecraft:creeper": "2025-09-04 17:42:27 +0000",
       "minecraft:zombie": "2025-09-04 17:32:18 +0000",
       "minecraft:zombie_villager": "2025-09-04 17:27:24 +0000"
     },
@@ -3175,6 +3176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-04 17:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
@@ -3190,6 +3197,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-04 17:37:36 +0000"
     },
     "done": true
   },
