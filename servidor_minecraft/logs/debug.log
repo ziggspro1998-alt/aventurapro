@@ -13303,3 +13303,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 21:27:59.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Sep2025 21:32:59.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 21:32:59.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:37:59.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:37:59.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:42:59.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:42:59.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:47:59.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:47:59.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:52:59.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:52:59.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 21:53:45.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/106, l='ServerLevel[world]', x=286.74, y=71.25, z=288.55] died, message: 'Golem Healer was slain by Zombie'
+[04Sep2025 21:53:45.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/106, l='ServerLevel[world]', x=286.74, y=71.25, z=288.55] died: Golem Healer was slain by Zombie
+[04Sep2025 21:53:48.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/13898, l='ServerLevel[world]', x=287.59, y=71.00, z=287.77] died: Golem Healer was slain by Iron Golem
+[04Sep2025 21:54:20.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Moira'/209, l='ServerLevel[world]', x=240.83, y=63.01, z=262.47] died, message: 'Moira was slain by Zombie Villager'
+[04Sep2025 21:54:20.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Moira'/209, l='ServerLevel[world]', x=240.83, y=63.01, z=262.47] died: Moira was slain by Zombie Villager
+[04Sep2025 21:55:36.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=323} BlockPos{x=274, y=63, z=323}
+[04Sep2025 21:55:36.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=323} BlockPos{x=274, y=63, z=323}
+[04Sep2025 21:57:59.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 21:57:59.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 22:02:59.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 22:02:59.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
