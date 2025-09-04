@@ -5710,3 +5710,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 21:54:20.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Moira'/209, l='ServerLevel[world]', x=240.83, y=63.01, z=262.47] died: Moira was slain by Zombie Villager
 [04Sep2025 21:55:36.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=323} BlockPos{x=274, y=63, z=323}
 [04Sep2025 21:55:36.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=64, z=323} BlockPos{x=274, y=63, z=323}
+[04Sep2025 22:09:53.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Boyd'/95, l='ServerLevel[world]', x=269.60, y=71.50, z=286.69] died, message: 'Boyd was slain by Decaying Zombie'
+[04Sep2025 22:09:53.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Boyd'/95, l='ServerLevel[world]', x=269.60, y=71.50, z=286.69] died: Boyd was slain by Decaying Zombie
