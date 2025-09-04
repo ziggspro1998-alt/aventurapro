@@ -13387,3 +13387,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 23:32:59.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Sep2025 23:32:59.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Sep2025 23:34:10.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fatty Demon]
+[04Sep2025 23:37:59.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 23:37:59.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Sep2025 23:40:33.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Good Demoman]
+[04Sep2025 23:42:59.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Sep2025 23:42:59.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
