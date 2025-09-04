@@ -2382,6 +2382,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "huntingpost": "2025-09-04 02:47:23 +0000",
+      "oceanographytable": "2025-09-04 17:11:30 +0000",
       "fletchingtable": "2025-09-04 02:46:06 +0000",
       "brewingstand": "2025-09-04 03:04:07 +0000",
       "grindstone": "2025-09-04 02:59:04 +0000",
@@ -3003,6 +3004,18 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-09-04 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-09-04 17:14:42 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-04 17:08:42 +0000"
     },
     "done": true
   },

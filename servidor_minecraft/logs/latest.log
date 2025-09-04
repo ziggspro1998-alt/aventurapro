@@ -5708,3 +5708,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Sep2025 17:02:28.376] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.148.151.111:36501] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [04Sep2025 17:06:00.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Monster Hunter]
 [04Sep2025 17:08:42.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ace Trainer]
+[04Sep2025 17:14:42.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
