@@ -3009,9 +3009,44 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
-      "has_any_ingredient": "2025-09-04 17:30:09 +0000"
+      "has_item": "2025-09-04 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-04 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-09-04 16:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2025-09-04 17:24:31 +0000",
+      "minecraft:vindicator": "2025-09-04 17:25:30 +0000",
+      "minecraft:spider": "2025-09-04 17:06:00 +0000",
+      "minecraft:creeper": "2025-09-04 17:42:27 +0000",
+      "minecraft:zombie": "2025-09-04 17:32:18 +0000",
+      "minecraft:zombie_villager": "2025-09-04 17:27:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-09-04 17:06:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-04 17:08:42 +0000"
     },
     "done": true
   },
@@ -3021,15 +3056,172 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-09-04 17:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-09-04 17:24:22 +0000"
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-09-04 17:24:32 +0000"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2025-09-04 17:26:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-04 17:28:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-09-04 17:29:54 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-09-04 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-04 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-04 17:30:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-09-04 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-09-04 17:30:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-04 17:30:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-09-04 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-09-04 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-04 17:31:30 +0000",
+      "has_the_recipe": "2025-09-04 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-04 17:31:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-04 17:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-04 17:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-04 17:31:32 +0000"
     },
     "done": true
   },
@@ -3045,18 +3237,6 @@
     },
     "done": true
   },
-  "morevillagers:master_trade": {
-    "criteria": {
-      "villagertrade": "2025-09-04 17:08:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-09-04 17:24:08 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/dark_oak_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-04 17:33:12 +0000"
@@ -3066,29 +3246,6 @@
   "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-09-04 17:24:31 +0000",
-      "minecraft:vindicator": "2025-09-04 17:25:30 +0000",
-      "minecraft:spider": "2025-09-04 17:06:00 +0000",
-      "minecraft:creeper": "2025-09-04 17:42:27 +0000",
-      "minecraft:zombie": "2025-09-04 17:32:18 +0000",
-      "minecraft:zombie_villager": "2025-09-04 17:27:24 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-09-04 16:59:16 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
     },
     "done": true
   },
@@ -3128,12 +3285,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-09-04 17:31:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
@@ -3143,12 +3294,6 @@
   "sophisticatedstorage:recipes/misc/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-09-04 17:28:41 +0000"
     },
     "done": true
   },
@@ -3170,39 +3315,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-09-04 17:30:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-09-04 17:37:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-09-04 17:34:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
-    "criteria": {
-      "has_copper_ore": "2025-09-04 17:37:36 +0000"
     },
     "done": true
   },
@@ -3218,40 +3339,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-09-04 17:30:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-09-04 17:29:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-09-04 16:59:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-09-04 17:31:30 +0000",
-      "has_the_recipe": "2025-09-04 17:31:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "block_factorys_bosses:die_boss": {
-    "criteria": {
-      "die_boss_0": "2025-09-04 17:26:22 +0000"
     },
     "done": true
   },
@@ -3261,45 +3351,9 @@
     },
     "done": true
   },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-09-04 17:24:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-04 17:31:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-09-04 17:30:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-09-04 17:31:30 +0000"
     },
     "done": true
   },
@@ -3315,27 +3369,9 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-09-04 17:34:01 +0000"
     },
     "done": true
   },
@@ -3357,33 +3393,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
+  "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
     "criteria": {
-      "has_rice": "2025-09-04 17:30:09 +0000"
+      "has_item": "2025-09-04 17:33:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
+      "has_bowl": "2025-09-04 17:34:01 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
-      "minecraft:spider": "2025-09-04 17:06:00 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-09-04 17:31:32 +0000"
+      "has_bowl": "2025-09-04 17:34:01 +0000"
     },
     "done": true
   },
@@ -3393,39 +3417,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
-      "has_bamboo": "2025-09-04 17:31:32 +0000"
+      "has_copper_ore": "2025-09-04 17:37:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
-      "has_gunpowder": "2025-09-04 17:30:07 +0000"
+      "has_copper_ore": "2025-09-04 17:37:36 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_item": "2025-09-04 17:33:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-09-04 17:31:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-09-04 17:30:06 +0000"
-    },
-    "done": true
-  },
-  "animal_feeding_trough:recipes/decorations/feeding_trough": {
-    "criteria": {
-      "has_wood_slab": "2025-09-04 16:59:16 +0000"
+      "has_pink_tulip": "2025-09-04 21:29:53 +0000"
     },
     "done": true
   },
