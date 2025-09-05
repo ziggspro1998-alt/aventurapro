@@ -13471,3 +13471,94 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Sep2025 01:52:59.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2025 01:57:59.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 01:57:59.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:02:59.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:02:59.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:05:41.901] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [68c75095-d351-4cdb-b26e-e8c397354ecd]
+[05Sep2025 02:05:42.894] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/78, l='ServerLevel[world]', x=670.51, y=25.00, z=-540.90], mainHand=1 bow, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:wisp, rarity=UNCOMMON, level=4.0, minLevelRarity=4.0, manaCost=21.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=3.0, expectedTicks=1.0}]
+[05Sep2025 02:05:51.358] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [68c75095-d351-4cdb-b26e-e8c397354ecd]
+[05Sep2025 02:05:52.348] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/78, l='ServerLevel[world]', x=669.90, y=25.00, z=-541.44], mainHand=1 bow, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:wisp, rarity=UNCOMMON, level=4.0, minLevelRarity=4.0, manaCost=21.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=3.0, expectedTicks=1.0}]
+[05Sep2025 02:07:59.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:07:59.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:09:48.281] [Worker-Main-82/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[05Sep2025 02:09:48.282] [Worker-Main-82/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[05Sep2025 02:10:05.456] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [dc653b4b-ed01-452a-9709-f3405e03dec5]
+[05Sep2025 02:10:31.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was mauled by Necromancer's undead
+[05Sep2025 02:10:31.706] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(620, -8, -623) minecraft:overworld
+[05Sep2025 02:10:33.293] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:10:57.024] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:10:57.025] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:10:57.025] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:10:57.025] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[05Sep2025 02:10:57.026] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:10:57.026] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:11:04.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was mauled by Necromancer's undead
+[05Sep2025 02:11:04.997] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(617, -8, -609) minecraft:overworld
+[05Sep2025 02:11:06.500] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:11:13.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:11:13.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(660, 12, -568) minecraft:overworld
+[05Sep2025 02:11:15.746] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:11:44.569] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:11:44.570] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:11:44.570] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:11:44.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[05Sep2025 02:11:44.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:11:44.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:11:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was mauled by Necromancer's undead
+[05Sep2025 02:11:53.613] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(606, -11, -620) minecraft:overworld
+[05Sep2025 02:11:54.836] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:12:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:12:03.434] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(660, 11, -574) minecraft:overworld
+[05Sep2025 02:12:04.592] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:12:28.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:12:28.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:12:28.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:12:28.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[05Sep2025 02:12:28.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:12:28.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:12:48.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Dread Hound
+[05Sep2025 02:12:48.999] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(675, 5, -602) minecraft:overworld
+[05Sep2025 02:12:50.187] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:12:56.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:12:58.314] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:12:59.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:12:59.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 02:13:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Dread Hound
+[05Sep2025 02:13:12.806] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(675, 7, -591) minecraft:overworld
+[05Sep2025 02:13:14.185] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:13:22.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Mutant Zombie
+[05Sep2025 02:13:24.137] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:13:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was mauled by Necromancer's undead
+[05Sep2025 02:13:57.397] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(660, 11, -574) minecraft:overworld
+[05Sep2025 02:13:58.692] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:14:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:14:11.936] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:14:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:14:20.037] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:14:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:14:26.470] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:15:10.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:15:10.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(715, 24, -519) minecraft:overworld
+[05Sep2025 02:15:11.575] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:15:17.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was mauled by Necromancer's undead
+[05Sep2025 02:15:18.336] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:15:25.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:15:26.385] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:15:57.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Baby Spider
+[05Sep2025 02:15:57.940] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(554, 0, -519) minecraft:overworld
+[05Sep2025 02:15:59.260] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:16:21.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:16:21.214] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(653, 11, -563) minecraft:overworld
+[05Sep2025 02:16:22.556] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:17:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Dread Hound
+[05Sep2025 02:17:10.488] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(553, -1, -519) minecraft:overworld
+[05Sep2025 02:17:11.935] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:17:17.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[05Sep2025 02:17:18.886] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[05Sep2025 02:17:33.416] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:17:33.416] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:17:33.417] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[05Sep2025 02:17:33.417] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[05Sep2025 02:17:33.417] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:17:33.417] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[05Sep2025 02:17:59.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 02:17:59.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

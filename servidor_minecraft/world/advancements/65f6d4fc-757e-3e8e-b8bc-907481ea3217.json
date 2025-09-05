@@ -109,6 +109,7 @@
       "minecraft:ocean": "2025-09-04 02:25:51 +0000",
       "minecraft:flower_forest": "2025-09-04 02:19:19 +0000",
       "minecraft:frozen_peaks": "2025-09-04 02:55:10 +0000",
+      "minecraft:deep_dark": "2025-09-05 02:09:49 +0000",
       "minecraft:plains": "2025-09-04 01:54:55 +0000"
     },
     "done": false
@@ -3915,6 +3916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-05 02:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-04 21:50:26 +0000"
@@ -4053,6 +4060,12 @@
     },
     "done": true
   },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-09-05 02:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-09-04 21:50:26 +0000"
@@ -4152,6 +4165,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-04 22:10:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-05 02:14:38 +0000"
     },
     "done": true
   },
