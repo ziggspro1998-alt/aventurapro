@@ -110,6 +110,7 @@
       "minecraft:flower_forest": "2025-09-04 02:19:19 +0000",
       "minecraft:frozen_peaks": "2025-09-04 02:55:10 +0000",
       "minecraft:deep_dark": "2025-09-05 02:09:49 +0000",
+      "minecraft:meadow": "2025-09-05 02:20:30 +0000",
       "minecraft:plains": "2025-09-04 01:54:55 +0000"
     },
     "done": false
@@ -3859,6 +3860,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-04 21:48:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-09-05 02:21:42 +0000"
     },
     "done": true
   },
