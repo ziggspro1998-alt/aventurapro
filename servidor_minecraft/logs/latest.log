@@ -7,3 +7,9 @@
 [05Sep2025 00:39:00.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Larita'/35091, l='ServerLevel[world]', x=245.49, y=72.00, z=319.66] died: Larita was slain by Zombie Bruiser
 [05Sep2025 00:39:50.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hillary'/35095, l='ServerLevel[world]', x=246.36, y=69.00, z=267.50] died, message: 'Hillary was slain by Door Knight'
 [05Sep2025 00:39:50.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hillary'/35095, l='ServerLevel[world]', x=246.36, y=69.00, z=267.50] died: Hillary was slain by Door Knight
+[05Sep2025 00:49:16.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Close Quarters]
+[05Sep2025 00:53:29.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Omer'/35089, l='ServerLevel[world]', x=245.06, y=72.00, z=278.57] died, message: 'Omer was slain by Door Knight'
+[05Sep2025 00:53:29.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Omer'/35089, l='ServerLevel[world]', x=245.06, y=72.00, z=278.57] died: Omer was slain by Door Knight
+[05Sep2025 00:54:57.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tony'/35097, l='ServerLevel[world]', x=245.57, y=72.00, z=306.90] died, message: 'Tony was slain by Door Knight'
+[05Sep2025 00:54:57.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tony'/35097, l='ServerLevel[world]', x=245.57, y=72.00, z=306.90] died: Tony was slain by Door Knight
+[05Sep2025 00:58:03.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
