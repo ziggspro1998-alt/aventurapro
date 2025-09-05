@@ -3678,6 +3678,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-09-05 00:25:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-09-04 21:53:25 +0000"
@@ -3903,6 +3909,12 @@
   "miners_delight:recipes/building_blocks/cave_carrot_crate": {
     "criteria": {
       "has_cave_carrot": "2025-09-04 22:58:47 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-09-05 00:25:50 +0000"
     },
     "done": true
   },
