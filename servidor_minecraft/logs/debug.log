@@ -13450,3 +13450,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Sep2025 01:22:59.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2025 01:27:59.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 01:27:59.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 01:32:59.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 01:32:59.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 01:37:59.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 01:37:59.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 01:40:12.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]
+[05Sep2025 01:42:59.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 01:42:59.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 01:43:12.006] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [c0de8a59-07bd-4921-87d6-69d9753d090d]
+[05Sep2025 01:43:13.024] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/78, l='ServerLevel[world]', x=583.66, y=76.00, z=-465.85], mainHand=1 diamond_knife, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:wisp, rarity=UNCOMMON, level=4.0, minLevelRarity=4.0, manaCost=21.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=3.0, expectedTicks=1.0}]
+[05Sep2025 01:43:16.346] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [c0de8a59-07bd-4921-87d6-69d9753d090d]
+[05Sep2025 01:43:17.344] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/78, l='ServerLevel[world]', x=575.23, y=76.00, z=-469.88], mainHand=1 diamond_knife, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:wisp, rarity=UNCOMMON, level=4.0, minLevelRarity=4.0, manaCost=21.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=3.0, expectedTicks=1.0}]
+[05Sep2025 01:43:26.995] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [0033e01a-8d73-433c-bb10-f526b8235237]
+[05Sep2025 01:43:27.995] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/78, l='ServerLevel[world]', x=570.68, y=76.00, z=-476.00], mainHand=1 diamond_knife, spellbook=1 iron_spell_book, school=irons_spellbooks:holy, spell=irons_spellbooks:wisp, rarity=UNCOMMON, level=4.0, minLevelRarity=4.0, manaCost=21.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=3.0, expectedTicks=1.0}]
+[05Sep2025 01:47:59.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 01:47:59.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 01:48:10.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Cutest Predator]
+[05Sep2025 01:50:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Grumpy and Cute]
+[05Sep2025 01:52:59.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 01:52:59.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 01:57:59.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 01:57:59.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
