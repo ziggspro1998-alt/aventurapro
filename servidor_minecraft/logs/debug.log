@@ -13411,3 +13411,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Sep2025 00:25:50.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]
 [05Sep2025 00:27:59.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 00:27:59.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 00:32:59.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 00:32:59.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 00:37:59.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 00:37:59.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
