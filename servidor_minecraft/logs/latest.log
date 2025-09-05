@@ -13,3 +13,4 @@
 [05Sep2025 00:54:57.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tony'/35097, l='ServerLevel[world]', x=245.57, y=72.00, z=306.90] died, message: 'Tony was slain by Door Knight'
 [05Sep2025 00:54:57.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tony'/35097, l='ServerLevel[world]', x=245.57, y=72.00, z=306.90] died: Tony was slain by Door Knight
 [05Sep2025 00:58:03.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
+[05Sep2025 00:59:06.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Fighting Nightmares]

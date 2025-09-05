@@ -3474,6 +3474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-09-05 00:59:14 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/cooking/cave_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-04 22:58:47 +0000"
@@ -3537,6 +3543,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-09-04 22:21:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-05 00:59:06 +0000"
     },
     "done": true
   },
@@ -3609,6 +3621,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-04 22:10:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-09-05 01:07:42 +0000"
     },
     "done": true
   },
@@ -3699,6 +3717,12 @@
   "miners_delight:recipes/food/baked_cave_carrot": {
     "criteria": {
       "has_cave_carrot": "2025-09-04 22:58:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-09-05 00:58:03 +0000"
     },
     "done": true
   },
