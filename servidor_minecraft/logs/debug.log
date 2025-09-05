@@ -13415,3 +13415,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Sep2025 00:32:59.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Sep2025 00:37:59.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Sep2025 00:37:59.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 00:38:51.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stewart'/35104, l='ServerLevel[world]', x=247.28, y=71.00, z=307.94] died, message: 'Stewart was slain by Zombie Bruiser'
+[05Sep2025 00:38:51.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stewart'/35104, l='ServerLevel[world]', x=247.28, y=71.00, z=307.94] died: Stewart was slain by Zombie Bruiser
+[05Sep2025 00:38:53.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shayna'/35092, l='ServerLevel[world]', x=245.36, y=72.00, z=309.25] died, message: 'Shayna was slain by Zombie Bruiser'
+[05Sep2025 00:38:53.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shayna'/35092, l='ServerLevel[world]', x=245.36, y=72.00, z=309.25] died: Shayna was slain by Zombie Bruiser
+[05Sep2025 00:39:00.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Larita'/35091, l='ServerLevel[world]', x=245.49, y=72.00, z=319.66] died, message: 'Larita was slain by Zombie Bruiser'
+[05Sep2025 00:39:00.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Larita'/35091, l='ServerLevel[world]', x=245.49, y=72.00, z=319.66] died: Larita was slain by Zombie Bruiser
+[05Sep2025 00:39:50.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hillary'/35095, l='ServerLevel[world]', x=246.36, y=69.00, z=267.50] died, message: 'Hillary was slain by Door Knight'
+[05Sep2025 00:39:50.536] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hillary'/35095, l='ServerLevel[world]', x=246.36, y=69.00, z=267.50] died: Hillary was slain by Door Knight
+[05Sep2025 00:42:59.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 00:42:59.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Sep2025 00:47:59.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Sep2025 00:47:59.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
