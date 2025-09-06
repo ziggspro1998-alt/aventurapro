@@ -5985,3 +5985,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Sep2025 18:48:32.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=620, y=-8, z=-604} BlockPos{x=621, y=-8, z=-604}
 [06Sep2025 18:48:47.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=-6, z=-605} BlockPos{x=630, y=-6, z=-604}
 [06Sep2025 18:48:47.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=630, y=-6, z=-605} BlockPos{x=630, y=-6, z=-604}
+[06Sep2025 19:05:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[06Sep2025 19:05:34.526] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(644, 6, -543) minecraft:overworld
+[06Sep2025 19:06:57.465] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:06:57.466] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:06:57.466] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:06:57.467] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[06Sep2025 19:06:57.467] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:06:57.468] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:07:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[06Sep2025 19:07:45.107] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(655, 9, -550) minecraft:overworld
+[06Sep2025 19:07:55.411] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:07:55.411] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:07:55.412] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:07:55.412] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[06Sep2025 19:07:55.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:07:55.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:08:29.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]

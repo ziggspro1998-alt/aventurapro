@@ -4200,6 +4200,36 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_squid_campfire": {
+    "criteria": {
+      "has_squid": "2025-09-06 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-09-06 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-09-06 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/takoyaki": {
+    "criteria": {
+      "has_squid": "2025-09-06 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid": {
+    "criteria": {
+      "has_squid": "2025-09-06 19:03:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-09-06 18:53:59 +0000"
@@ -4209,6 +4239,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-09-06 18:54:19 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/stuffed_squid": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-06 19:03:00 +0000"
     },
     "done": true
   },

@@ -13604,3 +13604,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Sep2025 18:53:55.359] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
 [06Sep2025 18:55:21.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Sep2025 18:55:22.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 19:00:21.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 19:00:22.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 19:05:21.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Sep2025 19:05:22.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Sep2025 19:05:34.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[06Sep2025 19:05:34.526] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(644, 6, -543) minecraft:overworld
+[06Sep2025 19:05:35.826] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[06Sep2025 19:06:57.465] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:06:57.466] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:06:57.466] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:06:57.467] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[06Sep2025 19:06:57.467] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:06:57.468] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:07:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[06Sep2025 19:07:45.107] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(655, 9, -550) minecraft:overworld
+[06Sep2025 19:07:46.503] [Server thread/DEBUG] [twilightforest/]: Player nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217) respawned and received items held in storage
+[06Sep2025 19:07:55.411] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:07:55.411] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:07:55.412] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:07:55.412] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[06Sep2025 19:07:55.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:07:55.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:08:29.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]
