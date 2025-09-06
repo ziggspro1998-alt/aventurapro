@@ -6002,3 +6002,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Sep2025 19:07:55.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [06Sep2025 19:07:55.413] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [06Sep2025 19:08:29.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]
+[06Sep2025 19:11:53.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[06Sep2025 19:11:53.066] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(630, 3, -537) minecraft:overworld
+[06Sep2025 19:13:29.509] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:13:29.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:13:29.510] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[06Sep2025 19:13:29.511] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[06Sep2025 19:13:29.511] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[06Sep2025 19:13:29.511] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

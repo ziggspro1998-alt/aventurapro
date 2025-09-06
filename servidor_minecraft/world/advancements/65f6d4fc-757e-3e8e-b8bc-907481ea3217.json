@@ -4200,6 +4200,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-06 19:08:29 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_squid_campfire": {
     "criteria": {
       "has_squid": "2025-09-06 19:03:00 +0000"
