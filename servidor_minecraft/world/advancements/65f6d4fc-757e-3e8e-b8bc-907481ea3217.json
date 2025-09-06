@@ -3041,6 +3041,7 @@
       "minecraft:vindicator": "2025-09-04 17:25:30 +0000",
       "minecraft:spider": "2025-09-04 17:06:00 +0000",
       "minecraft:creeper": "2025-09-04 17:42:27 +0000",
+      "minecraft:witch": "2025-09-06 18:51:08 +0000",
       "minecraft:zombie": "2025-09-04 17:32:18 +0000",
       "minecraft:zombie_villager": "2025-09-04 17:27:24 +0000"
     },
@@ -4196,6 +4197,18 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-09-05 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-06 18:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-09-06 18:54:19 +0000"
     },
     "done": true
   },
