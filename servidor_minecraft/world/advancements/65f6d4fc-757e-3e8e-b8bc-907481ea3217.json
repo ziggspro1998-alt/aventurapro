@@ -4258,9 +4258,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-09-07 03:40:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
     },
     "done": true
   },
@@ -4282,6 +4306,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/hotcream": {
     "criteria": {
       "has_any_ingredient": "2025-09-07 03:53:32 +0000"
@@ -4294,15 +4330,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "brown_mushroom": "2025-09-07 04:02:01 +0000"
     },
     "done": false
   },
+  "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-09-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-07 04:08:00 +0000"
     },
     "done": true
   },
@@ -4315,6 +4381,12 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-09-07 03:41:58 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
     },
     "done": true
   },
@@ -4336,15 +4408,57 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-09-07 03:40:11 +0000"
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-09-07 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
     },
     "done": true
   },
@@ -4357,6 +4471,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-07 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-07 04:09:53 +0000"
     },
     "done": true
   },
@@ -4378,9 +4498,45 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-09-07 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
     },
     "done": true
   },
@@ -4396,9 +4552,39 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/birch_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-09-07 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 04:12:41 +0000"
     },
     "done": true
   },
