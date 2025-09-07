@@ -6211,3 +6211,17 @@ java.lang.Exception: null
 [07Sep2025 10:11:19.427] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [07Sep2025 10:11:19.427] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [07Sep2025 10:13:50.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Quincy'/93377, l='ServerLevel[world]', x=268.65, y=22.00, z=20.10] died: Quincy was slain by nasusperro
+[07Sep2025 10:21:35.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Flexible Schedule]
+[07Sep2025 10:21:49.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Zombie Bruiser
+[07Sep2025 10:21:49.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(218, -54, 44) minecraft:overworld
+[07Sep2025 10:22:17.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro fell from a high place
+[07Sep2025 10:22:36.222] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:22:36.222] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:22:36.223] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[07Sep2025 10:22:36.223] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 10:22:36.223] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:22:36.223] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:22:36.223] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 10:22:36.224] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:22:36.224] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:22:36.224] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

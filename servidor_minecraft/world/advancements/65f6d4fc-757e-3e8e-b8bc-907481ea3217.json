@@ -4824,6 +4824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-09-07 10:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-09-07 04:08:00 +0000"
@@ -5145,6 +5151,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-09-07 07:12:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-09-07 10:21:36 +0000"
     },
     "done": true
   },
@@ -5628,6 +5640,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2025-09-07 10:21:35 +0000"
+    },
+    "done": true
+  },
   "corn_delight:recipes/corn_delight/corn_crate": {
     "criteria": {
       "has_corn": "2025-09-07 07:24:51 +0000"
@@ -5637,6 +5655,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-09-07 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-09-07 10:21:36 +0000"
     },
     "done": true
   },
