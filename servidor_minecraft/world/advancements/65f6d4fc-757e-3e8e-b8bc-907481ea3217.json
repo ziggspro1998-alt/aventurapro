@@ -109,6 +109,7 @@
       "minecraft:ocean": "2025-09-04 02:25:51 +0000",
       "minecraft:flower_forest": "2025-09-04 02:19:19 +0000",
       "minecraft:frozen_peaks": "2025-09-04 02:55:10 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-07 03:24:08 +0000",
       "minecraft:deep_dark": "2025-09-05 02:09:49 +0000",
       "minecraft:meadow": "2025-09-05 02:20:30 +0000",
       "minecraft:plains": "2025-09-04 01:54:55 +0000"
@@ -4200,9 +4201,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dark_metallurgy": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "dark_metallurgy_0": "2025-09-06 19:08:29 +0000"
+      "has_raw_iron_block": "2025-09-06 18:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-09-06 18:54:19 +0000"
     },
     "done": true
   },
@@ -4236,21 +4243,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-09-06 18:53:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2025-09-06 18:54:19 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/cooking/stuffed_squid": {
     "criteria": {
       "has_any_ingredient": "2025-09-06 19:03:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-06 19:08:29 +0000"
     },
     "done": true
   },
