@@ -6084,3 +6084,9 @@ java.lang.Exception: null
 [07Sep2025 07:15:53.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/41977, l='ServerLevel[world]', x=306.54, y=72.00, z=306.39] died, message: 'Golem Healer was slain by nasusperro'
 [07Sep2025 07:15:53.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/41977, l='ServerLevel[world]', x=306.54, y=72.00, z=306.39] died: Golem Healer was slain by nasusperro
 [07Sep2025 07:19:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Seedy Place]
+[07Sep2025 07:29:46.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=72, z=258} BlockPos{x=294, y=70, z=259}
+[07Sep2025 07:29:46.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=72, z=258} BlockPos{x=294, y=70, z=259}
+[07Sep2025 07:29:46.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=294, y=72, z=258} BlockPos{x=294, y=70, z=259}
+[07Sep2025 07:39:01.517] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Britney'/42004, l='ServerLevel[world]', x=299.70, y=59.00, z=280.50] died, message: 'Britney was slain by Zombie'
+[07Sep2025 07:39:01.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Britney'/42004, l='ServerLevel[world]', x=299.70, y=59.00, z=280.50] died: Britney was slain by Zombie
+[07Sep2025 07:41:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Exorcism]

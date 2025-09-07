@@ -4340,6 +4340,12 @@
     },
     "done": true
   },
+  "corn_delight:recipes/corn_delight/tortilla_raw": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_blue_dye": "2025-09-07 05:30:57 +0000"
@@ -4367,6 +4373,18 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-09-07 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/popcorn_from_smoking": {
+    "criteria": {
+      "has_corn_delight:corn_seeds": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
     },
     "done": true
   },
@@ -4400,6 +4418,12 @@
     },
     "done": true
   },
+  "corn_delight:recipes/corn_delight/popcorn_from_campfire_cooking": {
+    "criteria": {
+      "has_corn_delight:corn_seeds": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-09-07 03:34:40 +0000"
@@ -4415,6 +4439,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-09-07 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-07 07:29:29 +0000"
     },
     "done": true
   },
@@ -4466,6 +4496,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-07 07:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:41 +0000"
@@ -4493,6 +4535,12 @@
   "mynethersdelight:recipes/cooking/hotcream": {
     "criteria": {
       "has_any_ingredient": "2025-09-07 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
     },
     "done": true
   },
@@ -4535,6 +4583,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2025-09-07 07:20:18 +0000",
+      "onion": "2025-09-07 07:24:09 +0000",
       "beetroot": "2025-09-07 07:20:13 +0000",
       "brown_mushroom": "2025-09-07 04:02:01 +0000",
       "sugar_cane": "2025-09-07 05:07:15 +0000",
@@ -4574,6 +4623,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/grilled_corn_from_campfire_cooking": {
+    "criteria": {
+      "has_corn_delight:corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/grilled_corn": {
+    "criteria": {
+      "has_corn_delight:corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:41 +0000"
@@ -4589,6 +4656,12 @@
   "expanded_combat:recipes/combat/jungle_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:12:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-07 07:29:29 +0000"
     },
     "done": true
   },
@@ -4673,6 +4746,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-09-07 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-07 07:29:29 +0000"
     },
     "done": true
   },
@@ -4772,9 +4851,21 @@
     },
     "done": true
   },
+  "corn_delight:recipes/corn_delight/corn_kernel_bag": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-07 03:39:27 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/grilled_corn_from_smoking": {
+    "criteria": {
+      "has_corn_delight:corn": "2025-09-07 07:24:51 +0000"
     },
     "done": true
   },
@@ -4886,9 +4977,21 @@
     },
     "done": true
   },
+  "corn_delight:corn": {
+    "criteria": {
+      "item": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_chest": {
+    "criteria": {
+      "has_chest": "2025-09-07 07:29:29 +0000"
     },
     "done": true
   },
@@ -4937,6 +5040,24 @@
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/shulker_from_chest": {
+    "criteria": {
+      "has_chest": "2025-09-07 07:29:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
     },
     "done": true
   },
@@ -5042,6 +5163,12 @@
     },
     "done": true
   },
+  "corn_delight:recipes/corn_delight/popcorn": {
+    "criteria": {
+      "has_corn_delight:corn_seeds": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-09-07 04:51:21 +0000"
@@ -5096,6 +5223,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_chest": {
+    "criteria": {
+      "has_chest": "2025-09-07 07:29:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-09-07 07:16:25 +0000"
@@ -5105,6 +5238,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/corn_from_crate": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
     },
     "done": true
   },
@@ -5126,6 +5265,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-09-07 07:29:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
@@ -5138,6 +5283,12 @@
     },
     "done": true
   },
+  "corn_delight:recipes/corn_delight/corn_seeds": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:09:27 +0000"
@@ -5147,6 +5298,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
     },
     "done": true
   },
@@ -5216,6 +5373,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_copper_to_iron_tier_upgrade": "2025-09-07 07:32:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_copper_chest": {
+    "criteria": {
+      "has_chest": "2025-09-07 07:29:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/birch_chest": {
     "criteria": {
       "has_birch_plank": "2025-09-07 04:12:41 +0000"
@@ -5264,6 +5433,24 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/corn_seeds_from_bag": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/corn_crate": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-09-07 05:24:35 +0000"
@@ -5288,6 +5475,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-09-07 07:32:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-09-07 04:39:08 +0000"
@@ -5309,6 +5502,12 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-09-07 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
     },
     "done": true
   },
@@ -5414,6 +5613,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-07 07:41:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-07 07:09:27 +0000"
@@ -5423,6 +5628,12 @@
   "expanded_combat:recipes/combat/mangrove_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:09:27 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:root": {
+    "criteria": {
+      "item": "2025-09-07 07:24:51 +0000"
     },
     "done": true
   },
@@ -5468,9 +5679,21 @@
     },
     "done": true
   },
+  "corn_delight:recipes/corn_delight/cornbread_batter": {
+    "criteria": {
+      "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-09-07 07:09:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/double_iron_chest": {
+    "criteria": {
+      "has_chest": "2025-09-07 07:29:29 +0000"
     },
     "done": true
   },
@@ -5549,6 +5772,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-09-07 05:24:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-09-07 07:29:16 +0000"
     },
     "done": true
   },
