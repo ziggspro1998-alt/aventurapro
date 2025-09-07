@@ -5583,6 +5583,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "cooked_rice": "2025-09-07 22:12:08 +0000",
       "bacon_and_eggs": "2025-09-07 07:13:22 +0000"
     },
     "done": false
