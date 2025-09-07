@@ -4538,6 +4538,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/apple_pie_from_slices": {
+    "criteria": {
+      "has_apple_pie_slice": "2025-09-07 08:23:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
@@ -5137,6 +5143,12 @@
   "expanded_combat:recipes/combat/jungle_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:12:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-09-07 08:31:24 +0000"
     },
     "done": true
   },
