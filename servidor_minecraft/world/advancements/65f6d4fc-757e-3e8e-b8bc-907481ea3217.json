@@ -812,7 +812,8 @@
       "suspicious_stew": "2025-09-04 17:34:01 +0000",
       "tropical_fish": "2025-09-07 03:29:42 +0000",
       "bread": "2025-09-04 03:15:17 +0000",
-      "neapolitan:strawberries": "2025-09-04 01:58:31 +0000"
+      "neapolitan:strawberries": "2025-09-04 01:58:31 +0000",
+      "carrot": "2025-09-07 04:19:05 +0000"
     },
     "done": false
   },
@@ -4338,7 +4339,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "brown_mushroom": "2025-09-07 04:02:01 +0000"
+      "brown_mushroom": "2025-09-07 04:02:01 +0000",
+      "potato": "2025-09-07 04:18:57 +0000",
+      "carrot": "2025-09-07 04:19:03 +0000"
     },
     "done": false
   },
