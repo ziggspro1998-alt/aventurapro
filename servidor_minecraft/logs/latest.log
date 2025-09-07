@@ -6033,3 +6033,19 @@ java.lang.Exception: null
 [07Sep2025 06:09:03.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ronald'/31426, l='ServerLevel[world]', x=293.30, y=59.00, z=278.50] died: Ronald was slain by Zombie Villager
 [07Sep2025 06:09:11.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lora'/31427, l='ServerLevel[world]', x=293.30, y=59.00, z=282.50] died, message: 'Lora was slain by Zombie Villager'
 [07Sep2025 06:09:11.969] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lora'/31427, l='ServerLevel[world]', x=293.30, y=59.00, z=282.50] died: Lora was slain by Zombie Villager
+[07Sep2025 06:12:26.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]
+[07Sep2025 06:13:37.716] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jeanetta'/31428, l='ServerLevel[world]', x=293.30, y=59.00, z=280.51] died, message: 'Jeanetta was slain by Zombie Villager'
+[07Sep2025 06:13:37.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jeanetta'/31428, l='ServerLevel[world]', x=293.30, y=59.00, z=280.51] died: Jeanetta was slain by Zombie Villager
+[07Sep2025 06:17:29.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Zombie Doctor]
+[07Sep2025 06:17:50.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[07Sep2025 06:17:50.071] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(274, 71, 301) minecraft:overworld
+[07Sep2025 06:18:03.286] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 06:18:03.286] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 06:18:03.286] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[07Sep2025 06:18:03.286] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 06:18:03.287] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 06:18:03.287] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 06:18:03.287] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 06:18:03.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 06:18:03.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 06:18:03.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
