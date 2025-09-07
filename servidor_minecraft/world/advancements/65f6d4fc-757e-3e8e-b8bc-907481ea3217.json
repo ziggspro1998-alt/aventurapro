@@ -99,6 +99,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-04 02:14:43 +0000",
       "minecraft:sunflower_plains": "2025-09-04 01:48:23 +0000",
+      "minecraft:cherry_grove": "2025-09-07 03:35:49 +0000",
       "minecraft:birch_forest": "2025-09-05 01:40:02 +0000",
       "minecraft:dark_forest": "2025-09-05 01:48:08 +0000",
       "minecraft:river": "2025-09-04 02:18:52 +0000",
@@ -809,6 +810,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "suspicious_stew": "2025-09-04 17:34:01 +0000",
+      "tropical_fish": "2025-09-07 03:29:42 +0000",
       "bread": "2025-09-04 03:15:17 +0000",
       "neapolitan:strawberries": "2025-09-04 01:58:31 +0000"
     },
@@ -4252,6 +4254,30 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-09-06 19:08:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-09-07 03:34:40 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-09-07 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2025-09-07 03:31:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-09-07 03:30:27 +0000"
     },
     "done": true
   },

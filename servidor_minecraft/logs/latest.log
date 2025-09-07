@@ -5983,3 +5983,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Sep2025 03:25:35.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(506, 59, -69) minecraft:overworld
 [07Sep2025 03:27:50.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Dread Hound
 [07Sep2025 03:28:50.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[07Sep2025 03:31:10.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Food Fight]
+[07Sep2025 03:32:28.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[07Sep2025 03:32:28.744] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(506, 71, -65) minecraft:overworld
+[07Sep2025 03:33:27.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro fell from a high place
+[07Sep2025 03:33:46.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 03:33:46.186] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 03:33:46.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 03:33:46.187] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 03:33:46.188] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 03:33:46.188] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 03:34:40.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bonfire Lit]
+[07Sep2025 03:38:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Into Fire]
