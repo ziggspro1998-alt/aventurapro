@@ -5886,6 +5886,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-07 09:41:57 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:50:14 +0000"
