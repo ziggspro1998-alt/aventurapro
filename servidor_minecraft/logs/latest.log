@@ -6090,3 +6090,7 @@ java.lang.Exception: null
 [07Sep2025 07:39:01.517] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Britney'/42004, l='ServerLevel[world]', x=299.70, y=59.00, z=280.50] died, message: 'Britney was slain by Zombie'
 [07Sep2025 07:39:01.518] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Britney'/42004, l='ServerLevel[world]', x=299.70, y=59.00, z=280.50] died: Britney was slain by Zombie
 [07Sep2025 07:41:02.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Exorcism]
+[07Sep2025 07:49:57.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Claudia'/42005, l='ServerLevel[world]', x=299.70, y=59.00, z=282.47] died, message: 'Claudia was slain by Zombie'
+[07Sep2025 07:49:57.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Claudia'/42005, l='ServerLevel[world]', x=299.70, y=59.00, z=282.47] died: Claudia was slain by Zombie
+[07Sep2025 07:52:13.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Merlene'/59984, l='ServerLevel[world]', x=303.48, y=65.00, z=278.77] died, message: 'Merlene suffocated in a wall'
+[07Sep2025 07:52:13.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Merlene'/59984, l='ServerLevel[world]', x=303.48, y=65.00, z=278.77] died: Merlene suffocated in a wall

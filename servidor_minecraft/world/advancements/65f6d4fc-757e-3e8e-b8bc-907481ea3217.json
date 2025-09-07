@@ -4261,6 +4261,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-09-07 04:39:08 +0000"
@@ -4343,6 +4355,12 @@
   "corn_delight:recipes/corn_delight/tortilla_raw": {
     "criteria": {
       "has_corn": "2025-09-07 07:24:51 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -4490,6 +4508,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-09-07 04:39:17 +0000"
@@ -4556,6 +4580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-09-07 03:40:11 +0000"
@@ -4571,6 +4601,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -4620,6 +4656,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-09-07 05:23:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -4785,6 +4827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-09-07 03:41:58 +0000"
@@ -4833,6 +4881,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
@@ -4842,6 +4914,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-09-07 04:39:08 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -4890,6 +4968,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-09-07 07:12:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5013,6 +5097,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:09:27 +0000"
@@ -5022,6 +5112,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-09-07 07:12:26 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5082,6 +5178,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-09-07 05:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5151,6 +5253,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mangrove_stairs": {
     "criteria": {
       "has_planks": "2025-09-07 07:09:27 +0000"
@@ -5178,6 +5292,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5331,6 +5451,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-09-07 05:24:35 +0000"
@@ -5364,6 +5490,12 @@
   "sophisticatedbackpacks:recipes/misc/alchemy_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-07 05:23:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5487,6 +5619,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 04:12:41 +0000"
@@ -5541,6 +5679,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-09-07 03:48:22 +0000"
@@ -5550,6 +5694,12 @@
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_planks": "2025-09-07 07:09:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5685,9 +5835,27 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/mangrove_button": {
     "criteria": {
       "has_planks": "2025-09-07 07:09:27 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
@@ -5766,6 +5934,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-07 07:50:14 +0000"
     },
     "done": true
   },
