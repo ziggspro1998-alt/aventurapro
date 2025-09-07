@@ -2393,6 +2393,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "huntingpost": "2025-09-04 02:47:23 +0000",
+      "blueprinttable": "2025-09-07 06:39:20 +0000",
       "oceanographytable": "2025-09-04 17:11:30 +0000",
       "fletchingtable": "2025-09-04 02:46:06 +0000",
       "brewingstand": "2025-09-04 03:04:07 +0000",
