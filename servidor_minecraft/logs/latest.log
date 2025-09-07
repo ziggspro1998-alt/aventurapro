@@ -5997,3 +5997,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Sep2025 03:38:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Into Fire]
 [07Sep2025 03:41:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Penteconter]
 [07Sep2025 03:48:22.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Fool's Folly]
+[07Sep2025 03:53:21.300] [Timer-0/WARN] [com.cupboard.Cupboard/]: A mod is trying to add an entity from offthread, this should be avoided. Printing trace:
+java.lang.Exception: null
+	at net.minecraft.server.level.ServerLevel.handler$zhm000$OnaddEntity(ServerLevel.java:1656) ~[server-1.20.1-20230612.114412-srg.jar%23439!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8872_(ServerLevel.java) ~[server-1.20.1-20230612.114412-srg.jar%23439!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7967_(ServerLevel.java:815) ~[server-1.20.1-20230612.114412-srg.jar%23439!/:?]
+	at net.acetheeldritchking.cataclysm_spellbooks.spells.fire.CometShowerSpell$1.run(CometShowerSpell.java:73) ~[cataclysm_spellbooks-1.2.2-1.20.1-all.jar%23297!/:1.2.2-1.20.1]
+	at java.util.TimerThread.mainLoop(Timer.java:566) ~[?:?]
+	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
+[07Sep2025 03:53:32.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hot Stuff]
+[07Sep2025 04:05:13.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gary'/4955, l='ServerLevel[world]', x=302.25, y=72.00, z=307.06] died, message: 'Gary burned to death'
+[07Sep2025 04:05:13.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gary'/4955, l='ServerLevel[world]', x=302.25, y=72.00, z=307.06] died: Gary burned to death
+[07Sep2025 04:05:30.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Retha'/7193, l='ServerLevel[world]', x=297.96, y=72.00, z=296.13] died, message: 'Retha tried to swim in lava'
+[07Sep2025 04:05:30.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Retha'/7193, l='ServerLevel[world]', x=297.96, y=72.00, z=296.13] died: Retha tried to swim in lava
+[07Sep2025 04:05:55.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Buddy'/7095, l='ServerLevel[world]', x=277.33, y=71.00, z=289.78] died, message: 'Buddy burned to death'
+[07Sep2025 04:05:55.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Buddy'/7095, l='ServerLevel[world]', x=277.33, y=71.00, z=289.78] died: Buddy burned to death

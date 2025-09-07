@@ -2955,7 +2955,8 @@
     "criteria": {
       "toolsmith": "2025-09-04 03:33:01 +0000",
       "fletcher": "2025-09-04 03:06:31 +0000",
-      "librarian": "2025-09-04 22:19:47 +0000"
+      "librarian": "2025-09-04 22:19:47 +0000",
+      "farmer": "2025-09-07 04:00:18 +0000"
     },
     "done": false
   },
@@ -4281,9 +4282,27 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-07 03:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-09-07 03:40:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "brown_mushroom": "2025-09-07 04:02:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-07 03:53:32 +0000"
     },
     "done": true
   },
@@ -4362,6 +4381,12 @@
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-09-07 03:30:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-09-07 03:48:22 +0000"
     },
     "done": true
   },
