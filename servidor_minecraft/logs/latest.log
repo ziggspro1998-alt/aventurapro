@@ -6174,3 +6174,40 @@ java.lang.Exception: null
 [07Sep2025 09:33:36.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Junior Summoner]
 [07Sep2025 09:36:41.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [07Sep2025 09:41:57.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sneak 100]
+[07Sep2025 09:54:55.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Arachnophobe's Nightmare]
+[07Sep2025 10:03:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Mutant Creeper
+[07Sep2025 10:03:08.921] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(272, 12, 21) minecraft:overworld
+[07Sep2025 10:04:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro fell from a high place
+[07Sep2025 10:05:41.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 7.58509006882457,-10.0,0.22950749948955362
+[07Sep2025 10:05:42.127] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:05:42.127] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:05:42.127] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[07Sep2025 10:05:42.127] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 10:05:42.127] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:05:42.128] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:05:42.128] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 10:05:42.128] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:05:42.128] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:05:42.129] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:06:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[07Sep2025 10:06:20.118] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(288, 11, 26) minecraft:overworld
+[07Sep2025 10:06:54.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Zombie
+[07Sep2025 10:07:23.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Zombie
+[07Sep2025 10:08:25.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 13.300000011920929,-5.0,4.300000011920929
+[07Sep2025 10:08:28.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Skeleton
+[07Sep2025 10:08:28.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(287, 11, 27) minecraft:overworld
+[07Sep2025 10:10:46.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 8.838593327406329,-5.0,5.6464560921515385
+[07Sep2025 10:10:53.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Zombie
+[07Sep2025 10:10:53.580] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(287, 11, 27) minecraft:overworld
+[07Sep2025 10:11:16.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 9.65160883935431,-5.0,4.699999988079071
+[07Sep2025 10:11:19.425] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:11:19.425] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:11:19.425] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[07Sep2025 10:11:19.425] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 10:11:19.426] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:11:19.426] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 10:11:19.426] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 10:11:19.426] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:11:19.427] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:11:19.427] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 10:13:50.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Quincy'/93377, l='ServerLevel[world]', x=268.65, y=22.00, z=20.10] died: Quincy was slain by nasusperro
