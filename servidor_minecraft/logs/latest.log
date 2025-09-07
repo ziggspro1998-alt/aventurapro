@@ -6049,3 +6049,12 @@ java.lang.Exception: null
 [07Sep2025 06:18:03.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [07Sep2025 06:18:03.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [07Sep2025 06:18:03.288] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 06:25:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Horror Under the Mantle]
+[07Sep2025 06:26:35.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armando'/42536, l='ServerLevel[world]', x=293.30, y=59.00, z=284.50] died, message: 'Armando was slain by Zombie Villager'
+[07Sep2025 06:26:35.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Armando'/42536, l='ServerLevel[world]', x=293.30, y=59.00, z=284.50] died: Armando was slain by Zombie Villager
+[07Sep2025 06:27:48.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rina'/42006, l='ServerLevel[world]', x=293.30, y=59.00, z=286.51] died, message: 'Rina was slain by Zombie Villager'
+[07Sep2025 06:27:48.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rina'/42006, l='ServerLevel[world]', x=293.30, y=59.00, z=286.51] died: Rina was slain by Zombie Villager
+[07Sep2025 06:28:44.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lora'/42307, l='ServerLevel[world]', x=293.30, y=59.00, z=282.50] died, message: 'Lora was slain by Zombie Villager'
+[07Sep2025 06:28:44.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lora'/42307, l='ServerLevel[world]', x=293.30, y=59.00, z=282.50] died: Lora was slain by Zombie Villager
+[07Sep2025 06:29:02.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jeanetta'/42271, l='ServerLevel[world]', x=293.30, y=59.00, z=280.51] died, message: 'Jeanetta was slain by Zombie Villager'
+[07Sep2025 06:29:02.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jeanetta'/42271, l='ServerLevel[world]', x=293.30, y=59.00, z=280.51] died: Jeanetta was slain by Zombie Villager
