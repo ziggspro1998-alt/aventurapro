@@ -6078,3 +6078,9 @@ java.lang.Exception: null
 [07Sep2025 06:58:47.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Royal'/41976, l='ServerLevel[world]', x=299.70, y=59.00, z=284.50] died: Royal was slain by Zombie
 [07Sep2025 07:00:01.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Neville'/41986, l='ServerLevel[world]', x=299.80, y=72.74, z=304.25] died, message: 'Neville tried to swim in lava'
 [07Sep2025 07:00:01.815] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Neville'/41986, l='ServerLevel[world]', x=299.80, y=72.74, z=304.25] died: Neville tried to swim in lava
+[07Sep2025 07:08:29.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Plant Food]
+[07Sep2025 07:15:12.920] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Malik'/41987, l='ServerLevel[world]', x=299.70, y=59.00, z=286.51] died, message: 'Malik was slain by Zombie'
+[07Sep2025 07:15:12.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Malik'/41987, l='ServerLevel[world]', x=299.70, y=59.00, z=286.51] died: Malik was slain by Zombie
+[07Sep2025 07:15:53.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/41977, l='ServerLevel[world]', x=306.54, y=72.00, z=306.39] died, message: 'Golem Healer was slain by nasusperro'
+[07Sep2025 07:15:53.275] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/41977, l='ServerLevel[world]', x=306.54, y=72.00, z=306.39] died: Golem Healer was slain by nasusperro
+[07Sep2025 07:19:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Seedy Place]
