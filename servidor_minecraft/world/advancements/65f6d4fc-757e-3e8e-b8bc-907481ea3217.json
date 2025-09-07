@@ -6194,5 +6194,17 @@
     },
     "done": true
   },
+  "corn_delight:tortilla": {
+    "criteria": {
+      "item": "2025-09-07 22:35:22 +0000"
+    },
+    "done": true
+  },
+  "corn_delight:recipes/corn_delight/taco": {
+    "criteria": {
+      "has_tortilla": "2025-09-07 22:35:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
