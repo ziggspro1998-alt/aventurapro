@@ -4974,6 +4974,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-07 09:19:34 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/mangrove_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:09:27 +0000"
@@ -5766,6 +5772,12 @@
     },
     "done": true
   },
+  "gnumus:fragile_but_effective": {
+    "criteria": {
+      "fragile_but_effective": "2025-09-07 09:21:37 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/mangrove_barrel": {
     "criteria": {
       "has_mangrove_plank": "2025-09-07 07:09:27 +0000"
@@ -6015,6 +6027,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-07 05:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-07 09:19:34 +0000"
     },
     "done": true
   },
