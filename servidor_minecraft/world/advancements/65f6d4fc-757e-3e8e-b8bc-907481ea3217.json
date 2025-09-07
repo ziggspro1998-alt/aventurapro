@@ -3049,6 +3049,7 @@
       "minecraft:vindicator": "2025-09-04 17:25:30 +0000",
       "minecraft:spider": "2025-09-04 17:06:00 +0000",
       "minecraft:creeper": "2025-09-04 17:42:27 +0000",
+      "minecraft:slime": "2025-09-07 10:31:16 +0000",
       "minecraft:witch": "2025-09-06 18:51:08 +0000",
       "minecraft:zombie": "2025-09-04 17:32:18 +0000",
       "minecraft:zombie_villager": "2025-09-04 17:27:24 +0000"
@@ -4716,6 +4717,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2025-09-07 10:28:34 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:12:26 +0000"
@@ -5076,6 +5083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-07 10:31:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-09-07 05:14:35 +0000"
@@ -5268,9 +5281,21 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-09-07 10:28:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-09-07 05:23:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-09-07 10:31:17 +0000"
     },
     "done": true
   },
@@ -5508,6 +5533,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-09-07 10:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-09-07 07:12:26 +0000"
@@ -5571,6 +5602,12 @@
   "sophisticatedstorage:recipes/misc/copper_to_gold_tier_upgrade": {
     "criteria": {
       "has_copper_to_iron_tier_upgrade": "2025-09-07 07:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-07 10:31:17 +0000"
     },
     "done": true
   },
@@ -5748,6 +5785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-07 10:31:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
     "criteria": {
       "has_smelting_upgrade": "2025-09-07 05:23:33 +0000"
@@ -5772,6 +5815,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-09-07 10:28:34 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:50:14 +0000"
@@ -5787,6 +5836,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-09-07 05:06:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-09-07 10:28:34 +0000"
     },
     "done": true
   },
@@ -6033,6 +6088,12 @@
   "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-09-07 10:28:34 +0000"
     },
     "done": true
   },
