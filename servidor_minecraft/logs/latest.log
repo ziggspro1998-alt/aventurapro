@@ -6012,3 +6012,8 @@ java.lang.Exception: null
 [07Sep2025 04:05:30.471] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Retha'/7193, l='ServerLevel[world]', x=297.96, y=72.00, z=296.13] died: Retha tried to swim in lava
 [07Sep2025 04:05:55.067] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Buddy'/7095, l='ServerLevel[world]', x=277.33, y=71.00, z=289.78] died, message: 'Buddy burned to death'
 [07Sep2025 04:05:55.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Buddy'/7095, l='ServerLevel[world]', x=277.33, y=71.00, z=289.78] died: Buddy burned to death
+[07Sep2025 04:38:16.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Priscilla'/7192, l='ServerLevel[world]', x=256.55, y=71.00, z=276.85] died, message: 'Priscilla burned to death'
+[07Sep2025 04:38:16.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Priscilla'/7192, l='ServerLevel[world]', x=256.55, y=71.00, z=276.85] died: Priscilla burned to death
+[07Sep2025 04:38:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Surge Protector]
+[07Sep2025 04:39:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dark Creator]
+[07Sep2025 04:39:17.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Senior Summoner]
