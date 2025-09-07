@@ -4308,6 +4308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-07 05:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-09-07 03:38:12 +0000"
@@ -4371,6 +4377,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "brown_mushroom": "2025-09-07 04:02:01 +0000",
+      "sugar_cane": "2025-09-07 05:07:15 +0000",
       "potato": "2025-09-07 04:18:57 +0000",
       "carrot": "2025-09-07 04:19:03 +0000"
     },
@@ -4463,6 +4470,12 @@
   "expanded_combat:recipes/combat/birch_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 05:14:35 +0000"
     },
     "done": true
   },
@@ -4703,6 +4716,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-09-07 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-07 05:14:35 +0000"
     },
     "done": true
   },
