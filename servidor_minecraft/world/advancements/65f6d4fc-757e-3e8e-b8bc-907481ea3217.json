@@ -4460,6 +4460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-07 04:51:21 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-09-07 04:39:09 +0000"
@@ -4514,6 +4520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-07 04:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-09-07 04:39:08 +0000"
@@ -4535,6 +4547,12 @@
   "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
     "criteria": {
       "has_blaze_rod": "2025-09-07 03:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-07 04:51:21 +0000"
     },
     "done": true
   },
@@ -4613,6 +4631,12 @@
   "expanded_combat:recipes/combat/birch_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-07 04:51:21 +0000"
     },
     "done": true
   },
