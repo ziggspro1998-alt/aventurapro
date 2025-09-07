@@ -4610,6 +4610,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-07 08:00:22 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/jungle_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:12:26 +0000"
@@ -4620,6 +4626,7 @@
     "criteria": {
       "cabbage": "2025-09-07 07:20:18 +0000",
       "onion": "2025-09-07 07:24:09 +0000",
+      "tomato": "2025-09-07 08:00:52 +0000",
       "beetroot": "2025-09-07 07:20:13 +0000",
       "brown_mushroom": "2025-09-07 04:02:01 +0000",
       "sugar_cane": "2025-09-07 05:07:15 +0000",
@@ -4794,6 +4801,12 @@
   "sophisticatedstorage:recipes/misc/storage_input": {
     "criteria": {
       "has_base_tier_wooden_storage": "2025-09-07 07:29:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-09-07 08:00:22 +0000"
     },
     "done": true
   },
@@ -5361,6 +5374,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-07 07:54:44 +0000"
+    },
+    "done": true
+  },
   "corn_delight:recipes/corn_delight/corn_from_crate": {
     "criteria": {
       "has_corn": "2025-09-07 07:24:51 +0000"
@@ -5853,9 +5872,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-09-07 08:00:22 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-09-07 08:00:22 +0000"
     },
     "done": true
   },
@@ -5898,6 +5929,12 @@
   "expanded_combat:recipes/combat/jungle_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 07:12:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-09-07 08:00:07 +0000"
     },
     "done": true
   },
@@ -5952,6 +5989,12 @@
   "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2025-09-07 07:29:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-09-07 07:54:44 +0000"
     },
     "done": true
   },
