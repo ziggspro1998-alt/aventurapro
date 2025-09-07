@@ -6098,3 +6098,72 @@ java.lang.Exception: null
 [07Sep2025 07:57:08.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Britney'/62673, l='ServerLevel[world]', x=299.70, y=59.00, z=280.50] died: Britney was slain by Zombie
 [07Sep2025 08:01:08.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kenna'/61879, l='ServerLevel[world]', x=304.70, y=65.00, z=278.45] died, message: 'Kenna suffocated in a wall'
 [07Sep2025 08:01:08.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kenna'/61879, l='ServerLevel[world]', x=304.70, y=65.00, z=278.45] died: Kenna suffocated in a wall
+[07Sep2025 08:14:41.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rina'/52108, l='ServerLevel[world]', x=293.30, y=59.00, z=286.50] died, message: 'Rina was slain by Zombie Villager'
+[07Sep2025 08:14:41.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rina'/52108, l='ServerLevel[world]', x=293.30, y=59.00, z=286.50] died: Rina was slain by Zombie Villager
+[07Sep2025 08:15:25.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[07Sep2025 08:15:25.926] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(274, 71, 302) minecraft:overworld
+[07Sep2025 08:15:45.803] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:15:45.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:15:45.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[07Sep2025 08:15:45.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 08:15:45.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:15:45.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:15:45.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 08:15:45.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:15:45.805] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:15:45.806] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:16:37.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[07Sep2025 08:16:37.716] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(275, 71, 302) minecraft:overworld
+[07Sep2025 08:16:50.754] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:16:50.754] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:16:50.754] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[07Sep2025 08:16:50.754] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 08:16:50.754] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:16:50.755] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:16:50.755] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 08:16:50.755] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:16:50.755] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:16:50.755] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:17:10.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[07Sep2025 08:17:10.666] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(273, 71, 302) minecraft:overworld
+[07Sep2025 08:17:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[07Sep2025 08:17:35.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[07Sep2025 08:17:42.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:17:42.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:17:42.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[07Sep2025 08:17:42.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 08:17:42.096] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:17:42.097] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:17:42.097] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 08:17:42.097] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:17:42.097] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:17:42.098] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:18:23.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[07Sep2025 08:18:23.917] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(224, 73, 293) minecraft:overworld
+[07Sep2025 08:19:09.101] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:19:09.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:19:09.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[07Sep2025 08:19:09.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 08:19:09.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:19:09.102] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:19:09.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 08:19:09.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:19:09.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:19:09.103] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:19:56.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro withered away
+[07Sep2025 08:19:56.164] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(247, 71, 309) minecraft:overworld
+[07Sep2025 08:19:56.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[07Sep2025 08:19:56.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[07Sep2025 08:19:56.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[07Sep2025 08:19:56.193] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[07Sep2025 08:19:56.194] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[07Sep2025 08:20:06.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:20:06.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:20:06.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[07Sep2025 08:20:06.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[07Sep2025 08:20:06.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:20:06.197] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[07Sep2025 08:20:06.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[07Sep2025 08:20:06.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:20:06.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[07Sep2025 08:20:06.198] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
