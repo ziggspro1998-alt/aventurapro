@@ -6025,3 +6025,5 @@ java.lang.Exception: null
 [07Sep2025 05:41:52.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/64, l='ServerLevel[world]', x=258.50, y=69.50, z=136.05] died, message: 'Golem Healer was slain by Kendall'
 [07Sep2025 05:41:52.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/64, l='ServerLevel[world]', x=258.50, y=69.50, z=136.05] died: Golem Healer was slain by Kendall
 [07Sep2025 05:41:56.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[07Sep2025 05:43:14.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vina'/63, l='ServerLevel[world]', x=287.89, y=88.00, z=82.81] died, message: 'Vina was slain by Kendall'
+[07Sep2025 05:43:14.469] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vina'/63, l='ServerLevel[world]', x=287.89, y=88.00, z=82.81] died: Vina was slain by Kendall

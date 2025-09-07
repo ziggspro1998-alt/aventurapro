@@ -4971,6 +4971,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-09-07 05:41:58 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-07 04:12:41 +0000"
