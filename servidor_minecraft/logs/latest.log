@@ -6018,3 +6018,10 @@ java.lang.Exception: null
 [07Sep2025 04:39:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dark Creator]
 [07Sep2025 04:39:17.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Senior Summoner]
 [07Sep2025 04:59:51.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dinner's Served!]
+[07Sep2025 05:34:43.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kendall'/66, l='ServerLevel[world]', x=223.65, y=75.38, z=139.30] died, message: 'Kendall was slain by Mutant Zombie'
+[07Sep2025 05:34:43.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kendall'/66, l='ServerLevel[world]', x=223.65, y=75.38, z=139.30] died: Kendall was slain by Mutant Zombie
+[07Sep2025 05:38:06.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Filiberto'/52, l='ServerLevel[world]', x=253.50, y=70.00, z=119.07] died, message: 'Filiberto was slain by Kendall'
+[07Sep2025 05:38:06.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Filiberto'/52, l='ServerLevel[world]', x=253.50, y=70.00, z=119.07] died: Filiberto was slain by Kendall
+[07Sep2025 05:41:52.120] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/64, l='ServerLevel[world]', x=258.50, y=69.50, z=136.05] died, message: 'Golem Healer was slain by Kendall'
+[07Sep2025 05:41:52.121] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/64, l='ServerLevel[world]', x=258.50, y=69.50, z=136.05] died: Golem Healer was slain by Kendall
+[07Sep2025 05:41:56.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
