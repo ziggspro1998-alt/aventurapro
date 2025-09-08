@@ -6039,3 +6039,14 @@ java.lang.Exception: null
 [08Sep2025 04:57:38.648] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [08Sep2025 04:57:38.648] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
 [08Sep2025 04:58:52.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Gnumus Hunter
+[08Sep2025 05:04:51.449] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 05:04:51.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 05:04:51.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[08Sep2025 05:04:51.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[08Sep2025 05:04:51.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 05:04:51.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 05:04:51.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[08Sep2025 05:04:51.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[08Sep2025 05:04:51.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[08Sep2025 05:04:51.451] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[08Sep2025 05:04:51.452] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

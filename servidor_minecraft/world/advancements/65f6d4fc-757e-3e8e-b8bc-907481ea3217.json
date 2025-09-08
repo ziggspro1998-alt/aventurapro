@@ -811,6 +811,7 @@
     "criteria": {
       "cooked_porkchop": "2025-09-07 07:04:51 +0000",
       "suspicious_stew": "2025-09-04 17:34:01 +0000",
+      "cooked_mutton": "2025-09-08 05:08:03 +0000",
       "tropical_fish": "2025-09-07 03:29:42 +0000",
       "cooked_cod": "2025-09-08 04:47:39 +0000",
       "bread": "2025-09-04 03:15:17 +0000",
@@ -6287,6 +6288,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-08 05:07:58 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2025-09-08 02:00:49 +0000"
@@ -6296,6 +6303,12 @@
   "collectorsreap:recipes/food/mint_limeade": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-08 05:07:58 +0000"
     },
     "done": true
   },
@@ -6416,6 +6429,12 @@
   "collectorsreap:recipes/food/limeade": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-08 05:07:58 +0000"
     },
     "done": true
   },
