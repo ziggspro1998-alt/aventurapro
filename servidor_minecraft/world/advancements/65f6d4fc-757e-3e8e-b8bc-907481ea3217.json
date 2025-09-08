@@ -6212,6 +6212,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-09-08 03:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-08 03:47:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-09-08 02:05:33 +0000"
@@ -6223,6 +6235,12 @@
       "squireofthe_dark_lord_6": "2025-09-08 02:00:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-08 03:47:51 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
