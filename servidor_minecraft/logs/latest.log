@@ -6010,3 +6010,4 @@ java.lang.Exception: null
 [08Sep2025 02:09:26.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ronald'/5790, l='ServerLevel[world]', x=293.30, y=59.00, z=278.51] died: Ronald was slain by Zombie Villager
 [08Sep2025 02:10:56.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fermin'/5779, l='ServerLevel[world]', x=299.70, y=59.00, z=288.49] died, message: 'Fermin was slain by Zombie'
 [08Sep2025 02:10:56.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fermin'/5779, l='ServerLevel[world]', x=299.70, y=59.00, z=288.49] died: Fermin was slain by Zombie
+[08Sep2025 02:23:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Pic-A-Nic Basket?]
