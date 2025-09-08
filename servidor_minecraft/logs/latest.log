@@ -6004,3 +6004,9 @@ java.lang.Exception: null
 	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
 [08Sep2025 02:00:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Pumpkin Sir]
 [08Sep2025 02:05:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Best Friends Forever]
+[08Sep2025 02:09:00.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sherman'/5791, l='ServerLevel[world]', x=299.70, y=59.00, z=278.51] died, message: 'Sherman was slain by Zombie'
+[08Sep2025 02:09:00.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sherman'/5791, l='ServerLevel[world]', x=299.70, y=59.00, z=278.51] died: Sherman was slain by Zombie
+[08Sep2025 02:09:26.589] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ronald'/5790, l='ServerLevel[world]', x=293.30, y=59.00, z=278.51] died, message: 'Ronald was slain by Zombie Villager'
+[08Sep2025 02:09:26.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ronald'/5790, l='ServerLevel[world]', x=293.30, y=59.00, z=278.51] died: Ronald was slain by Zombie Villager
+[08Sep2025 02:10:56.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fermin'/5779, l='ServerLevel[world]', x=299.70, y=59.00, z=288.49] died, message: 'Fermin was slain by Zombie'
+[08Sep2025 02:10:56.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fermin'/5779, l='ServerLevel[world]', x=299.70, y=59.00, z=288.49] died: Fermin was slain by Zombie
