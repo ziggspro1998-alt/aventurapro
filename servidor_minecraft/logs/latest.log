@@ -6012,3 +6012,4 @@ java.lang.Exception: null
 [08Sep2025 02:10:56.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fermin'/5779, l='ServerLevel[world]', x=299.70, y=59.00, z=288.49] died: Fermin was slain by Zombie
 [08Sep2025 02:23:39.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Pic-A-Nic Basket?]
 [08Sep2025 02:44:58.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[08Sep2025 03:13:11.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
