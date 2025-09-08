@@ -6031,3 +6031,11 @@ java.lang.Exception: null
 [08Sep2025 04:14:29.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ghost! Ghost! Toast?]
 [08Sep2025 04:17:16.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Tunnel Treasures]
 [08Sep2025 04:19:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hide and Seek]
+[08Sep2025 04:57:38.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Zombie Lumberjack
+[08Sep2025 04:57:38.637] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(537, -7, -135) minecraft:overworld
+[08Sep2025 04:57:38.647] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Sep2025 04:57:38.648] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[08Sep2025 04:57:38.648] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[08Sep2025 04:57:38.648] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[08Sep2025 04:57:38.648] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 3 | client: 3
+[08Sep2025 04:58:52.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Gnumus Hunter
