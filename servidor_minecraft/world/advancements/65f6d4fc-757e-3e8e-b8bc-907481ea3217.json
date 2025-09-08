@@ -1080,7 +1080,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-09-04 17:28:41 +0000",
-      "opened_chest": "2025-09-04 02:02:42 +0000"
+      "opened_chest": "2025-09-04 02:02:42 +0000",
+      "opened_cart": "2025-09-08 04:17:16 +0000"
     },
     "done": false
   },
@@ -6206,9 +6207,21 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/lime_seeds_from_lime": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-09-08 03:18:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-09-08 04:17:16 +0000"
     },
     "done": true
   },
@@ -6218,9 +6231,39 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/mediterranean_salmon": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_pie": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/berry_limeade": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-09-08 03:47:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-08 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/deluxe_salad": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
@@ -6236,9 +6279,39 @@
     },
     "done": false
   },
+  "collectorsreap:recipes/food/mint_limeade": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-09-08 03:47:51 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_ice_cream": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-08 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-09-08 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_cookie": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
@@ -6254,9 +6327,33 @@
     },
     "done": false
   },
+  "collectorsreap:recipes/food/pink_limeade": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-09-08 04:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-08 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/lime_crate": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/salmon_tartare": {
+    "criteria": {
+      "has_citrus": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
@@ -6266,9 +6363,39 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/potato_fritters": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-09-08 02:23:39 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/limeade": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/cod_ceviche": {
+    "criteria": {
+      "has_citrus": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/lime_cake": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/food/honey_lime_chicken": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
