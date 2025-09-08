@@ -6017,3 +6017,14 @@ java.lang.Exception: null
 [08Sep2025 03:47:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Alex's Caves]
 [08Sep2025 03:55:07.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Mutant Zombie
 [08Sep2025 03:55:07.195] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(691, -8, -159) minecraft:overworld
+[08Sep2025 03:59:35.396] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 03:59:35.397] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 03:59:35.397] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 lightning_echo
+[08Sep2025 03:59:35.397] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[08Sep2025 03:59:35.398] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 03:59:35.398] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[08Sep2025 03:59:35.398] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[08Sep2025 03:59:35.398] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[08Sep2025 03:59:35.399] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[08Sep2025 03:59:35.399] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[08Sep2025 04:00:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bypassing the Expiration Date]
