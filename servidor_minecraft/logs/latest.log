@@ -6015,3 +6015,5 @@ java.lang.Exception: null
 [08Sep2025 03:13:11.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [08Sep2025 03:18:34.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Big Boy]
 [08Sep2025 03:47:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Alex's Caves]
+[08Sep2025 03:55:07.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Mutant Zombie
+[08Sep2025 03:55:07.195] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(691, -8, -159) minecraft:overworld
