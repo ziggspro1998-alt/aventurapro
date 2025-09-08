@@ -6002,3 +6002,5 @@ java.lang.Exception: null
 	at net.acetheeldritchking.cataclysm_spellbooks.spells.fire.CometShowerSpell$1.run(CometShowerSpell.java:73) ~[cataclysm_spellbooks-1.2.2-1.20.1-all.jar%23297!/:1.2.2-1.20.1]
 	at java.util.TimerThread.mainLoop(Timer.java:566) ~[?:?]
 	at java.util.TimerThread.run(Timer.java:516) ~[?:?]
+[08Sep2025 02:00:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Pumpkin Sir]
+[08Sep2025 02:05:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Best Friends Forever]
