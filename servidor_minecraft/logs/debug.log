@@ -13789,3 +13789,7 @@ java.lang.Exception: null
 [08Sep2025 02:43:26.289] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/60, l='ServerLevel[world]', x=649.39, y=52.00, z=-359.47], mainHand=1 pumpkinstaffa, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:firebolt, rarity=EPIC, level=8.0, minLevelRarity=8.0, manaCost=24.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=1.0, expectedTicks=1.0}]
 [08Sep2025 02:43:55.862] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
 [08Sep2025 02:44:58.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[08Sep2025 02:48:10.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 02:48:10.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Sep2025 02:53:09.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Sep2025 02:53:09.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
