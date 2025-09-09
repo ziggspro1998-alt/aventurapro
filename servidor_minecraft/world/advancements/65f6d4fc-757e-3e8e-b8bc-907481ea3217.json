@@ -6210,9 +6210,39 @@
     },
     "done": true
   },
-  "collectorsreap:recipes/lime_seeds_from_lime": {
+  "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
-      "has_lime": "2025-09-08 04:17:26 +0000"
+      "pumpkin_sir_0": "2025-09-08 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-09-08 02:00:49 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-09-08 02:01:56 +0000",
+      "trickor_treat_2": "2025-09-08 02:01:56 +0000",
+      "trickor_treat_3": "2025-09-08 02:01:56 +0000",
+      "trickor_treat_4": "2025-09-08 02:01:56 +0000",
+      "trickor_treat_5": "2025-09-08 02:01:56 +0000",
+      "trickor_treat_6": "2025-09-08 02:01:56 +0000",
+      "trickor_treat_7": "2025-09-08 02:01:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-08 02:05:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-08 02:23:39 +0000"
     },
     "done": true
   },
@@ -6222,15 +6252,15 @@
     },
     "done": true
   },
-  "lootr:1cart": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "opened_cart": "2025-09-08 04:17:16 +0000"
+      "has_stripped_logs": "2025-09-08 03:47:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+      "has_log": "2025-09-08 03:47:51 +0000"
     },
     "done": true
   },
@@ -6240,15 +6270,51 @@
     },
     "done": true
   },
-  "collectorsreap:recipes/food/mediterranean_salmon": {
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-09-08 04:00:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ghostly_pickaxe": {
+    "criteria": {
+      "ghostly_pickaxe": "2025-09-08 04:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-08 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-08 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-08 04:16:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-09-08 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "collectorsreap:recipes/lime_seeds_from_lime": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+  "collectorsreap:recipes/food/mediterranean_salmon": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+      "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
@@ -6264,57 +6330,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-09-08 03:47:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-09-08 04:16:22 +0000"
-    },
-    "done": true
-  },
   "collectorsreap:recipes/food/deluxe_salad": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-09-08 02:05:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-09-08 05:07:58 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2025-09-08 02:00:49 +0000"
-    },
-    "done": false
-  },
   "collectorsreap:recipes/food/mint_limeade": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-09-08 05:07:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-09-08 03:47:51 +0000"
     },
     "done": true
   },
@@ -6324,63 +6348,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-09-08 04:16:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
-    "criteria": {
-      "ghostly_pickaxe": "2025-09-08 04:14:29 +0000"
-    },
-    "done": true
-  },
   "collectorsreap:recipes/food/lime_cookie": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:trickor_treat": {
-    "criteria": {
-      "trickor_treat_0": "2025-09-08 02:01:56 +0000",
-      "trickor_treat_2": "2025-09-08 02:01:56 +0000",
-      "trickor_treat_3": "2025-09-08 02:01:56 +0000",
-      "trickor_treat_4": "2025-09-08 02:01:56 +0000",
-      "trickor_treat_5": "2025-09-08 02:01:56 +0000",
-      "trickor_treat_6": "2025-09-08 02:01:56 +0000",
-      "trickor_treat_7": "2025-09-08 02:01:56 +0000"
-    },
-    "done": false
-  },
   "collectorsreap:recipes/food/pink_limeade": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bypassingthe_expiration_date": {
-    "criteria": {
-      "bypassingthe_expiration_date_0": "2025-09-08 04:00:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-09-08 04:16:22 +0000"
     },
     "done": true
   },
@@ -6396,45 +6372,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
-    "criteria": {
-      "pumpkin_sir_0": "2025-09-08 02:00:47 +0000"
-    },
-    "done": true
-  },
   "collectorsreap:recipes/food/potato_fritters": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/complete_hide_and_seek_game": {
-    "criteria": {
-      "friendsandfoes:complete_hide_and_seek_game": "2025-09-08 04:19:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-09-08 02:23:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
-    },
-    "done": true
-  },
   "collectorsreap:recipes/food/limeade": {
     "criteria": {
       "has_lime": "2025-09-08 04:17:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-09-08 05:07:58 +0000"
     },
     "done": true
   },
@@ -6450,15 +6396,69 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/honey_lime_chicken": {
+    "criteria": {
+      "has_lime": "2025-09-08 04:17:26 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-09-08 04:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-08 04:52:53 +0000"
     },
     "done": true
   },
-  "collectorsreap:recipes/food/honey_lime_chicken": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_lime": "2025-09-08 04:17:26 +0000"
+      "has_mutton": "2025-09-08 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-08 05:07:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-08 05:07:58 +0000"
     },
     "done": true
   },
