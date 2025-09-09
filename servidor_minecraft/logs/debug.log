@@ -16462,3 +16462,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Sep2025 23:16:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Mine? Mine? Mine?]
 [09Sep2025 23:17:12.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
 [09Sep2025 23:17:12.365] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[09Sep2025 23:17:32.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
+[09Sep2025 23:17:39.138] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_blacksmith_loot
+[09Sep2025 23:17:43.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Acquire Hardware]
+[09Sep2025 23:17:59.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
+[09Sep2025 23:19:10.236] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[09Sep2025 23:19:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Monster Hunter]
+[09Sep2025 23:20:23.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Sep2025 23:20:23.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Sep2025 23:22:07.402] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[09Sep2025 23:23:05.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Getting an Upgrade]
+[09Sep2025 23:25:23.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Sep2025 23:25:23.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
