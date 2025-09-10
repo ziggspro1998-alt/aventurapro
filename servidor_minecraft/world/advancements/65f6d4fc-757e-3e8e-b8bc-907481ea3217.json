@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-10 04:26:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:26:21 +0000"
@@ -724,6 +730,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-09-10 04:27:04 +0000"
     },
     "done": true
   },
@@ -1364,6 +1376,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-09-10 04:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -1469,6 +1487,12 @@
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-09-10 04:28:13 +0000"
     },
     "done": true
   },
@@ -1865,6 +1889,12 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-09-10 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-09-10 04:23:09 +0000"
     },
     "done": true
   },
@@ -3378,6 +3408,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-09-10 04:22:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-09-10 02:17:45 +0000"
@@ -3717,6 +3753,12 @@
   "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-09-10 04:28:13 +0000"
     },
     "done": true
   },
