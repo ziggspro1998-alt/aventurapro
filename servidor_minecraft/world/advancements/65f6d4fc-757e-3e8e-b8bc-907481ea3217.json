@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-10 04:57:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-09-10 02:26:21 +0000"
@@ -569,10 +575,12 @@
       "minecraft:skeleton": "2025-09-10 02:57:08 +0000",
       "minecraft:ravager": "2025-09-10 03:51:00 +0000",
       "minecraft:vindicator": "2025-09-10 04:01:23 +0000",
+      "minecraft:spider": "2025-09-10 05:08:48 +0000",
       "minecraft:creeper": "2025-09-10 03:43:43 +0000",
       "minecraft:evoker": "2025-09-10 03:51:14 +0000",
       "minecraft:vex": "2025-09-10 03:46:17 +0000",
       "minecraft:zombie": "2025-09-10 03:12:35 +0000",
+      "minecraft:drowned": "2025-09-10 04:58:12 +0000",
       "minecraft:zombie_villager": "2025-09-10 03:02:05 +0000"
     },
     "done": false
@@ -646,6 +654,12 @@
   "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-09-10 04:41:57 +0000"
     },
     "done": true
   },
@@ -1093,6 +1107,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 04:43:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-09-10 02:54:58 +0000"
@@ -1193,6 +1213,12 @@
   "bakery:recipes/faucet": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-10 04:41:32 +0000"
     },
     "done": true
   },
@@ -1688,6 +1714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-09-10 04:41:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-09-10 02:16:49 +0000"
@@ -1715,6 +1747,12 @@
   "goldenhopper:recipes/transportation/golden_hopper_minecart": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-10 04:41:32 +0000"
     },
     "done": true
   },
@@ -1766,6 +1804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-10 04:48:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 03:45:38 +0000"
@@ -1775,6 +1819,12 @@
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-09-10 02:31:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-10 04:55:53 +0000"
     },
     "done": true
   },
@@ -2018,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-09-10 04:41:57 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -2030,6 +2086,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-10 04:43:15 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/small_cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -2039,6 +2101,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-10 02:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-09-10 04:54:47 +0000"
     },
     "done": true
   },
@@ -2843,6 +2911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-10 04:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -2852,6 +2926,12 @@
   "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-10 04:43:46 +0000"
     },
     "done": true
   },
@@ -3210,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-10 05:08:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-09-10 02:48:46 +0000"
@@ -3270,6 +3356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-10 04:43:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -3291,6 +3383,12 @@
   "expanded_combat:recipes/combat/birch_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-10 04:48:42 +0000"
     },
     "done": true
   },
@@ -3333,6 +3431,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-09-10 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-10 05:09:24 +0000"
     },
     "done": true
   },
@@ -3399,6 +3503,12 @@
   "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-09-10 05:10:09 +0000"
     },
     "done": true
   },
@@ -3498,6 +3608,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-09-10 04:44:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -3564,6 +3680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-10 04:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -3613,6 +3735,7 @@
       "minecraft:river": "2025-09-10 02:19:25 +0000",
       "minecraft:forest": "2025-09-10 02:16:01 +0000",
       "minecraft:ocean": "2025-09-10 04:17:37 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-10 04:44:12 +0000",
       "minecraft:plains": "2025-09-10 02:15:01 +0000"
     },
     "done": false
@@ -3762,6 +3885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-10 04:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_gray_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-10 04:39:22 +0000"
@@ -3771,6 +3900,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-10 05:10:09 +0000"
     },
     "done": true
   },
