@@ -6078,3 +6078,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 07:16:11.764] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Benito'/71849, l='ServerLevel[world]', x=985.70, y=57.42, z=-320.20] died: Benito was slain by Zombie Villager
 [10Sep2025 07:23:49.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Brendon'/71684, l='ServerLevel[world]', x=886.70, y=73.23, z=-512.11] died, message: 'Brendon tried to swim in lava'
 [10Sep2025 07:23:49.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Brendon'/71684, l='ServerLevel[world]', x=886.70, y=73.23, z=-512.11] died: Brendon tried to swim in lava
+[10Sep2025 07:27:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dark Creator]
