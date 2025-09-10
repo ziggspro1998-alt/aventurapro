@@ -6019,3 +6019,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 04:18:21.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21136ms or 422 ticks behind
 [10Sep2025 04:18:21.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 2.6598532697799477,-0.02442408821369213,-9.650828590646256
 [10Sep2025 04:22:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]
+[10Sep2025 04:39:21.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [There is a Castle on a Cloud]
+[10Sep2025 04:39:21.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [What a Deal!]
+[10Sep2025 04:39:21.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Trade]

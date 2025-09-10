@@ -949,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-09-10 04:39:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
     "criteria": {
       "has_spruce_plank": "2025-09-10 04:15:09 +0000"
@@ -994,6 +1000,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2025-09-10 04:39:22 +0000"
     },
     "done": true
   },
@@ -1235,6 +1247,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2025-09-10 04:39:22 +0000"
     },
     "done": true
   },
@@ -1517,6 +1535,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-10 04:39:21 +0000"
     },
     "done": true
   },
@@ -2078,6 +2102,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-10 04:35:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_bow_conditional_shaped_skip": {
     "criteria": {
       "has_item": "2025-09-10 02:49:05 +0000"
@@ -2465,6 +2495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-10 04:35:25 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -2801,6 +2837,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-10 04:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -3096,9 +3138,21 @@
     },
     "done": true
   },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-09-10 04:39:21 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-10 04:39:22 +0000"
     },
     "done": true
   },
@@ -3690,6 +3744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-10 04:39:22 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -3699,6 +3759,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-10 04:39:22 +0000"
     },
     "done": true
   },
@@ -3825,6 +3891,12 @@
   "farmersdelight:recipes/food/honey_glazed_ham_block": {
     "criteria": {
       "has_smoked_ham": "2025-09-10 02:45:04 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-09-10 04:35:25 +0000"
     },
     "done": true
   },
