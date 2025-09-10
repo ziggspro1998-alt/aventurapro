@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-10 03:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-09-10 02:17:45 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -263,6 +275,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "ags_day_counter:firts_day_advancement": {
     "criteria": {
       "firts_day_advancement_0": "2025-09-10 02:25:37 +0000"
@@ -383,6 +401,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -416,6 +440,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-09-10 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -469,7 +499,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-10 03:47:10 +0000",
       "minecraft:skeleton": "2025-09-10 02:57:08 +0000",
+      "minecraft:creeper": "2025-09-10 03:43:43 +0000",
+      "minecraft:vex": "2025-09-10 03:46:17 +0000",
       "minecraft:zombie": "2025-09-10 03:12:35 +0000",
       "minecraft:zombie_villager": "2025-09-10 03:02:05 +0000"
     },
@@ -478,6 +511,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-09-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-10 03:47:10 +0000"
     },
     "done": true
   },
@@ -490,6 +529,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-10 03:44:09 +0000"
     },
     "done": true
   },
@@ -637,6 +682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-09-10 02:18:11 +0000"
@@ -667,6 +718,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "traveloptics:root": {
     "criteria": {
       "custom_test_name": "2025-09-10 02:14:59 +0000"
@@ -676,6 +733,30 @@
   "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -739,6 +820,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-10 03:32:57 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -766,6 +853,12 @@
   "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -1003,9 +1096,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-10 03:35:09 +0000"
     },
     "done": true
   },
@@ -1014,6 +1119,12 @@
       "has_planks": "2025-09-10 02:21:26 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-09-10 03:32:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
@@ -1072,6 +1183,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-10 03:30:26 +0000"
     },
     "done": true
   },
@@ -1213,6 +1330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-10 03:44:09 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -1231,6 +1354,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-09-10 03:16:29 +0000"
@@ -1246,6 +1375,12 @@
   "bakery:recipes/sandstone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -1333,6 +1468,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-09-10 02:31:12 +0000"
@@ -1384,6 +1525,12 @@
   "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -1591,6 +1738,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-09-10 02:18:13 +0000"
@@ -1669,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-10 02:21:26 +0000"
@@ -1741,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-10 03:35:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-10 02:30:02 +0000"
@@ -1798,6 +1963,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -1989,6 +2160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -2025,6 +2202,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -2040,6 +2223,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-09-10 03:47:21 +0000"
     },
     "done": true
   },
@@ -2259,6 +2448,12 @@
     },
     "done": true
   },
+  "simplyswords:flamewind": {
+    "criteria": {
+      "requirement": "2025-09-10 03:36:50 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-09-10 02:14:59 +0000"
@@ -2319,9 +2514,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -2355,6 +2562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -2370,6 +2583,12 @@
   "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-09-10 02:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-10 03:44:09 +0000"
     },
     "done": true
   },
@@ -2406,6 +2625,12 @@
   "sophisticatedstorage:recipes/misc/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -2619,6 +2844,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:49:05 +0000"
@@ -2667,6 +2898,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
@@ -2706,6 +2943,12 @@
   "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },
@@ -2795,6 +3038,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-09-10 03:49:01 +0000",
       "minecraft:river": "2025-09-10 02:19:25 +0000",
       "minecraft:forest": "2025-09-10 02:16:01 +0000",
       "minecraft:plains": "2025-09-10 02:15:01 +0000"
@@ -2900,6 +3144,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-10 03:45:38 +0000"
     },
     "done": true
   },

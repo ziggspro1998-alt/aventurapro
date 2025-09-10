@@ -6004,3 +6004,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 03:27:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
 [10Sep2025 03:30:26.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Close Quarters]
 [10Sep2025 03:32:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Parrots and the Bats]
+[10Sep2025 03:36:50.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Is this thing alive?]
+[10Sep2025 03:43:44.129] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[10Sep2025 03:47:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Voluntary Exile]
+[10Sep2025 03:50:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ol' Betsy]
+[10Sep2025 03:50:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]

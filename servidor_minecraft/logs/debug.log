@@ -13754,3 +13754,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 03:32:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Parrots and the Bats]
 [10Sep2025 03:33:25.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [10Sep2025 03:33:52.129] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Sep2025 03:34:50.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 03:34:50.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 03:36:50.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Is this thing alive?]
+[10Sep2025 03:39:50.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 03:39:50.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 03:43:44.129] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[10Sep2025 03:44:50.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 03:44:50.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 03:47:10.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Voluntary Exile]
+[10Sep2025 03:49:50.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 03:49:50.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 03:50:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ol' Betsy]
+[10Sep2025 03:50:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
+[10Sep2025 03:51:14.362] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
