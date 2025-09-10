@@ -6083,3 +6083,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 07:37:34.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
 [10Sep2025 07:43:26.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hide and Seek]
 [10Sep2025 07:47:35.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Tunnel Treasures]
+[10Sep2025 08:30:00.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Fighting Nightmares]
+[10Sep2025 08:45:59.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[10Sep2025 08:50:45.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2986860885486635
+[10Sep2025 08:50:45.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.1176243739565734
+[10Sep2025 08:50:45.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.9452755637131045
+[10Sep2025 08:50:55.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4325794696071341
+[10Sep2025 08:50:55.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4412838248924231
+[10Sep2025 08:50:55.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2933943832245234
+[10Sep2025 08:50:55.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0
+[10Sep2025 08:50:58.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.42351407500120786
+[10Sep2025 08:50:58.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3347310268004833
+[10Sep2025 08:51:03.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3820702856527305
+[10Sep2025 08:51:03.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.983397754157438
+[10Sep2025 08:51:03.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.7388936334028633
+[10Sep2025 08:54:04.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dinner's Served!]
+[10Sep2025 08:56:42.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Corinna'/94959, l='ServerLevel[world]', x=814.09, y=60.05, z=168.70] died, message: 'Corinna drowned'
+[10Sep2025 08:56:42.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Corinna'/94959, l='ServerLevel[world]', x=814.09, y=60.05, z=168.70] died: Corinna drowned

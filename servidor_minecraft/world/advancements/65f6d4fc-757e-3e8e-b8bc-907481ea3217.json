@@ -772,6 +772,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-10 08:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-10 05:36:59 +0000"
@@ -1530,6 +1536,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-10 08:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-09-10 05:36:59 +0000"
@@ -2214,6 +2226,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-10 08:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-09-10 02:17:33 +0000"
@@ -2559,6 +2577,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-09-10 02:17:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-09-10 08:54:04 +0000"
     },
     "done": true
   },
@@ -4625,6 +4649,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-10 08:54:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-09-10 02:57:08 +0000"
@@ -4800,7 +4830,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "suspicious_stew": "2025-09-10 04:15:03 +0000",
-      "mushroom_stew": "2025-09-10 02:21:59 +0000"
+      "mushroom_stew": "2025-09-10 02:21:59 +0000",
+      "bread": "2025-09-10 08:44:54 +0000"
     },
     "done": false
   },
