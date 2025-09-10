@@ -1901,6 +1901,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-09-10 07:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-10 02:21:26 +0000"
@@ -2354,6 +2360,12 @@
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-09-10 07:36:49 +0000"
     },
     "done": true
   },
@@ -4063,6 +4075,12 @@
   "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-09-10 07:43:26 +0000"
     },
     "done": true
   },
