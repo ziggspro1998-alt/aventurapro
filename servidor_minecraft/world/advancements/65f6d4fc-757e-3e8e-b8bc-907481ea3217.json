@@ -698,6 +698,7 @@
       "minecraft:spider": "2025-09-10 05:08:48 +0000",
       "minecraft:creeper": "2025-09-10 03:43:43 +0000",
       "minecraft:evoker": "2025-09-10 03:51:14 +0000",
+      "minecraft:enderman": "2025-09-10 07:13:54 +0000",
       "minecraft:vex": "2025-09-10 03:46:17 +0000",
       "minecraft:zombie": "2025-09-10 03:12:35 +0000",
       "minecraft:drowned": "2025-09-10 04:58:12 +0000",
@@ -1227,6 +1228,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2025-09-10 07:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
@@ -1735,6 +1742,12 @@
   "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_squid_campfire": {
+    "criteria": {
+      "has_squid": "2025-09-10 07:18:48 +0000"
     },
     "done": true
   },
@@ -2620,6 +2633,18 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-09-10 07:18:48 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-09-10 07:15:13 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -2927,6 +2952,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-09-10 02:15:42 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-09-10 07:18:48 +0000"
     },
     "done": true
   },
@@ -3365,6 +3396,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-09-10 07:15:13 +0000"
     },
     "done": true
   },
@@ -3867,6 +3904,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-09-10 07:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-09-10 02:17:45 +0000"
@@ -3918,6 +3961,12 @@
   "mynethersdelight:recipes/misc/crafting/golden_egg": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-09-10 07:15:13 +0000"
     },
     "done": true
   },
@@ -4068,6 +4117,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-09-10 05:49:57 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/takoyaki": {
+    "criteria": {
+      "has_squid": "2025-09-10 07:18:48 +0000"
     },
     "done": true
   },
@@ -4269,6 +4324,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_squid": {
+    "criteria": {
+      "has_squid": "2025-09-10 07:18:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-09-10 06:11:02 +0000"
@@ -4408,6 +4469,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-09-10 07:15:13 +0000"
     },
     "done": true
   },
@@ -4721,6 +4788,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-09-10 05:49:57 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/stuffed_squid": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 07:18:48 +0000"
     },
     "done": true
   },
