@@ -6100,3 +6100,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 08:54:04.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dinner's Served!]
 [10Sep2025 08:56:42.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Corinna'/94959, l='ServerLevel[world]', x=814.09, y=60.05, z=168.70] died, message: 'Corinna drowned'
 [10Sep2025 08:56:42.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Corinna'/94959, l='ServerLevel[world]', x=814.09, y=60.05, z=168.70] died: Corinna drowned
+[10Sep2025 09:02:29.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bypassing the Expiration Date]
+[10Sep2025 09:02:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was doomed to fall by Skull Deserter
+[10Sep2025 09:02:47.654] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(883, 101, 57) minecraft:overworld
+[10Sep2025 09:03:27.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[10Sep2025 09:03:27.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[10Sep2025 09:03:34.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.108.98.136:48211] logged in with entity id 98258 at (883.3000000119209, 101.0, 57.46410011869797)
+[10Sep2025 09:03:34.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[10Sep2025 09:03:34.592] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
+[10Sep2025 09:07:15.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[10Sep2025 09:07:15.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
