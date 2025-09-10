@@ -6014,3 +6014,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 04:05:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [Premium!]
 [10Sep2025 04:07:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Quaint Scribe]
 [10Sep2025 04:12:39.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[10Sep2025 04:17:00.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
+[10Sep2025 04:18:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Penteconter]
+[10Sep2025 04:18:21.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21136ms or 422 ticks behind
+[10Sep2025 04:18:21.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 2.6598532697799477,-0.02442408821369213,-9.650828590646256
+[10Sep2025 04:22:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]

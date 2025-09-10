@@ -13782,3 +13782,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 04:09:50.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Sep2025 04:09:50.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Sep2025 04:12:39.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[10Sep2025 04:14:50.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 04:14:50.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 04:17:00.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Keep Going]
+[10Sep2025 04:18:21.874] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Sep2025 04:18:21.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Penteconter]
+[10Sep2025 04:18:21.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21136ms or 422 ticks behind
+[10Sep2025 04:18:21.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 2.6598532697799477,-0.02442408821369213,-9.650828590646256
+[10Sep2025 04:20:11.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 04:20:11.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 04:22:15.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]
+[10Sep2025 04:22:24.237] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/243, l='ServerLevel[world]', x=-16.46, y=73.00, z=535.32], mainHand=0 air, spellbook=1 iron_spell_book, school=cataclysm_spellbooks:technomancy, spell=cataclysm_spellbooks:flash_bang, rarity=COMMON, level=2.0, minLevelRarity=1.0, manaCost=30.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=17.0, expectedTicks=1.0}]
