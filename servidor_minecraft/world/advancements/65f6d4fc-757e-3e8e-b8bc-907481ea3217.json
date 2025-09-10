@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-09-10 03:24:37 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/butter": {
     "criteria": {
       "has_water_bucket": "2025-09-10 02:18:30 +0000"
@@ -607,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-09-10 03:25:14 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -760,6 +772,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 03:24:37 +0000"
     },
     "done": true
   },
@@ -1483,6 +1501,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-09-10 03:24:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-09-10 02:17:31 +0000"
@@ -1510,6 +1534,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-09-10 02:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-10 03:24:37 +0000"
     },
     "done": true
   },
@@ -1845,6 +1875,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-09-10 03:28:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:17:33 +0000"
@@ -2133,6 +2169,12 @@
     },
     "done": true
   },
+  "some_assembly_required:obtain_sandwich": {
+    "criteria": {
+      "obtain_sandwich": "2025-09-10 03:27:28 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-09-10 02:18:03 +0000"
@@ -2220,6 +2262,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 03:24:37 +0000"
     },
     "done": true
   },
@@ -2795,6 +2843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-10 03:25:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-09-10 02:32:11 +0000"
@@ -2984,6 +3038,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-09-10 02:28:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-09-10 03:24:37 +0000"
     },
     "done": true
   },
