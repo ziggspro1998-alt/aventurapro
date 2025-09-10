@@ -5985,3 +5985,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 02:18:13.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Isn't It Iron Pick]
 [10Sep2025 02:19:45.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Spooky Scary Skeletons]
 [10Sep2025 02:20:59.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
+[10Sep2025 02:25:32.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[10Sep2025 02:25:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[10Sep2025 02:27:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fatty Demon]
+[10Sep2025 02:27:13.168] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[10Sep2025 02:27:13.182] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[10Sep2025 02:28:32.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/4674, l='ServerLevel[world]', x=219.46, y=46.00, z=124.51] died, message: 'Golem Healer was slain by Zombie'
+[10Sep2025 02:28:32.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/4674, l='ServerLevel[world]', x=219.46, y=46.00, z=124.51] died: Golem Healer was slain by Zombie
+[10Sep2025 02:29:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
+[10Sep2025 02:30:02.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
+[10Sep2025 02:33:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]

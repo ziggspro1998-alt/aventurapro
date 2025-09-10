@@ -13545,3 +13545,23 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 02:19:50.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Sep2025 02:19:50.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Sep2025 02:20:59.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
+[10Sep2025 02:24:50.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 02:24:50.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 02:25:32.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[10Sep2025 02:25:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[10Sep2025 02:27:05.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fatty Demon]
+[10Sep2025 02:27:13.168] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[10Sep2025 02:27:13.182] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[10Sep2025 02:27:15.932] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=333, y=8, z=244}
+[10Sep2025 02:27:17.590] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=333, y=8, z=244}
+[10Sep2025 02:27:17.696] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=351, y=8, z=280}
+[10Sep2025 02:27:40.048] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=351, y=8, z=280}
+[10Sep2025 02:27:40.050] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=15, z=281}
+[10Sep2025 02:27:40.051] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=333, y=15, z=294}
+[10Sep2025 02:28:32.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/4674, l='ServerLevel[world]', x=219.46, y=46.00, z=124.51] died, message: 'Golem Healer was slain by Zombie'
+[10Sep2025 02:28:32.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/4674, l='ServerLevel[world]', x=219.46, y=46.00, z=124.51] died: Golem Healer was slain by Zombie
+[10Sep2025 02:29:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
+[10Sep2025 02:29:50.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 02:29:50.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 02:30:02.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
+[10Sep2025 02:33:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]
