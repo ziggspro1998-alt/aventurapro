@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 05:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-09-10 02:18:11 +0000"
@@ -284,6 +290,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-09-10 04:19:07 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 05:35:55 +0000"
     },
     "done": true
   },
@@ -392,6 +404,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-09-10 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
     },
     "done": true
   },
@@ -627,6 +645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-09-10 04:07:08 +0000"
@@ -771,6 +795,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
@@ -858,6 +888,12 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
     },
     "done": true
   },
@@ -1246,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-09-10 02:51:46 +0000"
@@ -1327,6 +1369,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-10 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
     },
     "done": true
   },
@@ -1426,6 +1474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 04:15:09 +0000"
@@ -1465,6 +1519,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-09-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
     },
     "done": true
   },
@@ -1561,6 +1621,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-10 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "gnumus:vasebreaker": {
+    "criteria": {
+      "vasebreaker": "2025-09-10 05:43:47 +0000"
     },
     "done": true
   },
@@ -1963,6 +2029,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
     },
     "done": true
   },
@@ -2869,6 +2941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-10 05:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-09-10 02:30:02 +0000"
@@ -3542,6 +3620,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-10 05:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
@@ -3671,6 +3755,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-09-10 05:36:59 +0000"
     },
     "done": true
   },
@@ -3862,8 +3952,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-10 05:39:31 +0000",
       "minecraft:birch_forest": "2025-09-10 03:49:01 +0000",
       "minecraft:beach": "2025-09-10 04:13:47 +0000",
+      "minecraft:dark_forest": "2025-09-10 05:35:51 +0000",
       "minecraft:river": "2025-09-10 02:19:25 +0000",
       "minecraft:forest": "2025-09-10 02:16:01 +0000",
       "minecraft:ocean": "2025-09-10 04:17:37 +0000",
