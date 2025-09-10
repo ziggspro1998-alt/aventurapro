@@ -6029,3 +6029,49 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 06:04:12.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.84303733479328
 [10Sep2025 06:09:29.698] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [10Sep2025 06:09:29.700] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Sep2025 06:17:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ice Bucket Challenge]
+[10Sep2025 06:29:13.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nasusperro> e
+[10Sep2025 06:34:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Walking on Thin Ice]
+[10Sep2025 06:35:11.489] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Sep2025 06:35:11.490] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Sep2025 06:35:23.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.6672776206685995
+[10Sep2025 06:42:20.345] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:20.345] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:20.346] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:20.346] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:20.346] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:41.921] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[10Sep2025 06:42:41.922] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[10Sep2025 06:42:41.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[10Sep2025 06:42:41.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[10Sep2025 06:42:41.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:41.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[10Sep2025 06:42:57.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2675964351612947
+[10Sep2025 06:42:57.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.682235007358031
+[10Sep2025 06:42:57.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.6147166506191013
+[10Sep2025 06:42:57.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.666671626117818
+[10Sep2025 06:42:57.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.2446202653035243
+[10Sep2025 06:43:00.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.460909860236157
+[10Sep2025 06:43:00.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.2734544015021783
+[10Sep2025 06:43:00.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 2.0
+[10Sep2025 06:43:13.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Billy'/62363, l='ServerLevel[world]', x=818.70, y=60.55, z=165.30] died, message: 'Billy drowned'
+[10Sep2025 06:43:13.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Billy'/62363, l='ServerLevel[world]', x=818.70, y=60.55, z=165.30] died: Billy drowned
+[10Sep2025 06:43:21.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.46844042295504096
+[10Sep2025 06:43:21.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.2632688799592984
+[10Sep2025 06:43:22.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.0682332959065803
+[10Sep2025 06:43:33.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.612950489812988
+[10Sep2025 06:43:33.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.4782232930732562
+[10Sep2025 06:43:33.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.349513611798443
+[10Sep2025 06:43:33.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.3378306331685508
+[10Sep2025 06:43:33.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.106428665739486
+[10Sep2025 06:43:33.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.8646531310209866
+[10Sep2025 06:43:34.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.586767808465197
+[10Sep2025 06:43:34.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.442784228029609
+[10Sep2025 06:45:17.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.6314940461890046
+[10Sep2025 06:45:17.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 1.3435213300715532
+[10Sep2025 06:45:26.021] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[10Sep2025 06:47:02.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.27101501705305964
+[10Sep2025 06:47:02.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of nasusperro) moved wrongly! 0.9974868258026643
+[10Sep2025 06:49:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Postmortal]
+[10Sep2025 06:53:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Horror Under the Mantle]
+[10Sep2025 06:53:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]

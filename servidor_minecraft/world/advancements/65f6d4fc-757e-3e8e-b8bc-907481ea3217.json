@@ -167,6 +167,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-10 06:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_purple_dye": "2025-09-10 06:44:23 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 03:45:38 +0000"
@@ -425,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-09-10 06:30:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-09-10 02:29:18 +0000"
@@ -446,6 +464,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-09-10 06:44:23 +0000"
     },
     "done": true
   },
@@ -563,6 +587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-10 06:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
@@ -602,6 +632,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-09-10 06:44:23 +0000"
     },
     "done": true
   },
@@ -717,6 +753,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-09-10 06:36:28 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 04:15:09 +0000"
@@ -801,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-10 06:26:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:29:16 +0000"
@@ -840,6 +888,24 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-09-10 02:29:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-10 06:53:21 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:livyatan": {
+    "criteria": {
+      "requirement": "2025-09-10 06:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-10 06:36:32 +0000"
     },
     "done": true
   },
@@ -1152,6 +1218,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2025-09-10 04:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-10 06:36:32 +0000"
     },
     "done": true
   },
@@ -1756,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-10 06:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-10 02:21:26 +0000"
@@ -1891,6 +1969,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-09-10 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-09-10 06:26:52 +0000"
     },
     "done": true
   },
@@ -2428,6 +2512,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-09-10 06:31:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:17:30 +0000"
@@ -2632,6 +2722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-09-10 06:30:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-09-10 03:35:09 +0000"
@@ -2814,12 +2910,19 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "brewingstand": "2025-09-10 06:26:52 +0000",
       "smoker": "2025-09-10 02:42:04 +0000",
       "smithingtable": "2025-09-10 02:54:43 +0000",
       "blastfurnace": "2025-09-10 02:54:43 +0000",
       "lectern": "2025-09-10 04:07:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-10 06:25:42 +0000"
+    },
+    "done": true
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
@@ -2950,6 +3053,12 @@
   "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-09-10 06:53:09 +0000"
     },
     "done": true
   },
@@ -3160,6 +3269,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-09-10 02:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-10 06:49:44 +0000"
     },
     "done": true
   },
@@ -3469,6 +3584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-10 06:44:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-09-10 04:16:11 +0000",
@@ -3587,6 +3708,12 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-09-10 05:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-10 06:44:23 +0000"
     },
     "done": true
   },
@@ -3761,6 +3888,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-09-10 06:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-10 06:44:23 +0000"
     },
     "done": true
   },
@@ -4070,6 +4203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-09-10 06:53:21 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 03:45:38 +0000"
@@ -4203,9 +4342,11 @@
       "minecraft:beach": "2025-09-10 04:13:47 +0000",
       "minecraft:dark_forest": "2025-09-10 05:35:51 +0000",
       "minecraft:river": "2025-09-10 02:19:25 +0000",
+      "minecraft:dripstone_caves": "2025-09-10 06:47:10 +0000",
       "minecraft:forest": "2025-09-10 02:16:01 +0000",
       "minecraft:ocean": "2025-09-10 04:17:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-10 04:44:12 +0000",
+      "minecraft:meadow": "2025-09-10 06:32:04 +0000",
       "minecraft:plains": "2025-09-10 02:15:01 +0000"
     },
     "done": false
@@ -4400,6 +4541,12 @@
   "miners_delight:recipes/cooking/glow_ink_pasta": {
     "criteria": {
       "has_glow_ink_sac": "2025-09-10 05:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-10 06:17:26 +0000"
     },
     "done": true
   },
