@@ -6011,3 +6011,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 03:50:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
 [10Sep2025 03:58:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
 [10Sep2025 04:01:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Tools of the Trade]
+[10Sep2025 04:05:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [Premium!]
+[10Sep2025 04:07:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Quaint Scribe]
+[10Sep2025 04:12:39.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!

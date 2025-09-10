@@ -520,6 +520,7 @@
       "minecraft:pillager": "2025-09-10 03:47:10 +0000",
       "minecraft:skeleton": "2025-09-10 02:57:08 +0000",
       "minecraft:ravager": "2025-09-10 03:51:00 +0000",
+      "minecraft:vindicator": "2025-09-10 04:01:23 +0000",
       "minecraft:creeper": "2025-09-10 03:43:43 +0000",
       "minecraft:evoker": "2025-09-10 03:51:14 +0000",
       "minecraft:vex": "2025-09-10 03:46:17 +0000",
@@ -543,6 +544,12 @@
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-09-10 04:07:08 +0000"
     },
     "done": true
   },
@@ -1255,6 +1262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-10 04:00:43 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -1663,6 +1676,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-09-10 04:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -1786,6 +1805,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-10 04:00:43 +0000"
     },
     "done": true
   },
@@ -2011,6 +2036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-10 04:00:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
@@ -2026,6 +2057,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-10 04:00:43 +0000"
     },
     "done": true
   },
@@ -2099,7 +2136,8 @@
     "criteria": {
       "smoker": "2025-09-10 02:42:04 +0000",
       "smithingtable": "2025-09-10 02:54:43 +0000",
-      "blastfurnace": "2025-09-10 02:54:43 +0000"
+      "blastfurnace": "2025-09-10 02:54:43 +0000",
+      "lectern": "2025-09-10 04:07:34 +0000"
     },
     "done": false
   },
@@ -2130,6 +2168,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_the_recipe": "2025-09-10 02:57:08 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-09-10 04:01:54 +0000"
     },
     "done": true
   },
@@ -2262,6 +2306,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-09-10 02:26:21 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-09-10 04:07:08 +0000"
     },
     "done": true
   },
@@ -2493,6 +2543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-10 04:00:43 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -2562,6 +2618,12 @@
   "bakery:recipes/tray": {
     "criteria": {
       "has_oak_planks": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-09-10 04:05:15 +0000"
     },
     "done": true
   },
@@ -2802,6 +2864,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-10 04:00:43 +0000"
     },
     "done": true
   },

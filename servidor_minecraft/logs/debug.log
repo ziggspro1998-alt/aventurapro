@@ -13774,3 +13774,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 03:59:50.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Sep2025 03:59:50.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Sep2025 04:01:54.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Tools of the Trade]
+[10Sep2025 04:04:50.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 04:04:50.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 04:05:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [Premium!]
+[10Sep2025 04:06:22.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_guard_tower_loot
+[10Sep2025 04:07:08.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Quaint Scribe]
+[10Sep2025 04:09:50.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 04:09:50.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 04:12:39.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
