@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
@@ -457,7 +463,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-09-10 02:57:08 +0000"
+      "minecraft:skeleton": "2025-09-10 02:57:08 +0000",
+      "minecraft:zombie": "2025-09-10 03:12:35 +0000",
+      "minecraft:zombie_villager": "2025-09-10 03:02:05 +0000"
     },
     "done": false
   },
@@ -911,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-09-10 03:08:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -992,6 +1006,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-09-10 02:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
     },
     "done": true
   },
@@ -1193,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-10 03:16:29 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -1280,6 +1306,12 @@
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-09-10 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
     },
     "done": true
   },
@@ -1613,6 +1645,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-09-10 03:16:29 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:the_titan": {
     "criteria": {
       "the_titan_0": "2025-09-10 02:15:51 +0000"
@@ -1718,6 +1756,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-09-10 03:08:35 +0000"
     },
     "done": true
   },
@@ -1861,6 +1905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
@@ -1948,6 +1998,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
     },
     "done": true
   },
@@ -2149,6 +2205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-09-10 02:17:36 +0000"
@@ -2164,6 +2226,12 @@
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-09-10 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-10 03:16:29 +0000"
     },
     "done": true
   },
@@ -2275,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -2326,6 +2400,12 @@
   "expanded_combat:recipes/combat/birch_plank_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-10 03:16:29 +0000"
     },
     "done": true
   },
@@ -2515,6 +2595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/graffiti": {
     "criteria": {
       "has_item": "2025-09-10 02:17:52 +0000"
@@ -2688,6 +2774,18 @@
   "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-09-10 03:10:32 +0000"
     },
     "done": true
   },
