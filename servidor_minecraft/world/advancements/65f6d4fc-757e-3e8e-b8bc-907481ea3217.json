@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-10 05:13:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-09-10 02:45:56 +0000"
@@ -182,6 +188,12 @@
   "expanded_combat:recipes/combat/iron_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
     },
     "done": true
   },
@@ -867,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 04:15:09 +0000"
@@ -1204,6 +1222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 04:15:09 +0000"
@@ -1519,6 +1543,12 @@
   "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
       "day_counter_root_advancement_0": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-10 05:12:41 +0000"
     },
     "done": true
   },
@@ -1852,6 +1882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-09-10 02:29:21 +0000"
@@ -1909,6 +1945,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-09-10 02:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-10 05:19:25 +0000"
     },
     "done": true
   },
@@ -2164,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-10 05:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-09-10 02:29:16 +0000"
@@ -2389,6 +2437,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
     },
     "done": true
   },
@@ -2725,6 +2779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-10 05:19:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-09-10 02:17:33 +0000"
@@ -2788,6 +2848,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
     },
     "done": true
   },
@@ -3410,6 +3476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-09-10 02:51:46 +0000"
@@ -3704,6 +3776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/tomato": {
     "criteria": {
       "has_tomato_crate": "2025-09-10 02:31:09 +0000"
@@ -3827,6 +3905,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
     },
     "done": true
   },
@@ -3990,6 +4074,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-09-10 05:12:41 +0000"
     },
     "done": true
   },
