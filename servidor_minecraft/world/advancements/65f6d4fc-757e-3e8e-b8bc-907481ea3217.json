@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-09-10 03:59:32 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-10 03:50:43 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
       "dungeons_and_combat_0": "2025-09-10 02:14:59 +0000"
@@ -416,6 +428,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
     },
     "done": true
   },
@@ -501,7 +519,9 @@
     "criteria": {
       "minecraft:pillager": "2025-09-10 03:47:10 +0000",
       "minecraft:skeleton": "2025-09-10 02:57:08 +0000",
+      "minecraft:ravager": "2025-09-10 03:51:00 +0000",
       "minecraft:creeper": "2025-09-10 03:43:43 +0000",
+      "minecraft:evoker": "2025-09-10 03:51:14 +0000",
       "minecraft:vex": "2025-09-10 03:46:17 +0000",
       "minecraft:zombie": "2025-09-10 03:12:35 +0000",
       "minecraft:zombie_villager": "2025-09-10 03:02:05 +0000"
@@ -664,6 +684,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-09-10 03:59:19 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -772,6 +798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-09-10 02:14:59 +0000"
@@ -814,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-10 03:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
@@ -829,6 +867,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
     },
     "done": true
   },
@@ -930,6 +974,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-09-10 03:58:10 +0000",
       "opened_chest": "2025-09-10 02:17:28 +0000"
     },
     "done": false
@@ -1198,6 +1243,12 @@
     },
     "done": true
   },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-10 03:58:10 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:49:05 +0000"
@@ -1255,6 +1306,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
     },
     "done": true
   },
@@ -1929,6 +1986,12 @@
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-09-10 03:51:14 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/diamond_dagger_conditional_shaped": {
     "criteria": {
@@ -2772,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-10 02:49:05 +0000"
@@ -3144,6 +3213,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-10 03:54:14 +0000"
     },
     "done": true
   },
