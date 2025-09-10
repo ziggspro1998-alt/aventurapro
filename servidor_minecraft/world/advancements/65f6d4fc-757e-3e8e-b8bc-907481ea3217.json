@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-09-10 02:27:59 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
     },
     "done": true
   },
@@ -1035,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-09-10 03:50:43 +0000"
@@ -1239,6 +1257,12 @@
       "opened_chest": "2025-09-10 02:17:28 +0000"
     },
     "done": false
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
+    },
+    "done": true
   },
   "xtraarrows:recipes/all_recipes": {
     "criteria": {
@@ -1654,6 +1678,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-10 02:21:26 +0000"
@@ -1669,6 +1699,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-09-10 04:28:13 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
     },
     "done": true
   },
@@ -1777,6 +1813,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-09-10 02:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
     },
     "done": true
   },
@@ -2023,6 +2065,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-09-10 03:45:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
     },
     "done": true
   },
@@ -2626,6 +2674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-09-10 02:29:16 +0000"
@@ -2845,6 +2899,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-09-10 04:07:08 +0000"
@@ -2860,6 +2920,12 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 05:52:33 +0000"
     },
     "done": true
   },
@@ -3052,6 +3118,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-10 02:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
     },
     "done": true
   },
@@ -3716,6 +3788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
+    },
+    "done": true
+  },
   "immersive_paintings:misc/glow_painting": {
     "criteria": {
       "has_item": "2025-09-10 05:10:09 +0000"
@@ -3767,6 +3845,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
     },
     "done": true
   },
@@ -3970,6 +4054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-10 05:45:12 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
@@ -4097,6 +4187,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-09-10 04:17:28 +0000"
@@ -4172,6 +4268,12 @@
   "expanded_combat:recipes/combat/diamond_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-10 05:52:33 +0000"
     },
     "done": true
   },
@@ -4304,6 +4406,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-10 05:49:57 +0000"
     },
     "done": true
   },
