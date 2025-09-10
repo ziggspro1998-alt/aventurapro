@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-09-10 02:38:06 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-10 02:38:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-09-10 02:18:11 +0000"
@@ -137,9 +149,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-10 02:37:54 +0000"
     },
     "done": true
   },
@@ -176,6 +206,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-09-10 02:16:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-09-10 02:32:16 +0000"
     },
     "done": true
   },
@@ -275,9 +311,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/carrot_from_crate": {
+    "criteria": {
+      "has_carrot_crate": "2025-09-10 02:31:21 +0000"
     },
     "done": true
   },
@@ -305,6 +353,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-09-10 02:38:42 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-10 02:14:59 +0000"
@@ -320,6 +374,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
     },
     "done": true
   },
@@ -395,6 +455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 02:36:54 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -449,6 +515,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_shaped_skip": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -458,6 +530,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-09-10 02:35:27 +0000"
     },
     "done": true
   },
@@ -479,6 +557,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-10 02:32:08 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:18:11 +0000"
@@ -488,6 +572,12 @@
   "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-10 02:32:08 +0000"
     },
     "done": true
   },
@@ -539,6 +629,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-09-10 02:36:54 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
@@ -557,9 +653,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/yeast": {
     "criteria": {
       "has_the_recipe": "2025-09-10 02:18:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-09-10 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-10 02:32:11 +0000"
     },
     "done": true
   },
@@ -572,6 +686,12 @@
   "expanded_combat:recipes/combat/gold_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 02:36:56 +0000"
     },
     "done": true
   },
@@ -632,6 +752,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-09-10 02:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-10 02:34:37 +0000"
     },
     "done": true
   },
@@ -722,6 +848,12 @@
   "miners_delight:recipes/decorations/sticky_basket": {
     "criteria": {
       "has_cobweb": "2025-09-10 02:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
     },
     "done": true
   },
@@ -821,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
       "has_sweet_berries": "2025-09-10 02:20:41 +0000"
@@ -833,9 +971,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-09-10 02:33:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-09-10 02:31:12 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
     },
     "done": true
   },
@@ -887,6 +1043,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-09-10 02:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-09-10 02:16:49 +0000"
@@ -899,9 +1067,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-09-10 02:32:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-09-10 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-10 02:38:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
     },
     "done": true
   },
@@ -920,6 +1106,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-09-10 02:18:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-10 02:33:17 +0000"
     },
     "done": true
   },
@@ -962,6 +1154,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-09-10 02:18:13 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-09-10 02:29:58 +0000"
     },
     "done": true
   },
@@ -1037,6 +1235,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
     "criteria": {
       "has_oak_plank": "2025-09-10 02:21:26 +0000"
@@ -1058,6 +1268,12 @@
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
     "criteria": {
       "has_oak_plank": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
     },
     "done": true
   },
@@ -1097,6 +1313,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-10 02:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-09-10 02:18:28 +0000"
@@ -1106,6 +1328,12 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-10 02:34:37 +0000"
     },
     "done": true
   },
@@ -1148,6 +1376,12 @@
   "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-10 02:34:01 +0000"
     },
     "done": true
   },
@@ -1259,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:catacumbs_lugubrious": {
     "criteria": {
       "catacumbs_lugubrious_0": "2025-09-10 02:19:45 +0000"
@@ -1274,6 +1514,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-09-10 02:36:54 +0000"
     },
     "done": true
   },
@@ -1322,6 +1568,12 @@
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-09-10 02:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-10 02:34:37 +0000"
     },
     "done": true
   },
@@ -1487,9 +1739,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-09-10 02:32:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-10 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-09-10 02:31:11 +0000"
     },
     "done": true
   },
@@ -1562,6 +1826,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-09-10 02:29:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-09-10 02:33:58 +0000"
     },
     "done": true
   },
@@ -1643,6 +1913,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-09-10 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-10 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-09-10 02:36:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-09-10 02:20:32 +0000"
@@ -1673,6 +1961,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-09-10 02:31:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-09-10 02:18:13 +0000"
@@ -1699,9 +1993,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-10 02:37:54 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-10 02:32:11 +0000"
     },
     "done": true
   },
@@ -1741,9 +2053,21 @@
     },
     "done": false
   },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-09-10 02:38:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-09-10 02:30:02 +0000"
     },
     "done": true
   },
@@ -1762,6 +2086,12 @@
   "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-10 02:16:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-09-10 02:36:56 +0000"
     },
     "done": true
   },

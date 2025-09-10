@@ -13565,3 +13565,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Sep2025 02:29:50.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Sep2025 02:30:02.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
 [10Sep2025 02:33:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]
+[10Sep2025 02:34:50.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 02:34:50.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 02:39:50.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Sep2025 02:39:50.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Sep2025 02:42:04.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
