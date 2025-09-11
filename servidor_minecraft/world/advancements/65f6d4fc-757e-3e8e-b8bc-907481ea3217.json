@@ -97,6 +97,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-09-11 12:26:52 +0000",
       "minecraft:taiga": "2025-09-11 12:17:01 +0000",
       "minecraft:deep_ocean": "2025-09-11 11:14:46 +0000",
       "minecraft:birch_forest": "2025-09-11 09:06:50 +0000",
@@ -4296,15 +4297,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-09-11 12:09:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/yeast": {
     "criteria": {
       "has_the_recipe": "2025-09-11 12:03:38 +0000"
+    },
+    "done": true
+  },
+  "gnumus:business_approach": {
+    "criteria": {
+      "business_approach": "2025-09-11 12:21:54 +0000"
     },
     "done": true
   },
@@ -4326,9 +4351,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_wrap": {
     "criteria": {
       "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-09-11 12:22:45 +0000"
     },
     "done": true
   },
@@ -4344,9 +4381,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-09-11 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "gnumus:antiquity_shard": {
+    "criteria": {
+      "antiquity_shard": "2025-09-11 12:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-11 12:20:01 +0000"
     },
     "done": true
   },
@@ -4371,6 +4432,18 @@
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2025-09-11 11:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-09-11 12:20:01 +0000"
     },
     "done": true
   },

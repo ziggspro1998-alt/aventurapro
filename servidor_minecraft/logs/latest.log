@@ -6078,3 +6078,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 12:10:09.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hide and Seek]
 [11Sep2025 12:21:24.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [11Sep2025 12:21:54.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Business Approach]
+[11Sep2025 12:22:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Antiquity Shard]
+[11Sep2025 12:31:33.819] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[11Sep2025 12:31:33.820] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
