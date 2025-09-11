@@ -1472,6 +1472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-11 09:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-11 08:54:04 +0000"
@@ -1673,6 +1679,12 @@
   "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-09-11 09:19:40 +0000"
     },
     "done": true
   },
@@ -2448,6 +2460,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-09-11 09:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-11 09:19:40 +0000"
     },
     "done": true
   },

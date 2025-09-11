@@ -8088,3 +8088,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 09:08:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
 [11Sep2025 09:18:06.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Wilfredo'/16, l='ServerLevel[world]', x=-95.41, y=40.00, z=44.70] died, message: 'Wilfredo hit the ground too hard whilst trying to escape Vindicator'
 [11Sep2025 09:18:06.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Wilfredo'/16, l='ServerLevel[world]', x=-95.41, y=40.00, z=44.70] died: Wilfredo was doomed to fall by Vindicator
+[11Sep2025 09:26:51.779] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 09:26:51.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 09:26:51.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 09:26:51.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 09:26:51.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 09:27:23.078] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 09:27:23.078] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 09:27:23.078] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 09:30:55.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Launa'/62, l='ServerLevel[world]', x=32.68, y=62.06, z=78.01] died, message: 'Launa was slain by Vindicator'
+[11Sep2025 09:30:55.822] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Launa'/62, l='ServerLevel[world]', x=32.68, y=62.06, z=78.01] died: Launa was slain by Vindicator
+[11Sep2025 09:31:13.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Close Quarters]
+[11Sep2025 09:31:15.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Burner of Souls]
