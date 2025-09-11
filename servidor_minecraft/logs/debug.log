@@ -16498,3 +16498,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 08:39:20.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Sep2025 08:39:20.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Sep2025 08:41:02.722] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[11Sep2025 08:42:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
+[11Sep2025 08:42:43.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Getting an Upgrade]
+[11Sep2025 08:43:02.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement ['X' Marks the Spot]
+[11Sep2025 08:43:02.510] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[11Sep2025 08:43:30.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/550, l='ServerLevel[world]', x=56.73, y=63.00, z=80.42] died, message: 'Golem Healer was slain by nasusperro'
+[11Sep2025 08:43:30.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/550, l='ServerLevel[world]', x=56.73, y=63.00, z=80.42] died: Golem Healer was slain by nasusperro
+[11Sep2025 08:43:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
+[11Sep2025 08:43:37.149] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:43:37.150] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:43:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Acquire Hardware]
+[11Sep2025 08:43:40.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Suit Up]
+[11Sep2025 08:43:41.899] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Sep2025 08:43:46.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Wild Crops]
+[11Sep2025 08:44:00.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:44:00.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:44:00.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:44:00.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 08:44:00.052] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[11Sep2025 08:44:00.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:44:00.053] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 08:44:10.251] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Sep2025 08:44:13.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Diamonds!]
+[11Sep2025 08:44:20.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 08:44:20.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 08:45:08.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Crops of the Wild]
+[11Sep2025 08:45:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Not Today, Thank You]
+[11Sep2025 08:45:24.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Monster Hunter]
+[11Sep2025 08:47:12.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[11Sep2025 08:47:18.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[11Sep2025 08:47:21.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=57, y=64, z=74} BlockPos{x=57, y=62, z=76}
+[11Sep2025 08:49:13.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
+[11Sep2025 08:49:20.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 08:49:20.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 08:50:13.447] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Sep2025 08:50:15.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Tools of the Trade]
+[11Sep2025 08:50:35.746] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_blacksmith_loot
+[11Sep2025 08:50:35.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
+[11Sep2025 08:50:56.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Coral'/66, l='ServerLevel[world]', x=18.01, y=64.00, z=105.00] died, message: 'Coral was shot by Pillager'
+[11Sep2025 08:50:56.378] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Coral'/66, l='ServerLevel[world]', x=18.01, y=64.00, z=105.00] died: Coral was shot by Pillager
