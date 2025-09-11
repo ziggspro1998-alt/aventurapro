@@ -97,6 +97,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-11 12:17:01 +0000",
       "minecraft:deep_ocean": "2025-09-11 11:14:46 +0000",
       "minecraft:birch_forest": "2025-09-11 09:06:50 +0000",
       "minecraft:beach": "2025-09-11 08:37:07 +0000",
@@ -723,7 +724,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-09-11 08:43:37 +0000",
-      "opened_chest": "2025-09-11 08:43:02 +0000"
+      "opened_chest": "2025-09-11 08:43:02 +0000",
+      "opened_cart": "2025-09-11 12:09:24 +0000"
     },
     "done": false
   },
@@ -1063,6 +1065,7 @@
       "suspicious_stew": "2025-09-11 09:04:13 +0000",
       "apple": "2025-09-11 08:46:04 +0000",
       "bread": "2025-09-11 08:43:17 +0000",
+      "golden_apple": "2025-09-11 12:12:34 +0000",
       "cooked_salmon": "2025-09-11 09:06:06 +0000"
     },
     "done": false
@@ -2841,7 +2844,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smoker": "2025-09-11 09:08:29 +0000"
+      "smoker": "2025-09-11 09:08:29 +0000",
+      "smithingtable": "2025-09-11 11:59:43 +0000",
+      "blastfurnace": "2025-09-11 11:59:37 +0000"
     },
     "done": false
   },
@@ -4273,9 +4278,111 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/butter": {
+    "criteria": {
+      "has_water_bucket": "2025-09-11 12:03:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-09-11 12:09:24 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/yeast": {
+    "criteria": {
+      "has_the_recipe": "2025-09-11 12:03:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-09-11 12:03:38 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-11 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-09-11 12:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-11 11:58:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2025-09-11 11:54:01 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-09-11 12:09:40 +0000"
     },
     "done": true
   },
