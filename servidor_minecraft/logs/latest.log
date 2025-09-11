@@ -8083,3 +8083,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 08:58:37.244] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [11Sep2025 09:00:39.568] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['William'/25, l='ServerLevel[world]', x=52.70, y=62.51, z=95.60] died, message: 'William was slain by Vindicator'
 [11Sep2025 09:00:39.569] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['William'/25, l='ServerLevel[world]', x=52.70, y=62.51, z=95.60] died: William was slain by Vindicator
+[11Sep2025 09:02:24.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/3548, l='ServerLevel[world]', x=-0.49, y=65.00, z=10.25] died, message: 'Golem Healer was slain by Zombie Lumberjack'
+[11Sep2025 09:02:24.832] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/3548, l='ServerLevel[world]', x=-0.49, y=65.00, z=10.25] died: Golem Healer was slain by Zombie Lumberjack
+[11Sep2025 09:08:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
