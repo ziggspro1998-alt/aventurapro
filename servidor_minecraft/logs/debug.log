@@ -16572,3 +16572,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 09:08:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Let's Get To Work]
 [11Sep2025 09:09:20.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Sep2025 09:09:20.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 09:14:20.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 09:14:20.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 09:18:06.915] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Wilfredo'/16, l='ServerLevel[world]', x=-95.41, y=40.00, z=44.70] died, message: 'Wilfredo hit the ground too hard whilst trying to escape Vindicator'
+[11Sep2025 09:18:06.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Wilfredo'/16, l='ServerLevel[world]', x=-95.41, y=40.00, z=44.70] died: Wilfredo was doomed to fall by Vindicator
+[11Sep2025 09:19:20.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 09:19:20.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 09:20:03.225] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Sep2025 09:20:28.581] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_blacksmith_loot

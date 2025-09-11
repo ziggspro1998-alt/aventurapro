@@ -493,9 +493,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-09-11 09:14:34 +0000"
+    },
+    "done": true
+  },
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-11 09:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-09-11 09:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-09-11 09:15:01 +0000"
     },
     "done": true
   },
@@ -1154,6 +1172,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-09-11 09:14:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
@@ -1190,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-11 09:18:19 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-09-11 08:34:44 +0000"
@@ -1205,6 +1235,12 @@
   "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-09-11 09:14:34 +0000"
     },
     "done": true
   },
@@ -1559,6 +1595,12 @@
   "expanded_combat:recipes/combat/gold_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-09-11 09:14:34 +0000"
     },
     "done": true
   },
@@ -2054,6 +2096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-11 09:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-11 08:55:49 +0000"
@@ -2328,6 +2376,12 @@
   "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-11 09:12:31 +0000"
     },
     "done": true
   },
@@ -2607,6 +2661,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-09-11 09:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-09-11 08:43:40 +0000"
@@ -2664,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-11 09:15:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_barrel": {
     "criteria": {
       "has_spruce_plank": "2025-09-11 08:52:41 +0000"
@@ -2713,6 +2779,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-09-11 08:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-11 09:18:19 +0000"
     },
     "done": true
   },
