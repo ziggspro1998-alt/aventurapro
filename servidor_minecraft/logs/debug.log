@@ -14142,3 +14142,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 12:27:53.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Sep2025 12:31:33.819] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
 [11Sep2025 12:31:33.820] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[11Sep2025 12:32:53.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 12:32:53.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 12:37:53.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 12:37:53.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 12:42:15.736] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Sep2025 12:42:53.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 12:42:53.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 12:47:53.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 12:47:53.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 12:50:03.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Life turned out to be a comedy]
+[11Sep2025 12:50:05.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Good Demoman]
+[11Sep2025 12:52:53.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 12:52:53.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

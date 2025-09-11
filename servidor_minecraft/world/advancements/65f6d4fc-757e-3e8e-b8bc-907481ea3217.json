@@ -105,6 +105,7 @@
       "minecraft:river": "2025-09-11 08:42:45 +0000",
       "minecraft:forest": "2025-09-11 08:34:45 +0000",
       "minecraft:ocean": "2025-09-11 11:05:02 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-11 12:28:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-11 10:35:06 +0000",
       "minecraft:plains": "2025-09-11 10:41:48 +0000"
     },
@@ -1065,6 +1066,7 @@
       "cooked_porkchop": "2025-09-11 08:48:28 +0000",
       "suspicious_stew": "2025-09-11 09:04:13 +0000",
       "apple": "2025-09-11 08:46:04 +0000",
+      "cooked_cod": "2025-09-11 12:40:04 +0000",
       "bread": "2025-09-11 08:43:17 +0000",
       "golden_apple": "2025-09-11 12:12:34 +0000",
       "cooked_salmon": "2025-09-11 09:06:06 +0000"
@@ -4279,6 +4281,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_hamburger": {
     "criteria": {
       "has_cave_carrot": "2025-09-11 12:09:40 +0000"
@@ -4297,9 +4317,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-11 12:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-11 12:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-11 12:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4309,9 +4353,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 12:30:18 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_cave_carrot_campfire": {
     "criteria": {
       "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4324,6 +4380,18 @@
   "bakery:recipes/yeast": {
     "criteria": {
       "has_the_recipe": "2025-09-11 12:03:38 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-09-11 12:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4345,9 +4413,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-11 12:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-09-11 12:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4357,15 +4437,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_wrap": {
     "criteria": {
       "has_cave_carrot": "2025-09-11 12:09:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-09-11 12:22:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-11 12:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-09-11 12:50:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4384,6 +4518,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4417,6 +4557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-11 12:44:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-09-11 11:58:27 +0000"
@@ -4435,9 +4581,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-11 12:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-11 12:52:41 +0000"
     },
     "done": true
   },
@@ -4450,6 +4614,12 @@
   "miners_delight:recipes/food/improvised_barbecue_stick": {
     "criteria": {
       "has_cave_carrot": "2025-09-11 12:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-11 12:44:49 +0000"
     },
     "done": true
   },
