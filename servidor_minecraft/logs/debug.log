@@ -13646,3 +13646,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 10:15:11.643] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [11Sep2025 10:17:51.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Sep2025 10:17:51.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 10:22:34.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Otelia'/28, l='ServerLevel[world]', x=-13.13, y=67.00, z=42.48] died, message: 'Otelia was slain by Drowned'
+[11Sep2025 10:22:34.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Otelia'/28, l='ServerLevel[world]', x=-13.13, y=67.00, z=42.48] died: Otelia was slain by Drowned
+[11Sep2025 10:22:51.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 10:22:51.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Sep2025 10:23:48.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[11Sep2025 10:23:48.624] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[11Sep2025 10:27:51.407] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Sep2025 10:27:51.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

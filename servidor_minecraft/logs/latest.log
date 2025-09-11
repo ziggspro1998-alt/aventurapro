@@ -6025,3 +6025,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Sep2025 10:15:04.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [11Sep2025 10:15:04.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
 [11Sep2025 10:15:04.788] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[11Sep2025 10:22:34.816] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Otelia'/28, l='ServerLevel[world]', x=-13.13, y=67.00, z=42.48] died, message: 'Otelia was slain by Drowned'
+[11Sep2025 10:22:34.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Otelia'/28, l='ServerLevel[world]', x=-13.13, y=67.00, z=42.48] died: Otelia was slain by Drowned
+[11Sep2025 10:23:48.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[11Sep2025 10:23:48.624] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
