@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-09-11 08:45:08 +0000"
@@ -41,6 +53,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:38 +0000"
@@ -56,6 +74,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-09-11 08:34:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:53:25 +0000"
     },
     "done": true
   },
@@ -89,9 +113,21 @@
     },
     "done": true
   },
+  "bakery:recipes/vegetable_sandwich": {
+    "criteria": {
+      "has_carrot": "2025-09-11 08:53:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -179,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-11 08:43:05 +0000"
@@ -200,6 +242,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-09-11 08:45:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:53:25 +0000"
     },
     "done": true
   },
@@ -311,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-11 08:56:33 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:44:13 +0000"
@@ -323,6 +377,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/spruce_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
@@ -332,6 +398,18 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-11 08:34:44 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -350,6 +428,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-09-11 08:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -389,9 +473,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cupcake_display": {
     "criteria": {
       "has_stick": "2025-09-11 08:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -431,6 +527,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-09-11 08:43:05 +0000"
@@ -449,6 +551,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_shaped_skip": {
     "criteria": {
       "has_item": "2025-09-11 08:44:13 +0000"
@@ -461,9 +569,51 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_2": {
+    "criteria": {
+      "has_spruce_plank": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_1": {
+    "criteria": {
+      "has_spruce_plank": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_4": {
+    "criteria": {
+      "has_spruce_plank": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
+    "criteria": {
+      "has_spruce_plank": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -491,9 +641,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:44:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_4": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_3": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_2": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/mangrove_limited_barrel_1": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -510,6 +690,12 @@
     },
     "done": false
   },
+  "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-09-11 08:46:17 +0000"
@@ -519,6 +705,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-09-11 08:41:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -558,6 +750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/nethers_stove": {
     "criteria": {
       "has_campfire": "2025-09-11 08:43:12 +0000"
@@ -573,6 +771,18 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-09-11 08:42:18 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -594,6 +804,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:50:21 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/oat_block": {
     "criteria": {
       "has_oat": "2025-09-11 08:43:46 +0000"
@@ -609,6 +825,12 @@
   "bakery:recipes/rolling_pin": {
     "criteria": {
       "has_oak_planks": "2025-09-11 08:41:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -630,6 +852,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
@@ -639,6 +879,30 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -666,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-11 08:44:13 +0000"
@@ -684,6 +954,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-09-11 08:41:03 +0000"
@@ -696,9 +972,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-09-11 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -711,6 +999,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-11 08:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-11 08:50:58 +0000"
     },
     "done": true
   },
@@ -780,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-11 08:49:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-09-11 08:41:24 +0000"
@@ -840,6 +1140,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
@@ -888,6 +1194,18 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-09-11 08:42:18 +0000"
@@ -933,6 +1251,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1002,6 +1326,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:50:21 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2025-09-11 08:43:40 +0000"
@@ -1011,6 +1353,12 @@
   "bakery:recipes/oat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-09-11 08:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1041,6 +1389,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-11 08:41:03 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-09-11 08:57:09 +0000"
     },
     "done": true
   },
@@ -1092,6 +1446,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_chest": {
+    "criteria": {
+      "has_spruce_plank": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-11 08:42:18 +0000"
@@ -1122,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-09-11 08:41:24 +0000"
@@ -1134,15 +1500,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-09-11 08:43:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-11 08:58:54 +0000"
     },
     "done": true
   },
@@ -1164,9 +1548,27 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-09-11 08:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -1182,9 +1584,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-09-11 08:50:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-11 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1218,9 +1632,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-09-11 08:58:23 +0000"
     },
     "done": true
   },
@@ -1233,6 +1659,18 @@
   "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -1266,9 +1704,21 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-09-11 08:37:18 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-09-11 08:58:22 +0000"
     },
     "done": true
   },
@@ -1293,6 +1743,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-09-11 08:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -1338,9 +1794,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-11 08:49:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-09-11 08:34:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-09-11 08:50:21 +0000"
     },
     "done": true
   },
@@ -1365,6 +1839,12 @@
   "dungeons_and_combat:the_forgotten_knight": {
     "criteria": {
       "the_forgotten_knight_0": "2025-09-11 08:36:59 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -1404,6 +1884,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-09-11 08:34:44 +0000"
@@ -1413,6 +1899,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-11 08:37:18 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1458,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
@@ -1467,6 +1965,18 @@
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-09-11 08:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -1560,6 +2070,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:41:03 +0000"
@@ -1569,6 +2085,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-09-11 08:49:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1590,9 +2118,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/mangrove_chest": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/deepslate_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1608,9 +2148,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-09-11 08:37:18 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-09-11 08:55:49 +0000"
     },
     "done": true
   },
@@ -1650,6 +2214,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/mangrove_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-09-11 08:41:24 +0000"
@@ -1659,6 +2229,12 @@
   "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:41:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-09-11 08:50:35 +0000"
     },
     "done": true
   },
@@ -1674,6 +2250,18 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/mangrove_barrel": {
+    "criteria": {
+      "has_mangrove_plank": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
@@ -1683,6 +2271,12 @@
   "expanded_combat:recipes/combat/iron_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -1698,9 +2292,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/end_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-09-11 08:53:25 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "black_eye": "2025-09-11 08:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -1713,6 +2337,18 @@
   "man_of_many_planes:misc/expanded_aircraftery": {
     "criteria": {
       "has_item": "2025-09-11 08:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
     },
     "done": true
   },
@@ -1734,6 +2370,36 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:50:21 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-11 08:43:05 +0000"
@@ -1743,6 +2409,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-09-11 08:43:08 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
     },
     "done": true
   },
@@ -1776,6 +2448,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-09-11 08:57:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-09-11 08:37:07 +0000",
@@ -1783,6 +2461,12 @@
       "minecraft:forest": "2025-09-11 08:34:45 +0000"
     },
     "done": false
+  },
+  "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
   },
   "bakery:recipes/bread_box": {
     "criteria": {
@@ -1802,9 +2486,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel": {
+    "criteria": {
+      "has_spruce_plank": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-09-11 08:43:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:54:04 +0000"
     },
     "done": true
   },
@@ -1864,15 +2560,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-09-11 08:43:38 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-09-11 08:50:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-11 08:44:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 08:50:21 +0000"
     },
     "done": true
   },
@@ -1885,6 +2605,18 @@
   "bakery:recipes/brick_counter": {
     "criteria": {
       "has_oak_planks": "2025-09-11 08:41:03 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/mangrove_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-11 08:57:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-11 08:49:24 +0000"
     },
     "done": true
   },
