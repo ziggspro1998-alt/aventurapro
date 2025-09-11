@@ -100,7 +100,9 @@
       "minecraft:birch_forest": "2025-09-11 09:06:50 +0000",
       "minecraft:beach": "2025-09-11 08:37:07 +0000",
       "minecraft:river": "2025-09-11 08:42:45 +0000",
-      "minecraft:forest": "2025-09-11 08:34:45 +0000"
+      "minecraft:forest": "2025-09-11 08:34:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-11 10:35:06 +0000",
+      "minecraft:plains": "2025-09-11 10:41:48 +0000"
     },
     "done": false
   },
@@ -1824,6 +1826,8 @@
       "minecraft:pillager": "2025-09-11 08:45:24 +0000",
       "minecraft:skeleton": "2025-09-11 09:07:02 +0000",
       "minecraft:vindicator": "2025-09-11 09:01:15 +0000",
+      "minecraft:spider": "2025-09-11 10:42:32 +0000",
+      "minecraft:creeper": "2025-09-11 10:38:43 +0000",
       "minecraft:zombie": "2025-09-11 10:23:41 +0000"
     },
     "done": false
@@ -3005,6 +3009,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-11 10:51:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-09-11 10:45:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-11 10:14:06 +0000"
@@ -3023,6 +3039,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 10:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-09-11 09:52:54 +0000"
@@ -3035,15 +3057,87 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-09-11 10:39:19 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 10:45:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-11 10:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-11 10:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-11 10:39:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-11 10:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-11 10:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-09-11 10:23:59 +0000"
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 10:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-09-11 10:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-11 10:51:22 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-09-11 09:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-11 10:44:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-09-11 10:45:43 +0000"
     },
     "done": true
   },
@@ -3059,9 +3153,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-09-11 10:47:44 +0000"
+    },
+    "done": true
+  },
   "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
     "criteria": {
       "has_smooth_stone": "2025-09-11 10:17:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-09-11 10:39:19 +0000"
     },
     "done": true
   },
@@ -3071,9 +3177,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-09-11 10:45:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-11 10:14:06 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-09-11 10:39:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-09-11 10:44:11 +0000"
     },
     "done": true
   },
@@ -3086,6 +3210,30 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-09-11 10:23:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-09-11 10:45:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-09-11 10:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-11 10:45:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-09-11 10:45:43 +0000"
     },
     "done": true
   },
@@ -3119,9 +3267,21 @@
     },
     "done": true
   },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-09-11 10:51:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-09-11 10:00:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-09-11 10:39:19 +0000"
     },
     "done": true
   },
@@ -3134,6 +3294,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-09-11 10:17:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 10:45:23 +0000"
     },
     "done": true
   },
@@ -3155,6 +3321,24 @@
     },
     "done": true
   },
+  "wildberries:berry": {
+    "criteria": {
+      "berry": "2025-09-11 10:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-11 10:42:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-09-11 10:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-09-11 10:26:14 +0000"
@@ -3170,6 +3354,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-09-11 10:00:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-09-11 10:39:40 +0000"
     },
     "done": true
   },
@@ -3203,9 +3393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-11 10:44:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-09-11 10:25:17 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-11 10:39:19 +0000"
     },
     "done": true
   },
@@ -3221,9 +3423,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-09-11 10:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-09-11 10:23:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-09-11 10:45:23 +0000"
     },
     "done": true
   },
