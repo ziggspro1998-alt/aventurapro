@@ -6025,3 +6025,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 14:51:09.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Keturah'/138, l='ServerLevel[world]', x=172.70, y=59.00, z=-606.50] died, message: 'Keturah was slain by ZombiesHptas'
 [12Sep2025 14:51:09.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Keturah'/138, l='ServerLevel[world]', x=172.70, y=59.00, z=-606.50] died: Keturah was slain by ZombiesHptas
 [12Sep2025 14:55:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Zombie Doctor]
+[12Sep2025 15:16:23.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[12Sep2025 15:16:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[12Sep2025 15:16:39.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.108.98.136:49375] logged in with entity id 68252 at (175.16110080076587, 60.0, -626.4547948985636)
+[12Sep2025 15:16:39.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[12Sep2025 15:16:39.559] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
+[12Sep2025 15:17:17.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/68322, l='ServerLevel[world]', x=180.70, y=11.00, z=-632.45] died, message: 'Golem Healer was slain by Decaying Zombie'
+[12Sep2025 15:17:17.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/68322, l='ServerLevel[world]', x=180.70, y=11.00, z=-632.45] died: Golem Healer was slain by Decaying Zombie
+[12Sep2025 15:19:47.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Cover Me with Diamonds]

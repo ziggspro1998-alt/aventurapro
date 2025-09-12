@@ -4985,33 +4985,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_flint": "2025-09-12 11:58:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-09-12 13:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
+      "has_gravel": "2025-09-12 10:53:50 +0000"
     },
     "done": true
   },
@@ -5021,87 +4997,9 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/birch_plank_battle_staff_conditional_shaped": {
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
-      "has_item": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:master_trade": {
-    "criteria": {
-      "villagertrade": "2025-09-12 11:27:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/spruce_banister": {
-    "criteria": {
-      "has_item": "2025-09-12 13:06:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sweet_dough": {
-    "criteria": {
-      "has_sugar": "2025-09-12 13:49:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-09-12 11:32:51 +0000"
+      "has_vanilla_chest": "2025-09-12 11:01:55 +0000"
     },
     "done": true
   },
@@ -5111,15 +5009,27 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_item": "2025-09-12 11:24:14 +0000"
+      "has_kelp": "2025-09-12 11:03:13 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
-      "has_spruce_trapdoor": "2025-09-12 12:56:34 +0000"
+      "has_kelp": "2025-09-12 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-09-12 11:03:20 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-09-12 11:03:20 +0000"
     },
     "done": true
   },
@@ -5135,15 +5045,81 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+  "morevillagers:first_trade": {
     "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
+      "villagertrade": "2025-09-12 11:18:27 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_vanilla_barrel": "2025-09-12 11:03:20 +0000"
+      "traded": "2025-09-12 11:18:27 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-09-12 11:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/birch_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-12 11:24:14 +0000"
     },
     "done": true
   },
@@ -5153,117 +5129,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:bee": "2025-09-12 11:32:51 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_dough": {
-    "criteria": {
-      "has_sugar": "2025-09-12 13:49:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-09-12 11:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-09-12 14:41:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2025-09-12 14:06:18 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-09-12 11:18:27 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/birch_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-12 11:24:14 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
-    "criteria": {
-      "has_vanilla_chest": "2025-09-12 11:01:55 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/birch_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-09-12 11:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-09-12 11:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-09-12 14:06:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-09-12 14:01:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-09-12 10:53:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-09-12 11:03:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2025-09-12 14:01:04 +0000"
     },
     "done": true
   },
@@ -5291,69 +5165,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-09-12 11:03:13 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/birch_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-09-12 11:28:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-09-12 11:18:27 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/oceanography_table": {
-    "criteria": {
-      "has_barrel": "2025-09-12 11:03:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/dough": {
-    "criteria": {
-      "has_sugar": "2025-09-12 13:49:42 +0000"
     },
     "done": true
   },
@@ -5369,27 +5183,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "castle_in_the_sky:trade": {
-    "criteria": {
-      "traded": "2025-09-12 11:18:27 +0000"
     },
     "done": true
   },
@@ -5411,39 +5207,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2025-09-12 11:58:42 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/birch_plank_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-12 11:24:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "bacon_and_eggs": "2025-09-12 14:04:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-09-12 14:55:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-09-12 11:56:26 +0000"
     },
     "done": true
   },
@@ -5453,27 +5219,105 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_nourishing_food": {
+  "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
     "criteria": {
-      "nourishment": "2025-09-12 14:04:27 +0000"
+      "has_item": "2025-09-12 11:24:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
+      "has_planks": "2025-09-12 11:24:14 +0000"
     },
     "done": true
   },
-  "friendsandfoes:husbandry/beehive": {
+  "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
     "criteria": {
-      "dark_oak_beehive": "2025-09-12 13:35:14 +0000"
+      "has_item": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-12 11:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-12 11:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-12 11:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-09-12 11:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-12 11:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2025-09-12 11:32:51 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-09-12 11:50:48 +0000"
     },
     "done": true
   },
@@ -5483,15 +5327,63 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
-      "beetroots": "2025-09-12 14:23:51 +0000"
+      "has_diorite": "2025-09-12 11:50:48 +0000"
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
+  "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
-      "has_item": "2025-09-12 11:24:14 +0000"
+      "has_diorite": "2025-09-12 11:50:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-09-12 11:56:26 +0000"
     },
     "done": true
   },
@@ -5507,15 +5399,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_planks": "2025-09-12 11:24:14 +0000"
+      "has_flint": "2025-09-12 11:58:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
+      "has_flint": "2025-09-12 11:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-09-12 12:34:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-09-12 12:56:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-09-12 13:06:38 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "dark_oak_beehive": "2025-09-12 13:35:14 +0000"
+    },
+    "done": false
+  },
+  "bakery:recipes/sweet_dough": {
+    "criteria": {
+      "has_sugar": "2025-09-12 13:49:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_dough": {
+    "criteria": {
+      "has_sugar": "2025-09-12 13:49:42 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/dough": {
+    "criteria": {
+      "has_sugar": "2025-09-12 13:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-09-12 13:49:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-09-12 14:01:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-09-12 14:01:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "bacon_and_eggs": "2025-09-12 14:04:27 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-09-12 14:04:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2025-09-12 14:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-09-12 14:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-09-12 14:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-12 14:41:39 +0000"
     },
     "done": true
   },
@@ -5525,15 +5531,15 @@
     },
     "done": true
   },
-  "expanded_combat:recipes/combat/birch_plank_flail_conditional_shaped": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "has_item": "2025-09-12 11:24:14 +0000"
+      "cured_zombie": "2025-09-12 14:55:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_diorite": "2025-09-12 11:50:48 +0000"
+      "diamond_boots": "2025-09-12 15:19:47 +0000"
     },
     "done": true
   },
