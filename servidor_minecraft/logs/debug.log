@@ -13618,3 +13618,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 12:32:57.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gino'/141, l='ServerLevel[world]', x=231.05, y=85.00, z=-596.55] died: Gino was slain by Zombie Bruiser
 [12Sep2025 12:35:26.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Sep2025 12:35:26.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 12:40:26.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 12:40:26.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 12:45:26.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 12:45:26.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
