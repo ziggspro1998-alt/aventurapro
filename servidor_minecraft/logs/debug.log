@@ -13672,3 +13672,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 14:40:26.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Sep2025 14:40:26.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Sep2025 14:41:39.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ice Bucket Challenge]
+[12Sep2025 14:45:26.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 14:45:26.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 14:50:26.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 14:50:26.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 14:50:47.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Walker'/143, l='ServerLevel[world]', x=172.30, y=59.00, z=-608.50] died, message: 'Walker was slain by Zombie'
+[12Sep2025 14:50:47.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Walker'/143, l='ServerLevel[world]', x=172.30, y=59.00, z=-608.50] died: Walker was slain by Zombie
+[12Sep2025 14:50:52.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chi'/173, l='ServerLevel[world]', x=172.30, y=59.00, z=-604.50] died, message: 'Chi was slain by ZombiesHptas'
+[12Sep2025 14:50:52.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chi'/173, l='ServerLevel[world]', x=172.30, y=59.00, z=-604.50] died: Chi was slain by ZombiesHptas
+[12Sep2025 14:51:00.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hortense'/238, l='ServerLevel[world]', x=172.30, y=59.00, z=-610.50] died, message: 'Hortense was slain by Zombie'
+[12Sep2025 14:51:00.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hortense'/238, l='ServerLevel[world]', x=172.30, y=59.00, z=-610.50] died: Hortense was slain by Zombie
+[12Sep2025 14:51:09.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Keturah'/138, l='ServerLevel[world]', x=172.70, y=59.00, z=-606.50] died, message: 'Keturah was slain by ZombiesHptas'
+[12Sep2025 14:51:09.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Keturah'/138, l='ServerLevel[world]', x=172.70, y=59.00, z=-606.50] died: Keturah was slain by ZombiesHptas
