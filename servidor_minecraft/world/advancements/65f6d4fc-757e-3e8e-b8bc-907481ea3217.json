@@ -5092,6 +5092,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-09-12 12:56:34 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_professions_traded": {
     "criteria": {
       "toolsmith": "2025-09-12 11:18:27 +0000",
