@@ -14040,3 +14040,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 16:36:27.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dark Creator]
 [12Sep2025 16:40:26.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Sep2025 16:40:26.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 16:45:26.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 16:45:26.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 16:50:26.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 16:50:26.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
