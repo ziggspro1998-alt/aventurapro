@@ -6014,3 +6014,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 12:32:57.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gino'/141, l='ServerLevel[world]', x=231.05, y=85.00, z=-596.55] died: Gino was slain by Zombie Bruiser
 [12Sep2025 13:49:48.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]
 [12Sep2025 14:01:20.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Dinner's Served!]
+[12Sep2025 14:23:51.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Seedy Place]
