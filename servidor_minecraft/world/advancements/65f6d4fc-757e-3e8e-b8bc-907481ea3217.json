@@ -2861,7 +2861,8 @@
       "smithingtable": "2025-09-11 11:59:43 +0000",
       "blastfurnace": "2025-09-11 11:59:37 +0000",
       "lectern": "2025-09-11 19:39:07 +0000",
-      "cauldron": "2025-09-12 11:36:51 +0000"
+      "cauldron": "2025-09-12 11:36:51 +0000",
+      "composter": "2025-09-12 13:06:42 +0000"
     },
     "done": false
   },
@@ -5041,6 +5042,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-09-12 13:06:38 +0000"
     },
     "done": true
   },
