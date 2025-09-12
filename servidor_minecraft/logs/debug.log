@@ -13586,3 +13586,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 11:40:26.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Sep2025 11:45:26.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Sep2025 11:45:26.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:50:26.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:50:26.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:55:26.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:55:26.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 12:00:26.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 12:00:26.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 12:05:26.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 12:05:26.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 12:09:48.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mervin'/210, l='ServerLevel[world]', x=113.19, y=71.40, z=-592.69] died, message: 'Mervin was slain by Zombie Lumberjack'
+[12Sep2025 12:09:48.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mervin'/210, l='ServerLevel[world]', x=113.19, y=71.40, z=-592.69] died: Mervin was slain by Zombie Lumberjack

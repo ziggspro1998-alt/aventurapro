@@ -6000,3 +6000,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 11:32:25.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=187, y=65, z=-675} BlockPos{x=188, y=64, z=-674}
 [12Sep2025 11:32:26.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=65, z=-675} BlockPos{x=187, y=64, z=-673}
 [12Sep2025 11:32:51.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Parrots and the Bats]
+[12Sep2025 12:09:48.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mervin'/210, l='ServerLevel[world]', x=113.19, y=71.40, z=-592.69] died, message: 'Mervin was slain by Zombie Lumberjack'
+[12Sep2025 12:09:48.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mervin'/210, l='ServerLevel[world]', x=113.19, y=71.40, z=-592.69] died: Mervin was slain by Zombie Lumberjack
