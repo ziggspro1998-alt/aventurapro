@@ -6012,3 +6012,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 12:28:28.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/121, l='ServerLevel[world]', x=125.36, y=53.00, z=-638.53] died: Golem Healer was slain by Zombie Bruiser
 [12Sep2025 12:32:57.775] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gino'/141, l='ServerLevel[world]', x=231.05, y=85.00, z=-596.55] died, message: 'Gino was slain by Zombie Bruiser'
 [12Sep2025 12:32:57.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gino'/141, l='ServerLevel[world]', x=231.05, y=85.00, z=-596.55] died: Gino was slain by Zombie Bruiser
+[12Sep2025 13:49:48.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]
