@@ -2861,6 +2861,7 @@
       "smithingtable": "2025-09-11 11:59:43 +0000",
       "blastfurnace": "2025-09-11 11:59:37 +0000",
       "lectern": "2025-09-11 19:39:07 +0000",
+      "stonecutter": "2025-09-12 13:36:31 +0000",
       "cauldron": "2025-09-12 11:36:51 +0000",
       "composter": "2025-09-12 13:06:42 +0000"
     },
@@ -5382,6 +5383,12 @@
       "has_polished_diorite": "2025-09-12 12:34:53 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "dark_oak_beehive": "2025-09-12 13:35:14 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
