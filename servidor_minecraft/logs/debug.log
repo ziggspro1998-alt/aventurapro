@@ -13555,3 +13555,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 10:52:07.964] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [12Sep2025 10:55:26.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Sep2025 10:55:27.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:00:26.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:00:26.939] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:01:47.828] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[12Sep2025 11:05:00.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Sep2025 11:05:26.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:05:26.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:07:46.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/103, l='ServerLevel[world]', x=148.42, y=64.00, z=-653.58] died, message: 'Golem Healer was slain by nasusperro'
+[12Sep2025 11:07:46.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/103, l='ServerLevel[world]', x=148.42, y=64.00, z=-653.58] died: Golem Healer was slain by nasusperro
+[12Sep2025 11:10:26.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:10:26.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:15:26.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:15:26.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:18:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [What a Deal!]
+[12Sep2025 11:18:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Trade]
+[12Sep2025 11:18:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [There is a Castle on a Cloud]

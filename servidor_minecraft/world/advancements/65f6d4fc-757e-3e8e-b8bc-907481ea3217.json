@@ -2852,6 +2852,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-09-12 11:03:20 +0000",
+      "fletchingtable": "2025-09-12 11:08:26 +0000",
+      "brewingstand": "2025-09-12 11:05:32 +0000",
       "grindstone": "2025-09-11 19:41:31 +0000",
       "smoker": "2025-09-11 09:08:29 +0000",
       "smithingtable": "2025-09-11 11:59:43 +0000",
@@ -4973,9 +4976,51 @@
     },
     "done": false
   },
+  "bagofholding:recipes/tools/leather_bag_of_holding": {
+    "criteria": {
+      "has_chest": "2025-09-12 11:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-12 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-09-12 11:03:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-09-12 11:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-09-12 10:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-12 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-12 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-09-12 11:03:20 +0000"
     },
     "done": true
   },

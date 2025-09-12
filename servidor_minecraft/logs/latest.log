@@ -5991,3 +5991,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 10:50:29.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
 [12Sep2025 10:50:29.870] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
 [12Sep2025 10:50:34.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
+[12Sep2025 11:07:46.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/103, l='ServerLevel[world]', x=148.42, y=64.00, z=-653.58] died, message: 'Golem Healer was slain by nasusperro'
+[12Sep2025 11:07:46.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/103, l='ServerLevel[world]', x=148.42, y=64.00, z=-653.58] died: Golem Healer was slain by nasusperro
+[12Sep2025 11:18:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [What a Deal!]
+[12Sep2025 11:18:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Trade]
+[12Sep2025 11:18:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [There is a Castle on a Cloud]
