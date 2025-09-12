@@ -13570,3 +13570,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 11:18:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [What a Deal!]
 [12Sep2025 11:18:27.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Trade]
 [12Sep2025 11:18:27.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [There is a Castle on a Cloud]
+[12Sep2025 11:20:26.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:20:26.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:25:26.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 11:25:26.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 11:27:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ace Trainer]
