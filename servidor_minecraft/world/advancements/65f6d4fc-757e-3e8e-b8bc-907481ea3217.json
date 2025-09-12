@@ -5006,6 +5006,12 @@
     },
     "done": true
   },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-12 11:27:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-09-12 11:24:14 +0000"
@@ -5036,6 +5042,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-12 11:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-09-12 11:03:13 +0000"
@@ -5050,7 +5062,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "toolsmith": "2025-09-12 11:18:27 +0000"
+      "toolsmith": "2025-09-12 11:18:27 +0000",
+      "fletcher": "2025-09-12 11:26:26 +0000"
     },
     "done": false
   },
@@ -5065,6 +5078,12 @@
       "has_item": "2025-09-12 11:24:14 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2025-09-12 11:32:51 +0000"
+    },
+    "done": false
   },
   "morevillagers:first_trade": {
     "criteria": {
@@ -5087,6 +5106,18 @@
   "expanded_combat:recipes/combat/birch_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-09-12 11:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-12 11:28:12 +0000"
     },
     "done": true
   },
@@ -5135,6 +5166,12 @@
   "expanded_combat:recipes/combat/birch_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-12 11:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-09-12 11:28:12 +0000"
     },
     "done": true
   },
