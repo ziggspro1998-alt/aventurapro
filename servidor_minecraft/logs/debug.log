@@ -13689,3 +13689,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 14:55:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Zombie Doctor]
 [12Sep2025 15:00:26.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Sep2025 15:00:26.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 15:05:26.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 15:05:26.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Sep2025 15:10:26.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Sep2025 15:10:26.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
