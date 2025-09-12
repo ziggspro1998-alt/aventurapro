@@ -6024,3 +6024,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 14:51:00.263] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hortense'/238, l='ServerLevel[world]', x=172.30, y=59.00, z=-610.50] died: Hortense was slain by Zombie
 [12Sep2025 14:51:09.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Keturah'/138, l='ServerLevel[world]', x=172.70, y=59.00, z=-606.50] died, message: 'Keturah was slain by ZombiesHptas'
 [12Sep2025 14:51:09.825] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Keturah'/138, l='ServerLevel[world]', x=172.70, y=59.00, z=-606.50] died: Keturah was slain by ZombiesHptas
+[12Sep2025 14:55:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Zombie Doctor]

@@ -5128,6 +5128,9 @@
       "toolsmith": "2025-09-12 11:18:27 +0000",
       "cleric": "2025-09-12 12:38:28 +0000",
       "fletcher": "2025-09-12 11:26:26 +0000",
+      "butcher": "2025-09-12 14:58:19 +0000",
+      "weaponsmith": "2025-09-12 14:50:36 +0000",
+      "armorer": "2025-09-12 14:50:38 +0000",
       "farmer": "2025-09-12 14:14:40 +0000"
     },
     "done": false
@@ -5431,6 +5434,12 @@
       "bacon_and_eggs": "2025-09-12 14:04:27 +0000"
     },
     "done": false
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-09-12 14:55:54 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
