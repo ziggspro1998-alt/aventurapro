@@ -6078,3 +6078,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 17:16:34.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kirstin'/95280, l='ServerLevel[world]', x=172.30, y=59.00, z=-618.47] died: Kirstin was slain by ZombiesHptas
 [12Sep2025 17:16:43.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Megan'/95417, l='ServerLevel[world]', x=172.30, y=59.00, z=-620.50] died, message: 'Megan was slain by ZombiesHptas'
 [12Sep2025 17:16:43.462] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Megan'/95417, l='ServerLevel[world]', x=172.30, y=59.00, z=-620.50] died: Megan was slain by ZombiesHptas
+[12Sep2025 17:34:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[12Sep2025 17:34:59.249] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(187, 77, -633) minecraft:overworld
+[12Sep2025 17:35:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[12Sep2025 17:35:36.384] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Sep2025 17:35:36.385] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Sep2025 17:35:36.385] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Sep2025 17:35:36.385] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[12Sep2025 17:35:36.385] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[12Sep2025 17:35:36.386] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[12Sep2025 17:35:36.386] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[12Sep2025 17:35:36.386] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[12Sep2025 17:35:36.386] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[12Sep2025 17:35:41.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[12Sep2025 17:35:41.865] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(191, 73, -633) minecraft:overworld
+[12Sep2025 17:36:10.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Nightmare Stalker
+[12Sep2025 17:36:27.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved too quickly! 6.140528671437295,4.0,11.46836707753505
+[12Sep2025 17:36:28.379] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Sep2025 17:36:28.379] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Sep2025 17:36:28.379] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[12Sep2025 17:36:28.380] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[12Sep2025 17:36:28.380] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[12Sep2025 17:36:28.380] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[12Sep2025 17:36:28.380] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[12Sep2025 17:36:28.380] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[12Sep2025 17:36:28.381] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[12Sep2025 17:37:28.373] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/102953, l='ServerLevel[world]', x=164.53, y=15.00, z=-607.33] died, message: 'Golem Healer was slain by Zombie'
+[12Sep2025 17:37:28.374] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/102953, l='ServerLevel[world]', x=164.53, y=15.00, z=-607.33] died: Golem Healer was slain by Zombie
+[12Sep2025 17:40:36.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/103389, l='ServerLevel[world]', x=175.33, y=9.00, z=-610.58] died: Golem Healer was slain by Golem Healer

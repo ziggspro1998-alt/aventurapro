@@ -5781,6 +5781,12 @@
     },
     "done": true
   },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_boss_0": "2025-09-12 17:34:59 +0000"
+    },
+    "done": true
+  },
   "some_assembly_required:consume_potion_sandwich": {
     "criteria": {
       "consume_potion_sandwich": "2025-09-12 16:04:09 +0000"
