@@ -5570,9 +5570,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-12 16:14:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-09-12 15:27:36 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-12 16:09:07 +0000"
     },
     "done": true
   },
@@ -5699,6 +5711,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-12 15:35:46 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:consume_potion_sandwich": {
+    "criteria": {
+      "consume_potion_sandwich": "2025-09-12 16:04:09 +0000"
     },
     "done": true
   },
