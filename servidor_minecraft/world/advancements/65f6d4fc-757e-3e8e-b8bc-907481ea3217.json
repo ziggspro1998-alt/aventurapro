@@ -105,6 +105,7 @@
       "minecraft:dark_forest": "2025-09-11 19:24:35 +0000",
       "minecraft:river": "2025-09-11 08:42:45 +0000",
       "minecraft:forest": "2025-09-11 08:34:45 +0000",
+      "minecraft:lush_caves": "2025-09-12 15:24:18 +0000",
       "minecraft:ocean": "2025-09-11 11:05:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-11 12:28:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-11 10:35:06 +0000",
@@ -5540,6 +5541,48 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2025-09-12 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-09-12 15:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-09-12 15:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-09-12 15:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-09-12 15:29:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-09-12 15:27:40 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_painting": {
+    "criteria": {
+      "has_item": "2025-09-12 15:24:53 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-09-12 15:24:53 +0000"
     },
     "done": true
   },

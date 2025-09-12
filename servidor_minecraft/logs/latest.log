@@ -6033,3 +6033,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Sep2025 15:17:17.717] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/68322, l='ServerLevel[world]', x=180.70, y=11.00, z=-632.45] died, message: 'Golem Healer was slain by Decaying Zombie'
 [12Sep2025 15:17:17.717] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/68322, l='ServerLevel[world]', x=180.70, y=11.00, z=-632.45] died: Golem Healer was slain by Decaying Zombie
 [12Sep2025 15:19:47.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Cover Me with Diamonds]
+[12Sep2025 15:27:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Deceived Hopes]
+[12Sep2025 15:31:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Wind Darkening]
