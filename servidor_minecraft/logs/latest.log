@@ -6116,3 +6116,44 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 14:47:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Quaint Scribe]
 [13Sep2025 14:49:53.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]
 [13Sep2025 15:03:51.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[13Sep2025 15:15:33.140] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Janee'/82896, l='ServerLevel[world]', x=-59.33, y=66.00, z=-1054.87] died, message: 'death.attack.traveloptics.aqua_missiles'
+[13Sep2025 15:15:33.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Janee'/82896, l='ServerLevel[world]', x=-59.33, y=66.00, z=-1054.87] died: death.attack.traveloptics.aqua_missiles
+[13Sep2025 15:17:02.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Mutant Creeper
+[13Sep2025 15:17:02.435] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-80, 63, -1029) minecraft:overworld
+[13Sep2025 15:17:12.137] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:17:12.137] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:17:12.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 blood_echo
+[13Sep2025 15:17:12.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:17:12.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[13Sep2025 15:17:12.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 holy_echo
+[13Sep2025 15:17:12.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[13Sep2025 15:17:12.138] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:17:12.139] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fireward_ring
+[13Sep2025 15:17:12.139] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:17:12.139] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:17:12.139] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:17:12.139] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:17:12.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:17:12.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:17:12.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[13Sep2025 15:17:12.140] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:18:44.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Horror Under the Mantle]
+[13Sep2025 15:24:38.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.floodgate
+[13Sep2025 15:24:38.743] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-89, 64, -1028) minecraft:overworld
+[13Sep2025 15:24:44.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:24:44.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:24:44.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 blood_echo
+[13Sep2025 15:24:44.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:24:44.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 blood_echo
+[13Sep2025 15:24:44.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 blood_echo
+[13Sep2025 15:24:44.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[13Sep2025 15:24:44.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:24:44.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[13Sep2025 15:24:44.944] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:24:44.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:24:44.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:24:44.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:24:44.945] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:24:44.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:24:44.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[13Sep2025 15:24:44.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
