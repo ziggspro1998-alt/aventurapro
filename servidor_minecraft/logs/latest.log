@@ -6212,3 +6212,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 15:55:01.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Demarcus'/99682, l='ServerLevel[world]', x=175.40, y=76.94, z=-629.50] died: Demarcus was slain by nasusperro
 [13Sep2025 15:55:09.858] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vanesa'/99685, l='ServerLevel[world]', x=181.60, y=76.94, z=-630.46] died, message: 'Vanesa was slain by nasusperro'
 [13Sep2025 15:55:09.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vanesa'/99685, l='ServerLevel[world]', x=181.60, y=76.94, z=-630.46] died: Vanesa was slain by nasusperro
+[13Sep2025 16:14:00.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [We Need to Go Deeper]
+[13Sep2025 16:14:02.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5665ms or 113 ticks behind
+[13Sep2025 16:14:17.901] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Sep2025 16:14:17.911] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
