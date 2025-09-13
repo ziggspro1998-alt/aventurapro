@@ -6157,3 +6157,45 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 15:24:44.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [13Sep2025 15:24:44.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
 [13Sep2025 15:24:44.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:32:49.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[13Sep2025 15:32:49.241] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-50, 59, -1009) minecraft:overworld
+[13Sep2025 15:33:01.438] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:33:01.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:33:01.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 blood_echo
+[13Sep2025 15:33:01.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:33:01.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[13Sep2025 15:33:01.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 holy_echo
+[13Sep2025 15:33:01.439] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[13Sep2025 15:33:01.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:33:01.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fireward_ring
+[13Sep2025 15:33:01.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:33:01.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:33:01.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:33:01.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:33:01.441] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:33:01.441] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:33:01.441] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[13Sep2025 15:33:01.441] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:34:00.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[13Sep2025 15:34:00.440] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-60, 64, -1015) minecraft:overworld
+[13Sep2025 15:34:11.238] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:34:11.238] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:34:11.238] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 blood_echo
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 blood_echo
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 blood_echo
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[13Sep2025 15:34:11.239] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[13Sep2025 15:34:11.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[13Sep2025 15:34:11.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:34:11.240] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:34:11.241] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:34:11.241] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[13Sep2025 15:34:11.241] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 diamond_backpack
+[13Sep2025 15:34:11.241] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[13Sep2025 15:40:49.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cicely'/96596, l='ServerLevel[world]', x=-5.50, y=-59.00, z=-2.50] died, message: 'Cicely suffocated in a wall'
+[13Sep2025 15:40:49.954] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cicely'/96596, l='ServerLevel[world]', x=-5.50, y=-59.00, z=-2.50] died: Cicely suffocated in a wall
+[13Sep2025 15:40:49.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Adah'/96597, l='ServerLevel[world]', x=-3.50, y=-59.00, z=-2.50] died, message: 'Adah suffocated in a wall'
+[13Sep2025 15:40:49.955] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Adah'/96597, l='ServerLevel[world]', x=-3.50, y=-59.00, z=-2.50] died: Adah suffocated in a wall
