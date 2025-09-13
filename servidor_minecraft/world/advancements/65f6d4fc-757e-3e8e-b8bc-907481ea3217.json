@@ -6030,6 +6030,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-09-13 14:15:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-09-13 13:10:06 +0000"

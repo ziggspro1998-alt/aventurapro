@@ -6095,3 +6095,4 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 14:08:06.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dripstone Everywhere]
 [13Sep2025 14:08:17.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
 [13Sep2025 14:10:04.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Disgusting Worm]
+[13Sep2025 14:15:45.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [The One - Armed Monster]
