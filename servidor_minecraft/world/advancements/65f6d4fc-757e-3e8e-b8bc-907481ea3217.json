@@ -1843,6 +1843,7 @@
       "minecraft:vindicator": "2025-09-11 09:01:15 +0000",
       "minecraft:spider": "2025-09-11 10:42:32 +0000",
       "minecraft:creeper": "2025-09-11 10:38:43 +0000",
+      "minecraft:phantom": "2025-09-13 14:23:41 +0000",
       "minecraft:cave_spider": "2025-09-11 19:49:15 +0000",
       "minecraft:enderman": "2025-09-11 11:52:21 +0000",
       "minecraft:zombie": "2025-09-11 10:23:41 +0000",
@@ -5498,6 +5499,7 @@
   "farmersdelight:main/master_chef": {
     "criteria": {
       "steak_and_potatoes": "2025-09-13 14:01:46 +0000",
+      "beef_stew": "2025-09-13 14:25:34 +0000",
       "bacon_and_eggs": "2025-09-12 14:04:27 +0000"
     },
     "done": false
@@ -6006,6 +6008,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-09-13 14:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-13 14:11:55 +0000"
@@ -6045,6 +6053,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-13 14:11:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-09-13 14:49:46 +0000"
     },
     "done": true
   },
@@ -6090,6 +6104,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-09-13 14:47:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-09-13 14:11:55 +0000"
@@ -6120,9 +6140,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-13 14:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_cut_copper": "2025-09-13 13:08:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-09-13 14:47:44 +0000"
     },
     "done": true
   },
@@ -6171,6 +6203,12 @@
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
       "has_pumpkin_slice": "2025-09-13 12:21:50 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-09-13 14:49:53 +0000"
     },
     "done": true
   },
