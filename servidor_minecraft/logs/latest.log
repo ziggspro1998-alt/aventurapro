@@ -6115,3 +6115,4 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 14:43:22.600] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
 [13Sep2025 14:47:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Quaint Scribe]
 [13Sep2025 14:49:53.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]
+[13Sep2025 15:03:51.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
