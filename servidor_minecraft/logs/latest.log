@@ -6216,3 +6216,9 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 16:14:02.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5665ms or 113 ticks behind
 [13Sep2025 16:14:17.901] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [13Sep2025 16:14:17.911] [Worker-Main-12/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[13Sep2025 16:15:59.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=70, z=-95} BlockPos{x=6, y=49, z=-101}
+[13Sep2025 16:15:59.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=70, z=-95} BlockPos{x=6, y=49, z=-101}
+[13Sep2025 16:15:59.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=70, z=-95} BlockPos{x=6, y=49, z=-101}
+[13Sep2025 16:15:59.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=70, z=-95} BlockPos{x=6, y=49, z=-101}
+[13Sep2025 16:15:59.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=70, z=-95} BlockPos{x=6, y=49, z=-101}
+[13Sep2025 16:18:22.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
