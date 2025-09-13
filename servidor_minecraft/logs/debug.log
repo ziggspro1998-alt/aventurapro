@@ -14342,3 +14342,7 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 16:18:36.681] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/311, l='ServerLevel[world]', x=36.68, y=62.00, z=-66.82], mainHand=8 steak_and_potatoes, spellbook=1 iron_spell_book, school=traveloptics:aqua, spell=traveloptics:hydroshot, rarity=COMMON, level=3.0, minLevelRarity=1.0, manaCost=14.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=1.0, expectedTicks=1.0}]
 [13Sep2025 16:23:13.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Sep2025 16:23:13.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 16:28:13.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 16:28:13.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 16:33:13.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 16:33:13.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
