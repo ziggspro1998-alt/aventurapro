@@ -6055,3 +6055,5 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 11:49:37.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/884, l='ServerLevel[world]', x=136.37, y=71.00, z=-551.43] died, message: 'Golem Healer was slain by Fallen Chaos Knight'
 [13Sep2025 11:49:37.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/884, l='ServerLevel[world]', x=136.37, y=71.00, z=-551.43] died: Golem Healer was slain by Fallen Chaos Knight
 [13Sep2025 12:05:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Exorcism]
+[13Sep2025 12:45:58.400] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[13Sep2025 12:46:00.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
