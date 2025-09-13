@@ -13924,3 +13924,10 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [13Sep2025 11:33:07.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Sep2025 11:38:07.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Sep2025 11:38:07.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 11:43:07.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 11:43:07.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 11:43:25.545] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[13Sep2025 11:48:07.382] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Sep2025 11:48:07.400] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Sep2025 11:49:37.634] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/884, l='ServerLevel[world]', x=136.37, y=71.00, z=-551.43] died, message: 'Golem Healer was slain by Fallen Chaos Knight'
+[13Sep2025 11:49:37.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/884, l='ServerLevel[world]', x=136.37, y=71.00, z=-551.43] died: Golem Healer was slain by Fallen Chaos Knight
