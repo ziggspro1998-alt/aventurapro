@@ -362,6 +362,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-18 16:40:22 +0000",
+      "minecraft:spider": "2025-09-18 17:32:46 +0000",
       "minecraft:creeper": "2025-09-18 16:38:09 +0000",
       "minecraft:zombie": "2025-09-18 16:43:26 +0000"
     },
@@ -2031,6 +2032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-18 17:32:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-09-18 16:43:03 +0000"
@@ -2371,6 +2378,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-09-18 17:36:19 +0000",
       "cookie": "2025-09-18 17:00:24 +0000",
       "bread": "2025-09-18 16:58:15 +0000"
     },
