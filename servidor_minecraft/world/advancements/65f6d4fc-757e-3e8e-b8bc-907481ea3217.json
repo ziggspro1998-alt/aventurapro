@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-18 17:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-09-18 16:35:29 +0000"
@@ -143,6 +149,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-18 17:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-09-18 17:21:36 +0000"
@@ -182,6 +200,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-09-18 16:37:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-18 17:38:43 +0000"
     },
     "done": true
   },
@@ -245,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-09-18 17:04:35 +0000"
@@ -260,6 +290,12 @@
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-09-18 16:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-18 17:57:16 +0000"
     },
     "done": true
   },
@@ -308,6 +344,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-09-18 16:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -416,6 +458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-18 17:02:45 +0000"
@@ -509,6 +557,18 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-09-18 17:04:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -783,9 +843,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-18 16:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -912,6 +984,12 @@
   "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-18 17:04:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -1116,6 +1194,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-09-18 16:37:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-18 17:53:46 +0000"
     },
     "done": true
   },
@@ -1425,6 +1509,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
     "criteria": {
       "has_oak_plank": "2025-09-18 16:37:03 +0000"
@@ -1533,6 +1623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-18 17:38:43 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-09-18 16:33:48 +0000"
@@ -1542,6 +1638,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-09-18 17:18:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -1618,6 +1720,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-18 17:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-09-18 16:50:29 +0000"
@@ -1657,6 +1765,18 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-09-18 16:56:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -1822,6 +1942,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-09-18 17:01:50 +0000"
@@ -1963,6 +2095,18 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-18 16:50:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-09-18 17:45:42 +0000"
     },
     "done": true
   },
@@ -2296,11 +2440,13 @@
       "minecraft:taiga": "2025-09-18 16:40:16 +0000",
       "minecraft:frozen_river": "2025-09-18 17:09:30 +0000",
       "minecraft:beach": "2025-09-18 16:59:15 +0000",
+      "minecraft:river": "2025-09-18 17:39:34 +0000",
       "minecraft:stony_shore": "2025-09-18 17:09:02 +0000",
       "minecraft:snowy_taiga": "2025-09-18 17:09:56 +0000",
       "minecraft:grove": "2025-09-18 17:01:38 +0000",
       "minecraft:jagged_peaks": "2025-09-18 17:11:55 +0000",
-      "minecraft:forest": "2025-09-18 16:33:49 +0000"
+      "minecraft:forest": "2025-09-18 16:33:49 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-18 17:49:04 +0000"
     },
     "done": false
   },
@@ -2373,6 +2519,12 @@
   "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-18 16:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-18 17:38:43 +0000"
     },
     "done": true
   },
