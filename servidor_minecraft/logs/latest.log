@@ -8464,3 +8464,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Sep2025 16:52:45.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Berry Nice]
 [18Sep2025 16:53:48.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
 [18Sep2025 16:56:36.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement ['X' Marks the Spot]
+[18Sep2025 17:02:47.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/8828, l='ServerLevel[world]', x=-857.39, y=62.00, z=-176.97] died, message: 'Golem Healer was frozen to death by Illusioner'
+[18Sep2025 17:02:47.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/8828, l='ServerLevel[world]', x=-857.39, y=62.00, z=-176.97] died: Golem Healer was frozen to death by Illusioner
+[18Sep2025 17:03:06.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nila'/8573, l='ServerLevel[world]', x=-856.37, y=60.56, z=-181.39] died, message: 'Nila was shot by Illusioner'
+[18Sep2025 17:03:06.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nila'/8573, l='ServerLevel[world]', x=-856.37, y=60.56, z=-181.39] died: Nila was shot by Illusioner
+[18Sep2025 17:03:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [World of illusion]
+[18Sep2025 17:04:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
+[18Sep2025 17:04:46.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/9684, l='ServerLevel[world]', x=-851.50, y=66.00, z=-161.50] died, message: 'Golem Healer froze to death'
+[18Sep2025 17:04:46.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/9684, l='ServerLevel[world]', x=-851.50, y=66.00, z=-161.50] died: Golem Healer froze to death
+[18Sep2025 17:06:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[18Sep2025 17:07:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]

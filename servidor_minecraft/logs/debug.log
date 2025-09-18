@@ -17240,3 +17240,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Sep2025 16:56:36.472] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [18Sep2025 16:58:27.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Sep2025 16:58:27.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 17:02:47.935] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/8828, l='ServerLevel[world]', x=-857.39, y=62.00, z=-176.97] died, message: 'Golem Healer was frozen to death by Illusioner'
+[18Sep2025 17:02:47.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/8828, l='ServerLevel[world]', x=-857.39, y=62.00, z=-176.97] died: Golem Healer was frozen to death by Illusioner
+[18Sep2025 17:03:06.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nila'/8573, l='ServerLevel[world]', x=-856.37, y=60.56, z=-181.39] died, message: 'Nila was shot by Illusioner'
+[18Sep2025 17:03:06.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nila'/8573, l='ServerLevel[world]', x=-856.37, y=60.56, z=-181.39] died: Nila was shot by Illusioner
+[18Sep2025 17:03:18.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [World of illusion]
+[18Sep2025 17:03:27.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 17:03:27.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 17:04:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Barrel Booty]
+[18Sep2025 17:04:46.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/9684, l='ServerLevel[world]', x=-851.50, y=66.00, z=-161.50] died, message: 'Golem Healer froze to death'
+[18Sep2025 17:04:46.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/9684, l='ServerLevel[world]', x=-851.50, y=66.00, z=-161.50] died: Golem Healer froze to death
+[18Sep2025 17:06:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
+[18Sep2025 17:07:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]
+[18Sep2025 17:08:27.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 17:08:27.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
