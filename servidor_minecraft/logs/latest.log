@@ -8474,3 +8474,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Sep2025 17:04:46.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/9684, l='ServerLevel[world]', x=-851.50, y=66.00, z=-161.50] died: Golem Healer froze to death
 [18Sep2025 17:06:27.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Sweet Dreams]
 [18Sep2025 17:07:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]
+[18Sep2025 17:18:11.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Wind Darkening]
+[18Sep2025 17:20:28.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bonfire Lit]

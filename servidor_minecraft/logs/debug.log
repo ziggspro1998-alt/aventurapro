@@ -17254,3 +17254,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Sep2025 17:07:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Local Brewery]
 [18Sep2025 17:08:27.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Sep2025 17:08:27.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 17:13:27.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 17:13:27.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 17:18:11.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The Wind Darkening]
+[18Sep2025 17:18:27.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Sep2025 17:18:27.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Sep2025 17:20:28.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bonfire Lit]
