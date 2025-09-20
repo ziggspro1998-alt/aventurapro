@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-09-20 15:18:24 +0000"
@@ -74,6 +80,18 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-09-20 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -185,6 +203,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-09-20 14:57:32 +0000"
@@ -269,6 +293,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
@@ -296,6 +326,24 @@
   "expanded_combat:recipes/combat/iron_crossbow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-20 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-20 15:48:06 +0000"
     },
     "done": true
   },
@@ -371,6 +419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-09-20 15:11:33 +0000"
@@ -395,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-20 15:48:06 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sweet_dough": {
     "criteria": {
       "has_sugar": "2025-09-20 15:07:42 +0000"
@@ -410,6 +470,12 @@
   "expanded_combat:recipes/combat/iron_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-20 15:44:17 +0000"
     },
     "done": true
   },
@@ -479,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-09-20 15:07:11 +0000"
@@ -497,6 +569,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-09-20 15:47:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "traveloptics:root": {
     "criteria": {
       "custom_test_name": "2025-09-20 14:54:46 +0000"
@@ -512,6 +596,30 @@
   "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 14:57:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -620,6 +728,12 @@
   "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -759,6 +873,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-09-20 14:56:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -960,6 +1080,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
@@ -969,6 +1095,12 @@
   "bakery:recipes/sandstone_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1038,6 +1170,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-09-20 15:27:56 +0000"
@@ -1053,6 +1191,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-09-20 15:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-20 15:48:06 +0000"
     },
     "done": true
   },
@@ -1083,6 +1227,12 @@
   "expanded_combat:recipes/combat/diamond_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1122,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-20 15:48:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
@@ -1131,6 +1287,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-09-20 15:03:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-20 15:47:25 +0000"
     },
     "done": true
   },
@@ -1200,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_boots": "2025-09-20 15:06:56 +0000"
@@ -1224,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-20 15:44:17 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
@@ -1233,6 +1407,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1329,6 +1509,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-20 15:06:53 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1476,6 +1662,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_diamond_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
@@ -1506,6 +1698,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-20 15:14:22 +0000"
@@ -1515,6 +1713,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-20 15:44:17 +0000"
     },
     "done": true
   },
@@ -1686,9 +1890,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
     },
     "done": true
   },
@@ -1696,6 +1912,12 @@
     "criteria": {
       "has_pumpkin": "2025-09-20 15:04:11 +0000",
       "has_the_recipe": "2025-09-20 15:04:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1723,9 +1945,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-09-20 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-20 15:44:41 +0000"
     },
     "done": true
   },
@@ -1762,6 +1996,18 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-09-20 14:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1804,6 +2050,12 @@
   "expanded_combat:recipes/combat/half_iron_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
     },
     "done": true
   },
@@ -1867,15 +2119,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-20 15:48:06 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-09-20 15:09:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-20 15:44:41 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-09-20 14:54:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-20 15:47:25 +0000"
     },
     "done": true
   },
@@ -1900,6 +2170,12 @@
   "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1930,6 +2206,12 @@
   "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
     "criteria": {
       "has_pumpkin_slice": "2025-09-20 15:19:07 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -1969,6 +2251,12 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/dark_oak_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-09-20 15:11:33 +0000"
@@ -2002,6 +2290,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-09-20 15:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-20 15:44:55 +0000"
     },
     "done": true
   },
@@ -2080,8 +2374,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-20 15:47:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rabbit_stew": "2025-09-20 15:47:25 +0000",
       "bread": "2025-09-20 15:08:04 +0000"
     },
     "done": false
@@ -2095,6 +2396,12 @@
   "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
     "criteria": {
       "has_pumpkin_slice": "2025-09-20 15:19:07 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2025-09-20 15:44:44 +0000"
     },
     "done": true
   },
@@ -2143,6 +2450,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-20 15:48:06 +0000"
     },
     "done": true
   },

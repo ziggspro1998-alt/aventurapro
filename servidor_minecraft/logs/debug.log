@@ -17447,3 +17447,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [20Sep2025 15:34:42.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Mine? Mine? Mine?]
 [20Sep2025 15:39:10.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 15:39:10.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 15:44:10.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 15:44:10.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 15:46:51.104] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_mountain_tower_loot
+[20Sep2025 15:48:59.047] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Sep2025 15:48:59.146] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[20Sep2025 15:49:10.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 15:49:10.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 15:50:28.411] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/344, l='ServerLevel[world]', x=138.93, y=83.00, z=26.60], mainHand=1 diamond_sword, spellbook=0 air, school=irons_spellbooks:fire, spell=irons_spellbooks:scorch, rarity=EPIC, level=7.0, minLevelRarity=7.0, manaCost=80.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=6.0, expectedTicks=1.0}]
+[20Sep2025 15:51:27.657] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/344, l='ServerLevel[world]', x=49.67, y=77.00, z=41.61], mainHand=1 diamond_sword, spellbook=0 air, school=irons_spellbooks:fire, spell=irons_spellbooks:scorch, rarity=EPIC, level=7.0, minLevelRarity=7.0, manaCost=80.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=1.0, cooldown=6.0, expectedTicks=1.0}]
