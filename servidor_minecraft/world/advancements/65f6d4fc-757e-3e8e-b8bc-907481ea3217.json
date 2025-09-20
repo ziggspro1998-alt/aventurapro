@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-09-20 15:13:29 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:55 +0000"
@@ -29,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-20 15:18:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-09-20 15:04:11 +0000"
@@ -38,6 +50,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-09-20 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-09-20 15:18:26 +0000"
     },
     "done": true
   },
@@ -74,6 +92,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-09-20 15:07:11 +0000"
+    },
+    "done": true
+  },
+  "bagofholding:recipes/tools/leather_bag_of_holding": {
+    "criteria": {
+      "has_chest": "2025-09-20 15:14:10 +0000"
     },
     "done": true
   },
@@ -119,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-20 15:06:54 +0000"
@@ -146,6 +176,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-09-20 14:57:32 +0000"
+    },
+    "done": true
+  },
+  "ags_day_counter:firts_day_advancement": {
+    "criteria": {
+      "firts_day_advancement_0": "2025-09-20 15:14:45 +0000"
     },
     "done": true
   },
@@ -257,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:stray": "2025-09-20 15:18:25 +0000"
+    },
+    "done": false
+  },
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
@@ -272,6 +314,12 @@
   "expanded_combat:recipes/combat/spruce_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 14:57:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-09-20 15:10:42 +0000"
     },
     "done": true
   },
@@ -296,6 +344,12 @@
   "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 14:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-09-20 15:11:33 +0000"
     },
     "done": true
   },
@@ -338,6 +392,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-09-20 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-09-20 15:11:33 +0000"
     },
     "done": true
   },
@@ -422,6 +482,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-09-20 14:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-20 15:14:14 +0000"
     },
     "done": true
   },
@@ -546,6 +612,12 @@
     },
     "done": false
   },
+  "xtraarrows:recipes/all_recipes": {
+    "criteria": {
+      "has_arrow": "2025-09-20 15:18:26 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 14:57:12 +0000"
@@ -654,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
@@ -675,6 +753,12 @@
   "dungeons_and_combat:origin": {
     "criteria": {
       "origin_0": "2025-09-20 14:56:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-20 15:17:46 +0000"
     },
     "done": true
   },
@@ -726,9 +810,21 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-20 15:11:08 +0000"
+    },
+    "done": true
+  },
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-09-20 14:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-20 15:14:14 +0000"
     },
     "done": true
   },
@@ -750,9 +846,21 @@
     },
     "done": true
   },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-09-20 15:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-09-20 15:03:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-09-20 15:14:10 +0000"
     },
     "done": true
   },
@@ -765,6 +873,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-09-20 15:13:29 +0000"
     },
     "done": true
   },
@@ -834,6 +948,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-09-20 15:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-09-20 14:54:46 +0000"
@@ -900,6 +1026,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-09-20 15:18:47 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_crossbow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
@@ -921,6 +1053,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-09-20 15:07:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-20 15:10:06 +0000"
     },
     "done": true
   },
@@ -975,6 +1113,12 @@
   "bakery:recipes/oat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-09-20 14:57:49 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:bony_king": {
+    "criteria": {
+      "bony_king": "2025-09-20 15:18:47 +0000"
     },
     "done": true
   },
@@ -1092,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-09-20 15:11:33 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:55 +0000"
@@ -1116,6 +1266,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-20 15:10:06 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-09-20 14:54:46 +0000"
@@ -1131,6 +1287,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-09-20 14:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_the_recipe": "2025-09-20 15:18:26 +0000"
     },
     "done": true
   },
@@ -1158,9 +1320,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-20 15:10:42 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/upgrade_base": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
     },
     "done": true
   },
@@ -1173,6 +1347,12 @@
   "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-09-20 15:11:33 +0000"
     },
     "done": true
   },
@@ -1224,6 +1404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
@@ -1251,6 +1437,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-09-20 14:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-09-20 15:18:25 +0000"
     },
     "done": true
   },
@@ -1335,6 +1527,12 @@
   "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
     },
     "done": true
   },
@@ -1429,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
@@ -1483,9 +1687,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-20 15:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-20 15:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-09-20 15:11:08 +0000"
     },
     "done": true
   },
@@ -1543,6 +1759,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-09-20 15:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-09-20 15:18:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
@@ -1555,9 +1783,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/end_bricks_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-09-20 15:19:07 +0000"
     },
     "done": true
   },
@@ -1597,6 +1837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-09-20 15:11:33 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:06:54 +0000"
@@ -1633,11 +1879,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:stray": "2025-09-20 15:18:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_plains": "2025-09-20 14:54:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-20 15:14:14 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
     "criteria": {
@@ -1648,6 +1906,18 @@
   "bakery:recipes/bread_box": {
     "criteria": {
       "has_stick": "2025-09-20 14:56:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-09-20 15:14:22 +0000"
     },
     "done": true
   },
@@ -1680,6 +1950,18 @@
       "bread": "2025-09-20 15:08:04 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-09-20 15:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-09-20 15:11:08 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
     "criteria": {
@@ -1723,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-09-20 15:11:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-09-20 15:07:11 +0000"
@@ -1750,6 +2038,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-09-20 15:06:55 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-09-20 15:10:42 +0000"
     },
     "done": true
   },
