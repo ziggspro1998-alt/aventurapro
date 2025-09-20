@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-20 15:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-09-20 15:03:01 +0000"
@@ -960,6 +966,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-20 15:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-09-20 15:27:56 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2025-09-20 14:54:46 +0000"
@@ -1290,6 +1308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-20 15:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_the_recipe": "2025-09-20 15:18:26 +0000"
@@ -1518,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-20 15:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-09-20 15:06:53 +0000"
@@ -1720,6 +1750,12 @@
   "expanded_combat:recipes/combat/diamond_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-20 15:07:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-20 15:26:08 +0000"
     },
     "done": true
   },
@@ -1951,6 +1987,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-09-20 15:27:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
     "criteria": {
       "has_pumpkin_slice": "2025-09-20 15:19:07 +0000"
@@ -2008,6 +2050,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-09-20 15:11:33 +0000"
+    },
+    "done": true
+  },
+  "mypersonaldelight:recipes/food/crafting/tear_popsicle": {
+    "criteria": {
+      "has_ghast": "2025-09-20 15:27:59 +0000"
     },
     "done": true
   },
