@@ -6620,3 +6620,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 16:54:31.324] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
 [21Sep2025 16:54:31.324] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
 [21Sep2025 16:55:42.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[21Sep2025 17:04:43.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Sep2025 17:04:43.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[21Sep2025 17:10:07.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Good Demoman]
+[21Sep2025 17:11:38.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[21Sep2025 17:11:38.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1093, 64, -546) minecraft:overworld
+[21Sep2025 17:12:12.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[21Sep2025 17:12:12.317] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1115, 62, -538) minecraft:overworld
+[21Sep2025 17:12:58.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was shot by Mutant Skeleton
+[21Sep2025 17:13:18.698] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 17:13:18.698] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 17:13:18.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[21Sep2025 17:13:18.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 17:13:18.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 17:13:18.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 17:13:18.699] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 17:13:18.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fireward_ring
+[21Sep2025 17:13:18.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fireward_ring
+[21Sep2025 17:13:18.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 17:13:18.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 17:13:18.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 17:13:18.700] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Sep2025 17:13:18.701] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 17:13:18.701] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 17:13:18.701] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 17:13:18.701] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 17:13:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Bone Imp
+[21Sep2025 17:13:35.552] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1068, 65, -559) minecraft:overworld
