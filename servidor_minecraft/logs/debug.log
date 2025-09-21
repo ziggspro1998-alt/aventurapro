@@ -18038,3 +18038,33 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 06:27:06.854] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_priest_loot
 [21Sep2025 06:27:07.318] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_priest_loot
 [21Sep2025 06:27:26.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_priest_loot
+[21Sep2025 06:29:23.410] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 06:29:51.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 06:30:02.448] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/450, l='ServerLevel[world]', x=1065.43, y=69.00, z=-602.49], mainHand=0 air, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
+[21Sep2025 06:30:02.651] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/450, l='ServerLevel[world]', x=1065.43, y=69.00, z=-602.49], mainHand=0 air, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
+[21Sep2025 06:30:02.702] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/450, l='ServerLevel[world]', x=1065.43, y=69.00, z=-602.49], mainHand=0 air, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
+[21Sep2025 06:31:07.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 06:31:08.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 06:33:33.803] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 06:33:40.505] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Sep2025 06:34:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]
+[21Sep2025 06:35:52.202] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['ultramegas'/1945, l='ServerLevel[world]', x=1139.98, y=66.80, z=-618.70], mainHand=1 iron_pickaxe, spellbook=1 iron_spell_book, school=irons_spellbooks:ice, spell=irons_spellbooks:frost_step, rarity=EPIC, level=6.0, minLevelRarity=4.0, manaCost=30.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=4.8, expectedTicks=1.0}]
+[21Sep2025 06:36:07.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 06:36:08.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 06:36:23.200] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:36:23.200] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:37:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Penteconter]
+[21Sep2025 06:37:35.848] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['ultramegas'/1945, l='ServerLevel[world]', x=1143.38, y=66.18, z=-599.60], mainHand=1 iron_pickaxe, spellbook=1 iron_spell_book, school=irons_spellbooks:ice, spell=irons_spellbooks:frost_step, rarity=EPIC, level=6.0, minLevelRarity=4.0, manaCost=30.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=4.8, expectedTicks=1.0}]
+[21Sep2025 06:37:37.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas fell from a high place
+[21Sep2025 06:37:37.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1131, 72, -598) minecraft:overworld
+[21Sep2025 06:37:39.086] [Server thread/DEBUG] [twilightforest/]: Player ultramegas (2f29a3fb-37eb-3b22-bbed-ea5cc7b76493) respawned and received items held in storage
+[21Sep2025 06:37:46.229] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:37:46.229] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack

@@ -8644,3 +8644,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 06:25:55.224] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [21Sep2025 06:25:55.224] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [21Sep2025 06:26:12.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Crops of the Wild]
+[21Sep2025 06:34:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Hunt and Gather]
+[21Sep2025 06:36:23.200] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:36:23.200] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:36:23.201] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[21Sep2025 06:37:08.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Penteconter]
+[21Sep2025 06:37:37.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas fell from a high place
+[21Sep2025 06:37:37.089] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1131, 72, -598) minecraft:overworld
+[21Sep2025 06:37:46.229] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:37:46.229] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack

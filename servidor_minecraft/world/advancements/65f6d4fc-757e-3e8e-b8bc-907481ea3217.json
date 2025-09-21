@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-09-21 06:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-09-21 05:37:32 +0000"
@@ -906,6 +912,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-21 06:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-09-21 05:21:33 +0000"
@@ -915,6 +927,12 @@
   "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-21 06:34:40 +0000"
     },
     "done": true
   },
@@ -1099,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-21 06:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-09-21 05:07:05 +0000"
@@ -1147,6 +1171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-09-21 06:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-21 05:07:00 +0000"
@@ -1174,6 +1204,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-21 06:34:11 +0000"
     },
     "done": true
   },
@@ -1465,6 +1501,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-09-21 06:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-09-21 06:13:03 +0000"
@@ -1603,6 +1645,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-09-21 06:34:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-09-21 05:13:41 +0000"
@@ -1678,6 +1726,12 @@
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-21 06:34:12 +0000"
     },
     "done": true
   },
@@ -1897,6 +1951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-09-21 06:34:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-09-21 05:23:00 +0000"
@@ -1987,6 +2047,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-09-21 06:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_mushroom_stew": "2025-09-21 05:36:02 +0000"
@@ -2005,6 +2071,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-21 06:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-09-21 05:13:16 +0000"
@@ -2019,7 +2091,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smoker": "2025-09-21 05:11:10 +0000"
+      "smoker": "2025-09-21 05:11:10 +0000",
+      "blastfurnace": "2025-09-21 06:35:59 +0000"
     },
     "done": false
   },
@@ -2399,6 +2472,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-09-21 06:34:11 +0000"
     },
     "done": true
   },
@@ -3164,6 +3243,12 @@
   "expanded_combat:recipes/combat/rabbit_leather_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-09-21 06:34:43 +0000"
     },
     "done": true
   },
