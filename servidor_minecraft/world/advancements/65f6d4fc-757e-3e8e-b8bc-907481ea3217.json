@@ -101,6 +101,7 @@
       "minecraft:deep_ocean": "2025-09-21 07:26:40 +0000",
       "minecraft:birch_forest": "2025-09-21 05:56:02 +0000",
       "minecraft:bamboo_jungle": "2025-09-21 08:04:25 +0000",
+      "minecraft:savanna_plateau": "2025-09-21 16:10:56 +0000",
       "minecraft:beach": "2025-09-21 05:57:06 +0000",
       "minecraft:sparse_jungle": "2025-09-21 08:04:41 +0000",
       "minecraft:lukewarm_ocean": "2025-09-21 07:48:49 +0000",
@@ -4357,6 +4358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-21 15:53:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_candle": {
     "criteria": {
       "has_yellow_dye": "2025-09-21 15:34:43 +0000"
@@ -4366,6 +4373,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-09-21 15:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_gray_dye": "2025-09-21 15:50:48 +0000"
     },
     "done": true
   },
@@ -4465,6 +4478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-21 15:50:42 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/egg_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 14:15:59 +0000"
@@ -4474,6 +4493,12 @@
   "born_in_chaos_v1:bonk": {
     "criteria": {
       "bonk_0": "2025-09-21 15:47:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-21 15:50:48 +0000"
     },
     "done": true
   },
@@ -4540,6 +4565,12 @@
   "minecraft:recipes/building_blocks/dye_yellow_carpet": {
     "criteria": {
       "has_needed_dye": "2025-09-21 15:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2025-09-21 15:50:48 +0000"
     },
     "done": true
   },
@@ -4639,6 +4670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-21 15:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-09-21 15:11:30 +0000"
@@ -4675,9 +4712,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 15:51:17 +0000"
+    },
+    "done": true
+  },
   "block_factorys_bosses:die_boss": {
     "criteria": {
       "die_boss_0": "2025-09-21 14:47:29 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-09-21 16:11:51 +0000"
     },
     "done": true
   },
@@ -4714,6 +4763,18 @@
   "mynethersdelight:recipes/cooking/scotch_eggs": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 14:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-21 15:50:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-09-21 16:01:41 +0000"
     },
     "done": true
   },
@@ -4765,6 +4826,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-09-21 15:51:20 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
@@ -4783,15 +4850,39 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-09-21 15:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-09-21 15:50:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-09-21 15:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-09-21 15:34:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-09-21 15:51:20 +0000"
     },
     "done": true
   },

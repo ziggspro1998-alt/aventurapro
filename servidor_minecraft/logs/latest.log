@@ -6493,3 +6493,47 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 15:28:57.517] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [21Sep2025 15:44:07.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Fighting Nightmares]
 [21Sep2025 15:47:14.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Bonk!]
+[21Sep2025 15:56:56.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [Praise the Sun]
+[21Sep2025 16:01:41.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [The day of the Dead]
+[21Sep2025 16:02:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Mutant Creeper
+[21Sep2025 16:02:49.357] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1334, 70, -1163) minecraft:overworld
+[21Sep2025 16:03:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Sep2025 16:03:11.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[21Sep2025 16:03:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Mutant Creeper
+[21Sep2025 16:03:58.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:03:58.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:03:58.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[21Sep2025 16:03:58.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:03:58.353] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:03:58.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 16:03:58.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:03:58.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fireward_ring
+[21Sep2025 16:03:58.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fireward_ring
+[21Sep2025 16:03:58.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 16:03:58.354] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:03:58.355] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:03:58.355] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Sep2025 16:03:58.355] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:03:58.355] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:03:58.356] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:03:58.356] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:04:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Mutant Creeper
+[21Sep2025 16:04:29.095] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1332, 70, -1152) minecraft:overworld
+[21Sep2025 16:05:07.209] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:05:07.209] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:05:07.209] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[21Sep2025 16:05:07.209] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:05:07.209] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:05:07.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 16:05:07.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:05:07.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[21Sep2025 16:05:07.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 poisonward_ring
+[21Sep2025 16:05:07.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 16:05:07.211] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:05:07.211] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:05:07.211] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Sep2025 16:05:07.211] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:05:07.211] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:05:07.212] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:05:07.212] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:11:51.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [It Bites]
