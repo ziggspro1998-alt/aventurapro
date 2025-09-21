@@ -17785,3 +17785,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 05:14:51.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Monster Hunter]
 [21Sep2025 05:16:03.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Sep2025 05:16:03.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 05:20:31.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[21Sep2025 05:20:41.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Fatty Demon]
+[21Sep2025 05:20:49.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fatty Demon]
+[21Sep2025 05:21:03.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 05:21:03.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 05:21:09.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has reached the goal [Pouch Collector]
+[21Sep2025 05:21:33.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Vasebreaker]
+[21Sep2025 05:21:57.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Stone Age]
+[21Sep2025 05:23:00.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Stone Age]
+[21Sep2025 05:23:14.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Berry Nice]
+[21Sep2025 05:23:35.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Acquire Hardware]
+[21Sep2025 05:24:36.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Vasebreaker]
+[21Sep2025 05:24:45.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Berry Nice]
+[21Sep2025 05:26:03.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 05:26:03.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 05:27:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Day]
+[21Sep2025 05:27:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [First Day]
+[21Sep2025 05:31:03.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 05:31:03.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 05:34:39.952] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Sep2025 05:34:39.953] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[21Sep2025 05:34:39.953] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[21Sep2025 05:34:39.953] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[21Sep2025 05:34:39.953] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.953] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[21Sep2025 05:34:39.954] [Worker-Main-2/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[21Sep2025 05:34:39.955] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Sep2025 05:34:39.955] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Sep2025 05:34:39.955] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Sep2025 05:34:39.955] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[21Sep2025 05:36:03.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 05:36:03.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 05:36:10.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Diamonds!]
+[21Sep2025 05:36:42.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Diamonds!]
+[21Sep2025 05:37:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Disme A Dozen]
