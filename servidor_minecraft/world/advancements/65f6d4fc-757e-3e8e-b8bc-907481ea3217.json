@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-09-21 08:31:01 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/overweight_golden_apple_block": {
     "criteria": {
       "has_gold_block": "2025-09-21 07:04:10 +0000"
@@ -317,6 +323,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-09-21 08:37:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-09-21 08:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 05:36:25 +0000"
@@ -386,6 +404,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-09-21 05:07:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-09-21 08:29:58 +0000"
     },
     "done": true
   },
@@ -878,6 +902,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-09-21 08:37:30 +0000"
+    },
+    "done": false
+  },
   "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
@@ -1215,9 +1245,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-21 08:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-09-21 05:12:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-21 08:33:03 +0000"
     },
     "done": true
   },
@@ -1335,6 +1377,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-09-21 08:29:58 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
     "criteria": {
       "has_bone_meal": "2025-09-21 05:10:30 +0000"
@@ -1377,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-09-21 08:37:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-09-21 05:07:05 +0000"
@@ -1410,6 +1464,12 @@
   "sophisticatedstorage:recipes/misc/oak_chest": {
     "criteria": {
       "has_oak_plank": "2025-09-21 05:07:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-21 08:35:45 +0000"
     },
     "done": true
   },
@@ -1623,6 +1683,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beetroot_from_crate": {
+    "criteria": {
+      "has_beetroot_crate": "2025-09-21 08:29:45 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/leather_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:13:41 +0000"
@@ -1749,9 +1815,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-21 08:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-09-21 05:36:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-09-21 08:37:30 +0000"
     },
     "done": true
   },
@@ -1815,6 +1893,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-09-21 08:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-09-21 05:21:39 +0000"
@@ -1854,6 +1938,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-09-21 08:31:38 +0000"
     },
     "done": true
   },
@@ -1917,6 +2007,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-09-21 08:31:36 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-09-21 05:10:59 +0000"
@@ -1968,6 +2064,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-09-21 05:13:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-21 08:35:45 +0000"
     },
     "done": true
   },
@@ -2100,6 +2202,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-09-21 08:31:38 +0000"
     },
     "done": true
   },
@@ -2614,6 +2722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-09-21 08:30:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
@@ -2714,6 +2828,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2025-09-21 05:23:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-09-21 08:31:36 +0000"
     },
     "done": true
   },
@@ -2936,6 +3056,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-09-21 08:31:38 +0000"
     },
     "done": true
   },
@@ -3323,6 +3449,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_mushroom_colony": {
+    "criteria": {
+      "brown_mushroom_colony": "2025-09-21 08:29:24 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_glaive_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 07:00:05 +0000"
@@ -3365,9 +3497,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-09-21 08:29:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 05:13:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-09-21 08:29:41 +0000"
     },
     "done": true
   },
@@ -3455,6 +3599,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-09-21 08:36:45 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-09-21 05:30:49 +0000"
@@ -3500,6 +3650,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-09-21 05:13:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-09-21 08:31:38 +0000"
     },
     "done": true
   },
@@ -3620,6 +3776,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-09-21 05:37:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-09-21 08:31:38 +0000"
     },
     "done": true
   },
@@ -3788,6 +3950,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2025-09-21 05:10:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-21 08:33:03 +0000"
     },
     "done": true
   },
