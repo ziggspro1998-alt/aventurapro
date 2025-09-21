@@ -1372,6 +1372,12 @@
     },
     "done": true
   },
+  "collectorsreap:recipes/food/strawberry_jam_bun": {
+    "criteria": {
+      "has_strawberries": "2025-09-21 07:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 05:35:53 +0000"
@@ -2240,6 +2246,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 05:35:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-09-21 07:07:00 +0000"
     },
     "done": true
   },
@@ -3478,7 +3490,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-09-21 05:16:15 +0000"
+      "bread": "2025-09-21 05:16:15 +0000",
+      "neapolitan:strawberries": "2025-09-21 07:14:35 +0000"
     },
     "done": false
   },
