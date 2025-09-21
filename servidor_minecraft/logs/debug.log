@@ -14446,3 +14446,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 15:01:30.842] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/84, l='ServerLevel[world]', x=-1239.53, y=78.00, z=-1191.88], mainHand=1 soulrender, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
 [21Sep2025 15:01:31.441] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/84, l='ServerLevel[world]', x=-1239.53, y=78.00, z=-1192.34], mainHand=1 soulrender, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
 [21Sep2025 15:01:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Junior Summoner]
+[21Sep2025 15:02:54.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 15:02:54.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 15:07:54.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 15:07:54.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 15:09:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [First Trade]
+[21Sep2025 15:09:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [There is a Castle on a Cloud]
+[21Sep2025 15:09:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [What a Deal!]
+[21Sep2025 15:10:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fragile But Effective]

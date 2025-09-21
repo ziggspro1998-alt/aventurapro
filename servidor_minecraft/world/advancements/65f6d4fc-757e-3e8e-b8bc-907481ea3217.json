@@ -1420,6 +1420,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-21 05:14:51 +0000",
+      "minecraft:skeleton": "2025-09-21 15:06:36 +0000",
       "minecraft:spider": "2025-09-21 14:44:01 +0000",
       "minecraft:creeper": "2025-09-21 14:43:43 +0000",
       "minecraft:vex": "2025-09-21 08:21:08 +0000",
@@ -4365,6 +4366,12 @@
     },
     "done": true
   },
+  "royalvariations:explosive_king": {
+    "criteria": {
+      "explosive_king": "2025-09-21 15:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-21 14:18:37 +0000"
@@ -4503,6 +4510,12 @@
     },
     "done": true
   },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-09-21 15:00:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-21 14:18:37 +0000"
@@ -4512,6 +4525,12 @@
   "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-21 15:01:41 +0000"
     },
     "done": true
   },
@@ -4584,6 +4603,12 @@
   "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-09-21 15:00:27 +0000"
     },
     "done": true
   },
