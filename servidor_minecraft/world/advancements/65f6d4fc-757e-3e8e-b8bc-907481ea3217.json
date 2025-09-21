@@ -1,644 +1,146 @@
 {
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_glaive_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
   "morevillagers:root": {
     "criteria": {
-      "always": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cabinet": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
+      "always": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
-      "dungeons_and_combat_0": "2025-09-20 23:29:35 +0000"
+      "dungeons_and_combat_0": "2025-09-21 05:01:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-09-20 23:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
+      "unlock_right_away": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "mowziesmobs:root": {
     "criteria": {
-      "custom_test_name": "2025-09-20 23:29:35 +0000"
+      "custom_test_name": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "dungeons_and_combat:the_bounty_hunter": {
     "criteria": {
-      "the_bounty_hunter_0": "2025-09-20 23:30:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-09-20 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cupcake_display": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
+      "the_bounty_hunter_0": "2025-09-21 05:04:21 +0000"
     },
     "done": true
   },
   "traveloptics:root": {
     "criteria": {
-      "custom_test_name": "2025-09-20 23:29:35 +0000"
+      "custom_test_name": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_chest": {
-    "criteria": {
-      "has _plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/rolling_pin": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest": {
-    "criteria": {
-      "has_oak_plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
+      "tick": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_log": "2025-09-20 23:30:55 +0000"
+      "has_log": "2025-09-21 05:04:27 +0000"
     },
     "done": true
   },
   "dungeons_and_combat:origin": {
     "criteria": {
-      "origin_0": "2025-09-20 23:30:50 +0000"
+      "origin_0": "2025-09-21 05:04:21 +0000"
     },
     "done": true
   },
   "ags_day_counter:day_counter_root_advancement": {
     "criteria": {
-      "day_counter_root_advancement_0": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
+      "day_counter_root_advancement_0": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "bakery:main/root": {
     "criteria": {
-      "seeds": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-09-20 23:30:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
+      "seeds": "2025-09-21 05:01:59 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_logs": "2025-09-20 23:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
+      "has_logs": "2025-09-21 05:04:27 +0000"
     },
     "done": true
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
-      "custom_test_name": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
+      "custom_test_name": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "bornin_chaos_0": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/wall_cabinet": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/chocolate_box": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-09-20 23:31:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
+      "bornin_chaos_0": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_log": "2025-09-20 23:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
-    "criteria": {
-      "has_oak_plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
-    "criteria": {
-      "has_oak_plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
-    "criteria": {
-      "has_oak_plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
-    "criteria": {
-      "has_oak_plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/flint_knife": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
+      "has_log": "2025-09-21 05:04:27 +0000"
     },
     "done": true
   },
   "legendary_monsters:end_root": {
     "criteria": {
-      "custom_test_name": "2025-09-20 23:29:35 +0000"
+      "custom_test_name": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "useitem": "2025-09-20 23:30:25 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_barrel": {
-    "criteria": {
-      "has_oak_plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-09-20 23:33:15 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_cutlass_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/street_sign": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_battle_staff_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
+      "useitem": "2025-09-21 05:02:46 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/drawer": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
-    "criteria": {
-      "has _plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
-    "criteria": {
-      "has _plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
-    "criteria": {
-      "has _plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
-    "criteria": {
-      "has _plank": "2025-09-20 23:31:29 +0000"
+      "always_true": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
-      "requirement": "2025-09-20 23:29:35 +0000"
+      "requirement": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
-      "consumed_item": "2025-09-20 23:30:25 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_dagger_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-09-20 23:33:12 +0000"
+      "consumed_item": "2025-09-21 05:02:46 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/tray": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-09-20 23:33:03 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_mace_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/syrup": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-20 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_great_hammer_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_barrel": {
-    "criteria": {
-      "has _plank": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_scythe_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
+      "custom_test_name": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
   "farmersdelight:main/root": {
     "criteria": {
-      "seeds": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-09-20 23:33:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_flail_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:root": {
-    "criteria": {
-      "crafting_table": "2025-09-20 23:31:31 +0000"
+      "seeds": "2025-09-21 05:01:59 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-09-20 23:31:09 +0000",
-      "minecraft:savanna": "2025-09-20 23:29:36 +0000"
+      "minecraft:forest": "2025-09-21 05:02:01 +0000",
+      "minecraft:plains": "2025-09-21 05:02:58 +0000"
     },
     "done": false
   },
-  "bakery:recipes/bread_box": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_broad_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cutting_board": {
-    "criteria": {
-      "has_stick": "2025-09-20 23:30:56 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_spear_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-09-20 23:31:55 +0000"
-    },
-    "done": true
-  },
   "legendary_monsters:nether_root": {
     "criteria": {
-      "custom_test_name": "2025-09-20 23:29:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-09-20 23:31:31 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/brick_counter": {
-    "criteria": {
-      "has_oak_planks": "2025-09-20 23:31:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-09-20 23:30:55 +0000"
-    },
-    "done": true
-  },
-  "expanded_combat:recipes/combat/oak_plank_dancer_s_sword_conditional_shaped": {
-    "criteria": {
-      "has_item": "2025-09-20 23:31:29 +0000"
+      "custom_test_name": "2025-09-21 05:02:00 +0000"
     },
     "done": true
   },
