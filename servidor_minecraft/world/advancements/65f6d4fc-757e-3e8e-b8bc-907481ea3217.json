@@ -3576,7 +3576,8 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
-      "squireofthe_dark_lord_6": "2025-09-21 06:50:31 +0000"
+      "squireofthe_dark_lord_6": "2025-09-21 06:50:31 +0000",
+      "squireofthe_dark_lord_2": "2025-09-21 15:45:47 +0000"
     },
     "done": false
   },
@@ -4404,6 +4405,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-21 15:44:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-09-21 15:08:42 +0000"
@@ -4461,6 +4468,12 @@
   "mynethersdelight:recipes/cooking/egg_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 14:15:59 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bonk": {
+    "criteria": {
+      "bonk_0": "2025-09-21 15:47:14 +0000"
     },
     "done": true
   },
