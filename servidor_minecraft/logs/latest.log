@@ -6447,3 +6447,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 15:09:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [There is a Castle on a Cloud]
 [21Sep2025 15:09:02.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [What a Deal!]
 [21Sep2025 15:10:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fragile But Effective]
+[21Sep2025 15:14:31.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21Sep2025 15:17:09.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Kena'/12275, l='ServerLevel[world]', x=-1292.05, y=70.00, z=-1280.50] died: Kena was impaled by Marauder

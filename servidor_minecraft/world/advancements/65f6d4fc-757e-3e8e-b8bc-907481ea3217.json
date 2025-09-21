@@ -607,8 +607,10 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-09-21 15:15:56 +0000",
       "smoker": "2025-09-21 05:11:10 +0000",
-      "blastfurnace": "2025-09-21 06:35:59 +0000"
+      "blastfurnace": "2025-09-21 06:35:59 +0000",
+      "lectern": "2025-09-21 15:16:36 +0000"
     },
     "done": false
   },
@@ -4372,6 +4374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-21 15:09:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-21 14:18:37 +0000"
@@ -4381,6 +4389,12 @@
   "farmersdelight:recipes/food/carrot_from_crate": {
     "criteria": {
       "has_carrot_crate": "2025-09-21 14:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 15:08:42 +0000"
     },
     "done": true
   },
@@ -4438,6 +4452,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2025-09-21 15:15:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
     "criteria": {
       "has_acacia_plank": "2025-09-21 14:28:05 +0000"
@@ -4492,9 +4512,27 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-09-21 15:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-21 15:08:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2025-09-21 14:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-21 15:11:30 +0000"
     },
     "done": true
   },
@@ -4546,6 +4584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-09-21 15:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-21 14:28:05 +0000"
@@ -4561,6 +4605,12 @@
   "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-21 15:09:59 +0000"
     },
     "done": true
   },
@@ -4582,6 +4632,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-21 15:09:02 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-09-21 15:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-21 14:28:05 +0000"
@@ -4591,6 +4653,12 @@
   "mynethersdelight:recipes/cooking/scotch_eggs": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 14:15:59 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-09-21 15:09:02 +0000"
     },
     "done": true
   },
@@ -4627,6 +4695,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-09-21 14:18:37 +0000"
+    },
+    "done": true
+  },
+  "gnumus:fragile_but_effective": {
+    "criteria": {
+      "fragile_but_effective": "2025-09-21 15:10:34 +0000"
     },
     "done": true
   },
