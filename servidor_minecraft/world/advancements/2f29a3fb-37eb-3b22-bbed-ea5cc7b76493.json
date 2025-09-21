@@ -591,6 +591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-21 06:25:56 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:35:53 +0000"
@@ -1522,6 +1528,12 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smoker": "2025-09-21 06:21:41 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/twilight_oak_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:00 +0000"
@@ -1870,6 +1882,12 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smoker": "2025-09-21 06:21:41 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-09-21 05:09:34 +0000"
@@ -1903,6 +1921,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-09-21 06:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-21 06:25:56 +0000"
     },
     "done": true
   },
@@ -2344,6 +2368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-21 06:25:56 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:10 +0000"
@@ -2542,6 +2572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-21 06:25:56 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:23:35 +0000"
@@ -2722,6 +2758,12 @@
     },
     "done": true
   },
+  "gnumus:plan_boar": {
+    "criteria": {
+      "plan_boar": "2025-09-21 06:22:06 +0000"
+    },
+    "done": true
+  },
   "gnumus:sack_collector": {
     "criteria": {
       "sack_collector": "2025-09-21 05:21:09 +0000"
@@ -2850,9 +2892,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-21 06:19:28 +0000",
       "minecraft:birch_forest": "2025-09-21 05:55:56 +0000",
       "minecraft:beach": "2025-09-21 05:57:02 +0000",
       "minecraft:river": "2025-09-21 05:19:07 +0000",
+      "minecraft:cold_ocean": "2025-09-21 06:24:09 +0000",
       "minecraft:forest": "2025-09-21 05:07:25 +0000",
       "minecraft:ocean": "2025-09-21 05:58:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-21 05:35:40 +0000",
@@ -2900,6 +2944,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-09-21 05:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-09-21 06:25:56 +0000"
     },
     "done": true
   },

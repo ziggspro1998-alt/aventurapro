@@ -8606,3 +8606,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 06:11:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Magery]
 [21Sep2025 06:12:23.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Beginner Breadsmithing]
 [21Sep2025 06:13:45.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Suit Up]
+[21Sep2025 06:18:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has reached the goal [Quaint Scribe]
+[21Sep2025 06:18:46.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved too quickly! 5.846644018671441,-3.9215999984741217,7.3622895484602395
+[21Sep2025 06:18:46.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.221682893379949,0.0,4.193456607942949
+[21Sep2025 06:18:46.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.344435418454623,0.0,4.548526270024809
+[21Sep2025 06:18:46.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.461478951364796,0.0,4.90754632702874
+[21Sep2025 06:18:46.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.573168667352462,0.0,5.27015703649397
+[21Sep2025 06:18:46.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.679850560532316,0.0,5.636029321675551
+[21Sep2025 06:18:46.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.781851051092133,0.0,6.004863809761446
+[21Sep2025 06:18:46.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.879482772284263,0.0,6.376387507575487
+[21Sep2025 06:18:46.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -9.973042186576407,0.0,6.750351931023374
+[21Sep2025 06:18:46.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.062807433202266,0.0,7.126531350813025
+[21Sep2025 06:18:46.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.149043975182678,0.0,7.504720096015831
+[21Sep2025 06:18:46.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.232696729483592,0.0,7.8846313288484
+[21Sep2025 06:18:46.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.315237928182029,0.0,8.265888222464582
+[21Sep2025 06:18:46.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.398550779007508,0.0,8.64798780562046
+[21Sep2025 06:18:46.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.484134308474637,0.0,9.030446815849814
+[21Sep2025 06:18:46.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.573166580668214,0.0,9.41281524814542
+[21Sep2025 06:18:46.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.666554348924478,0.0,9.79468548285763
+[21Sep2025 06:18:46.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.764974090627106,0.0,10.17569804956213
+[21Sep2025 06:18:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.868912322948859,0.0,10.555542478302755
+[21Sep2025 06:18:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -10.978701433464153,0.0,10.933955286643709
+[21Sep2025 06:18:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -11.094540997697635,0.0,11.310720734741153
+[21Sep2025 06:18:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -11.216527120058828,0.0,11.68566529484906
+[21Sep2025 06:18:46.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -11.344671468333047,0.0,12.058654473189563
+[21Sep2025 06:18:46.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -11.47891471854814,0.0,12.429590795277704
+[21Sep2025 06:18:46.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nasusperro) moved too quickly! -11.618531988103655,0.0,12.79874101035216
+[21Sep2025 06:18:46.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[21Sep2025 06:21:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Let's Get To Work]
+[21Sep2025 06:22:06.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Plan "Boar"]
+[21Sep2025 06:25:55.222] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[21Sep2025 06:25:55.223] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[21Sep2025 06:25:55.223] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[21Sep2025 06:25:55.223] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[21Sep2025 06:25:55.223] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Sep2025 06:25:55.224] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[21Sep2025 06:25:55.224] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Sep2025 06:25:55.224] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Sep2025 06:26:12.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Crops of the Wild]
