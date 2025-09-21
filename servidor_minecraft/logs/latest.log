@@ -8763,3 +8763,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 07:26:50.055] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
 [21Sep2025 07:26:50.055] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [21Sep2025 07:26:50.056] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Sep2025 07:33:41.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
