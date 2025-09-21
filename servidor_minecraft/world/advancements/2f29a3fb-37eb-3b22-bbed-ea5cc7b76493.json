@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-09-21 07:40:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-09-21 05:36:12 +0000"
@@ -398,6 +404,12 @@
   "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
       "dungeons_and_combat_0": "2025-09-21 05:07:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-09-21 07:44:20 +0000"
     },
     "done": true
   },
@@ -843,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-21 07:36:47 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 07:03:51 +0000"
@@ -954,6 +972,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:23:35 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 07:44:20 +0000"
     },
     "done": true
   },
@@ -1396,6 +1420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-21 07:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 05:35:53 +0000"
@@ -1810,6 +1840,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-09-21 07:44:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-09-21 05:36:10 +0000"
@@ -1825,6 +1861,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-09-21 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-09-21 07:44:20 +0000"
     },
     "done": true
   },
@@ -2753,6 +2795,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/scotch_eggs": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 07:44:20 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-09-21 05:12:37 +0000"
@@ -3062,6 +3110,12 @@
   "twilightforest:recipes/transportation/canopy_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-21 07:36:47 +0000"
     },
     "done": true
   },
@@ -3431,6 +3485,8 @@
       "minecraft:deep_ocean": "2025-09-21 07:26:39 +0000",
       "minecraft:birch_forest": "2025-09-21 05:55:56 +0000",
       "minecraft:beach": "2025-09-21 05:57:02 +0000",
+      "minecraft:sparse_jungle": "2025-09-21 07:48:21 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-21 07:49:05 +0000",
       "minecraft:river": "2025-09-21 05:19:07 +0000",
       "minecraft:cold_ocean": "2025-09-21 06:24:09 +0000",
       "minecraft:forest": "2025-09-21 05:07:25 +0000",
@@ -3441,6 +3497,12 @@
       "minecraft:plains": "2025-09-21 05:08:01 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-09-21 07:36:47 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
     "criteria": {
@@ -3546,6 +3608,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-09-21 07:46:58 +0000",
       "bread": "2025-09-21 05:16:15 +0000",
       "neapolitan:strawberries": "2025-09-21 07:14:35 +0000"
     },
@@ -3722,6 +3785,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-09-21 05:17:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-09-21 07:44:20 +0000"
     },
     "done": true
   },

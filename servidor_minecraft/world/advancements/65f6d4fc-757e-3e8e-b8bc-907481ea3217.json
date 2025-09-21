@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "ags_day_counter:tenth_day_advancement": {
+    "criteria": {
+      "tenth_day_advancement_0": "2025-09-21 07:40:02 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-09-21 06:53:55 +0000"
@@ -497,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 07:40:07 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
@@ -570,6 +582,12 @@
       "minecraft:drowned": "2025-09-21 07:02:43 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-21 07:50:00 +0000"
+    },
+    "done": true
   },
   "expanded_combat:recipes/combat/diamond_battle_staff_conditional_shaped": {
     "criteria": {
@@ -664,6 +682,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 07:43:14 +0000"
     },
     "done": true
   },
@@ -1033,6 +1057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 07:40:07 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
@@ -1057,9 +1087,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 07:40:07 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-21 07:43:14 +0000"
     },
     "done": true
   },
@@ -2108,6 +2150,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-09-21 07:50:28 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_bow_conditional_shaped_skip": {
     "criteria": {
       "has_item": "2025-09-21 05:12:49 +0000"
@@ -2520,6 +2568,12 @@
   "expanded_combat:recipes/combat/iron_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-21 07:50:28 +0000"
     },
     "done": true
   },
@@ -3436,6 +3490,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-21 07:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-09-21 05:07:00 +0000"
@@ -3634,6 +3694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-09-21 07:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-09-21 06:39:58 +0000"
@@ -3694,6 +3760,7 @@
       "minecraft:deep_ocean": "2025-09-21 07:26:40 +0000",
       "minecraft:birch_forest": "2025-09-21 05:56:02 +0000",
       "minecraft:beach": "2025-09-21 05:57:06 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-21 07:48:49 +0000",
       "minecraft:river": "2025-09-21 05:19:08 +0000",
       "minecraft:cold_ocean": "2025-09-21 06:24:09 +0000",
       "minecraft:forest": "2025-09-21 05:02:01 +0000",
@@ -3732,6 +3799,12 @@
   "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-21 05:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-09-21 07:52:15 +0000"
     },
     "done": true
   },
@@ -3830,6 +3903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-09-21 07:52:15 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
@@ -3920,6 +3999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-09-21 07:52:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 05:13:15 +0000"
@@ -3953,6 +4038,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-09-21 07:50:28 +0000"
     },
     "done": true
   },
