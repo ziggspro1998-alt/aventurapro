@@ -8755,3 +8755,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 07:16:21.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [21Sep2025 07:17:08.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [21Sep2025 07:17:46.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21Sep2025 07:26:14.577] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47617, l='ServerLevel[world]', x=625.50, y=47.00, z=-1234.50]
+[21Sep2025 07:26:50.054] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[21Sep2025 07:26:50.054] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[21Sep2025 07:26:50.054] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[21Sep2025 07:26:50.055] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[21Sep2025 07:26:50.055] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[21Sep2025 07:26:50.055] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[21Sep2025 07:26:50.056] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool

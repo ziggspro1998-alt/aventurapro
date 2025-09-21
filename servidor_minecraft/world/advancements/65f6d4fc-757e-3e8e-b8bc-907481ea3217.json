@@ -601,6 +601,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-09-21 07:21:06 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-09-21 05:02:00 +0000"
@@ -3618,6 +3624,7 @@
       "minecraft:river": "2025-09-21 05:19:08 +0000",
       "minecraft:cold_ocean": "2025-09-21 06:24:09 +0000",
       "minecraft:forest": "2025-09-21 05:02:01 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-21 07:26:23 +0000",
       "minecraft:ocean": "2025-09-21 05:58:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-21 05:43:26 +0000",
       "minecraft:meadow": "2025-09-21 05:19:45 +0000",
@@ -3741,6 +3748,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-09-21 06:53:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-09-21 07:21:06 +0000"
     },
     "done": true
   },
