@@ -6414,3 +6414,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 14:15:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Cover Me with Diamonds]
 [21Sep2025 14:31:31.845] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
 [21Sep2025 14:38:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ice Bucket Challenge]
+[21Sep2025 14:43:09.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Double Trouble]
+[21Sep2025 14:46:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Dark Metallurgy]
+[21Sep2025 14:47:29.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Mutant Creeper
+[21Sep2025 14:47:29.235] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1304, 68, -1192) minecraft:overworld
+[21Sep2025 14:47:29.322] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[21Sep2025 14:47:29.323] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[21Sep2025 14:47:29.323] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[21Sep2025 14:47:29.324] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[21Sep2025 14:47:29.324] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[21Sep2025 14:47:41.498] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 14:47:41.498] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 14:47:41.498] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[21Sep2025 14:47:41.499] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 14:47:41.499] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 14:47:41.499] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 14:47:41.499] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 14:47:41.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[21Sep2025 14:47:41.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 poisonward_ring
+[21Sep2025 14:47:41.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 14:47:41.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 14:47:41.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 14:47:41.501] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 14:47:41.501] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 14:47:41.501] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 14:47:41.502] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
