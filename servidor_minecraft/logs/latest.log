@@ -11163,3 +11163,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 08:17:54.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1288, y=70, z=-1244} BlockPos{x=-1289, y=68, z=-1244}
 [21Sep2025 08:17:54.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1288, y=70, z=-1244} BlockPos{x=-1289, y=68, z=-1244}
 [21Sep2025 08:17:54.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[21Sep2025 08:20:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [Centennial]
+[21Sep2025 08:22:15.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Render of Souls]
+[21Sep2025 08:26:05.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has reached the goal [Postmortal]
+[21Sep2025 08:29:42.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas moved wrongly!
+[21Sep2025 08:29:55.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ultramegas lost connection: Disconnected
+[21Sep2025 08:29:55.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas left the game

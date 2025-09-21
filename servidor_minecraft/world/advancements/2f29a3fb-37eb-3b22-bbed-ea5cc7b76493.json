@@ -375,8 +375,11 @@
     "criteria": {
       "minecraft:pillager": "2025-09-21 05:14:43 +0000",
       "minecraft:skeleton": "2025-09-21 05:16:02 +0000",
+      "minecraft:ravager": "2025-09-21 08:19:39 +0000",
       "minecraft:vindicator": "2025-09-21 05:59:57 +0000",
       "minecraft:spider": "2025-09-21 05:46:45 +0000",
+      "minecraft:evoker": "2025-09-21 08:20:44 +0000",
+      "minecraft:vex": "2025-09-21 08:20:45 +0000",
       "minecraft:zombie": "2025-09-21 05:25:18 +0000"
     },
     "done": false
@@ -3825,6 +3828,42 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-09-21 08:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 08:18:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-09-21 08:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-21 08:18:29 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2025-09-21 08:20:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-21 08:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-09-21 08:18:29 +0000"
     },
     "done": true
   },

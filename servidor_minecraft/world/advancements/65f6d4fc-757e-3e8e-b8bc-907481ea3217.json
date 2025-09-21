@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-09-21 08:23:02 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
@@ -491,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 08:20:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-09-21 05:58:06 +0000"
@@ -578,6 +590,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-21 05:14:51 +0000",
+      "minecraft:vex": "2025-09-21 08:21:08 +0000",
       "minecraft:zombie": "2025-09-21 05:43:30 +0000",
       "minecraft:drowned": "2025-09-21 07:02:43 +0000"
     },
@@ -913,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 08:20:44 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-09-21 05:02:00 +0000"
@@ -994,6 +1013,12 @@
   "bakery:recipes/iron_chair": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 08:20:44 +0000"
     },
     "done": true
   },
@@ -1571,6 +1596,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-09-21 05:07:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 08:20:44 +0000"
     },
     "done": true
   },
@@ -2890,6 +2921,12 @@
     },
     "done": true
   },
+  "simplyswords:soulrender": {
+    "criteria": {
+      "requirement": "2025-09-21 08:22:15 +0000"
+    },
+    "done": true
+  },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-09-21 05:02:00 +0000"
@@ -3400,6 +3437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 08:20:44 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -3826,6 +3869,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-21 08:20:25 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/birch_plank_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 07:00:05 +0000"
@@ -3924,6 +3973,12 @@
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2025-09-21 05:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 08:20:44 +0000"
     },
     "done": true
   },
