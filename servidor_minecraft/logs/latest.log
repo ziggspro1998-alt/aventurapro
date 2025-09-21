@@ -6537,3 +6537,86 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 16:05:07.212] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [21Sep2025 16:05:07.212] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [21Sep2025 16:11:51.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [It Bites]
+[21Sep2025 16:16:55.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[21Sep2025 16:16:57.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Norris'/32768, l='ServerLevel[world]', x=-1072.53, y=83.00, z=-1289.24] died, message: 'Norris was slain by Door Knight'
+[21Sep2025 16:16:57.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Norris'/32768, l='ServerLevel[world]', x=-1072.53, y=83.00, z=-1289.24] died: Norris was slain by Door Knight
+[21Sep2025 16:18:30.497] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nestor'/33145, l='ServerLevel[world]', x=-968.37, y=80.00, z=-1208.49] died, message: 'Nestor was slain by Guard'
+[21Sep2025 16:18:30.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nestor'/33145, l='ServerLevel[world]', x=-968.37, y=80.00, z=-1208.49] died: Nestor was slain by Guard
+[21Sep2025 16:18:31.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ollie'/33147, l='ServerLevel[world]', x=-964.21, y=83.00, z=-1234.33] died, message: 'Ollie was impaled by Marauder'
+[21Sep2025 16:18:31.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ollie'/33147, l='ServerLevel[world]', x=-964.21, y=83.00, z=-1234.33] died: Ollie was impaled by Marauder
+[21Sep2025 16:18:33.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Janay'/33144, l='ServerLevel[world]', x=-973.64, y=90.00, z=-1243.34] died, message: 'Janay hit the ground too hard whilst trying to escape Pillager'
+[21Sep2025 16:18:33.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Janay'/33144, l='ServerLevel[world]', x=-973.64, y=90.00, z=-1243.34] died: Janay was doomed to fall by Pillager
+[21Sep2025 16:18:40.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Whitney'/32910, l='ServerLevel[world]', x=-989.60, y=90.00, z=-1268.01] died, message: 'Whitney was slain by Cleric'
+[21Sep2025 16:18:40.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Whitney'/32910, l='ServerLevel[world]', x=-989.60, y=90.00, z=-1268.01] died: Whitney was slain by Cleric
+[21Sep2025 16:19:09.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[21Sep2025 16:21:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Zombie
+[21Sep2025 16:21:17.795] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-834, 84, -1463) minecraft:overworld
+[21Sep2025 16:21:30.305] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:21:30.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:21:30.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[21Sep2025 16:21:30.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:21:30.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:21:30.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 16:21:30.306] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:21:30.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fireward_ring
+[21Sep2025 16:21:30.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fireward_ring
+[21Sep2025 16:21:30.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 16:21:30.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:21:30.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:21:30.307] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Sep2025 16:21:30.308] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:21:30.308] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:21:30.308] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:21:30.308] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:23:57.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has completed the challenge [Serious Dedication]
+[21Sep2025 16:26:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Rotten King]
+[21Sep2025 16:27:09.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was blown up by Creeper
+[21Sep2025 16:27:09.538] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-828, 72, -1477) minecraft:overworld
+[21Sep2025 16:27:15.897] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:27:15.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:27:15.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[21Sep2025 16:27:15.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:27:15.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:27:15.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 16:27:15.898] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 16:27:15.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[21Sep2025 16:27:15.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 poisonward_ring
+[21Sep2025 16:27:15.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 16:27:15.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:27:15.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 16:27:15.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[21Sep2025 16:27:15.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:27:15.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:27:15.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:27:15.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 16:36:39.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Mine? Mine? Mine?]
+[21Sep2025 16:41:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Sep2025 16:41:23.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[21Sep2025 16:45:18.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[21Sep2025 16:45:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[21Sep2025 16:45:18.280] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Sep2025 16:45:34.351] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nasusperro[/127.215.11.28:50427] logged in with entity id 43371 at (-1028.7412817741908, 86.1875, -1564.3036529970232)
+[21Sep2025 16:45:34.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro joined the game
+[21Sep2025 16:45:34.398] [Server thread/INFO] [Jade/]: Syncing config to nasusperro (65f6d4fc-757e-3e8e-b8bc-907481ea3217)
+[21Sep2025 16:47:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Sep2025 16:47:04.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[21Sep2025 16:50:30.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
+[21Sep2025 16:54:30.199] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:30.199] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:30.615] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
+[21Sep2025 16:54:30.985] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:30.985] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
+[21Sep2025 16:54:31.052] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.090] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
+[21Sep2025 16:54:31.122] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.155] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
+[21Sep2025 16:54:31.155] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.155] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.155] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.226] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.305] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.306] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
+[21Sep2025 16:54:31.323] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:54:31.324] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/common/villagers
+[21Sep2025 16:54:31.324] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:village/empty
+[21Sep2025 16:55:42.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro moved wrongly!
