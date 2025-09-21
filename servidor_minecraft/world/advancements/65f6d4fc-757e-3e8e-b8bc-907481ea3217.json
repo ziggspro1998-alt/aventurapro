@@ -4356,6 +4356,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-21 15:25:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-09-21 14:15:59 +0000"
@@ -4515,6 +4521,12 @@
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-09-21 15:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-09-21 15:24:00 +0000"
     },
     "done": true
   },

@@ -6449,3 +6449,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 15:10:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Fragile But Effective]
 [21Sep2025 15:14:31.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
 [21Sep2025 15:17:09.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Kena'/12275, l='ServerLevel[world]', x=-1292.05, y=70.00, z=-1280.50] died: Kena was impaled by Marauder
+[21Sep2025 15:25:00.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Take Aim]
+[21Sep2025 15:28:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was doomed to fall by Mutant Zombie
+[21Sep2025 15:28:30.265] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1269, 69, -1198) minecraft:overworld
+[21Sep2025 15:28:42.111] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:42.111] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:42.111] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[21Sep2025 15:28:42.112] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 15:28:42.112] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:42.112] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 15:28:42.112] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 15:28:42.112] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fireward_ring
+[21Sep2025 15:28:42.112] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 fireward_ring
+[21Sep2025 15:28:42.113] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 15:28:42.113] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:42.113] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:42.113] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:42.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:42.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:42.114] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro was slain by Mutant Zombie
+[21Sep2025 15:28:46.734] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-1275, 68, -1197) minecraft:overworld
+[21Sep2025 15:28:46.811] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[21Sep2025 15:28:46.811] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[21Sep2025 15:28:46.812] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[21Sep2025 15:28:46.812] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[21Sep2025 15:28:46.813] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[21Sep2025 15:28:57.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:57.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:57.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 fire_echo
+[21Sep2025 15:28:57.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 15:28:57.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:57.515] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 frostward_ring
+[21Sep2025 15:28:57.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 15:28:57.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 poisonward_ring
+[21Sep2025 15:28:57.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 1 poisonward_ring
+[21Sep2025 15:28:57.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 2 result 0 air
+[21Sep2025 15:28:57.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:57.516] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 15:28:57.517] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:57.517] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:57.517] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 15:28:57.517] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
