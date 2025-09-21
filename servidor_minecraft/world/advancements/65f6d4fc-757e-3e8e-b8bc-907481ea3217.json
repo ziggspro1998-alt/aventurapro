@@ -4356,6 +4356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-09-21 15:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-09-21 15:25:00 +0000"
@@ -4401,6 +4407,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2025-09-21 15:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-21 15:34:43 +0000"
     },
     "done": true
   },
@@ -4458,6 +4470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-09-21 15:34:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
     "criteria": {
       "has_vanilla_barrel": "2025-09-21 15:15:56 +0000"
@@ -4506,6 +4524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-21 15:34:43 +0000"
+    },
+    "done": true
+  },
   "collectorsreap:recipes/food/strawberry_jam_bun": {
     "criteria": {
       "has_strawberries": "2025-09-21 14:27:09 +0000"
@@ -4515,6 +4539,12 @@
   "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-09-21 15:34:43 +0000"
     },
     "done": true
   },
@@ -4638,6 +4668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-09-21 15:34:38 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/acacia_chest": {
     "criteria": {
       "has_acacia_plank": "2025-09-21 14:28:05 +0000"
@@ -4737,6 +4773,12 @@
   "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 14:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-21 15:34:43 +0000"
     },
     "done": true
   },
