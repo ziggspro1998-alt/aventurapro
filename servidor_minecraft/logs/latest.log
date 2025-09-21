@@ -6439,3 +6439,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 14:47:41.501] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [21Sep2025 14:47:41.501] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
 [21Sep2025 14:47:41.502] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Sep2025 14:57:34.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Sep2025 14:57:34.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xd<--[HERE]
+[21Sep2025 15:00:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Explosive King]
+[21Sep2025 15:01:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Junior Summoner]
