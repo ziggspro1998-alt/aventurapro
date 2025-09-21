@@ -8684,3 +8684,56 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 06:58:24.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
 [21Sep2025 06:58:24.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
 [21Sep2025 06:58:24.963] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:59:22.274] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38240, l='ServerLevel[world]', x=612.50, y=47.00, z=-1278.50]
+[21Sep2025 06:59:22.876] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38254, l='ServerLevel[world]', x=612.50, y=48.00, z=-1244.50]
+[21Sep2025 06:59:25.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38324, l='ServerLevel[world]', x=624.50, y=47.00, z=-1267.50]
+[21Sep2025 06:59:29.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38448, l='ServerLevel[world]', x=576.50, y=46.00, z=-1309.50]
+[21Sep2025 06:59:30.625] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38456, l='ServerLevel[world]', x=625.50, y=48.00, z=-1255.50]
+[21Sep2025 06:59:30.628] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38458, l='ServerLevel[world]', x=591.50, y=51.00, z=-1338.50]
+[21Sep2025 06:59:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [We Just Want our Hat Back]
+[21Sep2025 07:00:15.624] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38668, l='ServerLevel[world]', x=605.50, y=48.00, z=-1283.50]
+[21Sep2025 07:00:21.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Penteconter]
+[21Sep2025 07:00:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Wax Off]
+[21Sep2025 07:00:40.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3591ms or 71 ticks behind
+[21Sep2025 07:00:42.932] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38799, l='ServerLevel[world]', x=623.50, y=49.00, z=-1268.50]
+[21Sep2025 07:01:04.974] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38876, l='ServerLevel[world]', x=595.50, y=49.00, z=-1332.50]
+[21Sep2025 07:01:14.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [A Bone to Pick]
+[21Sep2025 07:02:02.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39067, l='ServerLevel[world]', x=586.50, y=43.00, z=-1318.50]
+[21Sep2025 07:02:03.474] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39072, l='ServerLevel[world]', x=600.50, y=53.00, z=-1309.50]
+[21Sep2025 07:02:22.474] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39135, l='ServerLevel[world]', x=610.50, y=55.00, z=-1366.50]
+[21Sep2025 07:02:45.976] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39236, l='ServerLevel[world]', x=615.50, y=53.00, z=-1326.50]
+[21Sep2025 07:02:56.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39283, l='ServerLevel[world]', x=602.50, y=50.00, z=-1330.50]
+[21Sep2025 07:03:05.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39329, l='ServerLevel[world]', x=603.50, y=49.00, z=-1361.50]
+[21Sep2025 07:03:39.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39427, l='ServerLevel[world]', x=602.50, y=47.00, z=-1332.50]
+[21Sep2025 07:03:51.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39510, l='ServerLevel[world]', x=617.50, y=51.00, z=-1256.50]
+[21Sep2025 07:04:06.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39606, l='ServerLevel[world]', x=605.50, y=43.00, z=-1319.50]
+[21Sep2025 07:04:21.224] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39697, l='ServerLevel[world]', x=653.50, y=51.00, z=-1313.50]
+[21Sep2025 07:04:30.375] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39753, l='ServerLevel[world]', x=620.50, y=46.00, z=-1303.50]
+[21Sep2025 07:04:48.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39861, l='ServerLevel[world]', x=607.50, y=46.00, z=-1311.50]
+[21Sep2025 07:05:25.974] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39964, l='ServerLevel[world]', x=619.50, y=53.00, z=-1278.50]
+[21Sep2025 07:06:10.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [We Just Want our Hat Back]
+[21Sep2025 07:06:31.374] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40256, l='ServerLevel[world]', x=593.50, y=46.00, z=-1328.50]
+[21Sep2025 07:06:35.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [A Bone to Pick]
+[21Sep2025 07:06:37.224] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40275, l='ServerLevel[world]', x=631.50, y=56.00, z=-1300.50]
+[21Sep2025 07:06:39.123] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40282, l='ServerLevel[world]', x=591.50, y=52.00, z=-1310.50]
+[21Sep2025 07:06:43.825] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40294, l='ServerLevel[world]', x=610.50, y=50.00, z=-1352.50]
+[21Sep2025 07:07:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Smitty WerbenJagerManJensen]
+[21Sep2025 07:07:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Smitty WerbenJagerManJensen]
+[21Sep2025 07:07:06.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40379, l='ServerLevel[world]', x=608.50, y=46.00, z=-1291.50]
+[21Sep2025 07:07:14.723] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40452, l='ServerLevel[world]', x=625.50, y=60.00, z=-1236.50]
+[21Sep2025 07:07:21.274] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40464, l='ServerLevel[world]', x=594.50, y=52.00, z=-1354.50]
+[21Sep2025 07:07:32.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40484, l='ServerLevel[world]', x=617.50, y=53.00, z=-1311.50]
+[21Sep2025 07:07:49.174] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40569, l='ServerLevel[world]', x=599.50, y=39.00, z=-1351.50]
+[21Sep2025 07:08:00.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40593, l='ServerLevel[world]', x=612.50, y=49.00, z=-1354.50]
+[21Sep2025 07:08:15.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro drowned
+[21Sep2025 07:08:15.059] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(655, 60, -1273) minecraft:overworld
+[21Sep2025 07:08:24.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40747, l='ServerLevel[world]', x=594.50, y=59.00, z=-1317.50]
+[21Sep2025 07:08:25.275] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40750, l='ServerLevel[world]', x=587.50, y=43.00, z=-1349.50]
+[21Sep2025 07:08:31.725] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/40792, l='ServerLevel[world]', x=615.50, y=50.00, z=-1306.50]
+[21Sep2025 07:08:44.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 07:08:44.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 07:08:44.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 holy_echo
+[21Sep2025 07:08:44.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[21Sep2025 07:08:44.312] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 07:08:44.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 07:08:44.313] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
