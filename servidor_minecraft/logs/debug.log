@@ -21420,3 +21420,81 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 08:40:16.248] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/450, l='ServerLevel[world]', x=-1297.72, y=68.00, z=-1223.46], mainHand=1 blacksmith_hammer, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
 [21Sep2025 08:40:17.043] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/450, l='ServerLevel[world]', x=-1297.34, y=68.00, z=-1224.06], mainHand=1 blacksmith_hammer, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
 [21Sep2025 08:40:17.843] [Server thread/DEBUG] [de.cadentem.pufferfish_unofficial_additions.PUA/]: Spell experience source data: [Data{caster=ServerPlayer['nasusperro'/450, l='ServerLevel[world]', x=-1296.99, y=68.00, z=-1224.47], mainHand=1 blacksmith_hammer, spellbook=1 iron_spell_book, school=irons_spellbooks:fire, spell=irons_spellbooks:wall_of_fire, rarity=UNCOMMON, level=2.0, minLevelRarity=2.0, manaCost=35.0, manaCostPerSecond=0.0, castDuration=0.0, castChargeTime=0.0, cooldown=15.0, expectedTicks=1.0}]
+[21Sep2025 08:43:00.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 08:43:00.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 08:47:47.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nasusperro lost connection: Disconnected
+[21Sep2025 08:47:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro left the game
+[21Sep2025 08:48:00.396] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 08:48:00.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 08:48:02.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Sep2025 08:48:02.780] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[21Sep2025 08:48:02.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Sep2025 08:48:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Sep2025 08:48:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Sep2025 08:48:03.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Sep2025 08:48:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Sep2025 08:48:04.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Sep2025 08:48:04.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21Sep2025 08:48:04.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 08:48:04.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 08:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Sep2025 08:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Sep2025 08:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Sep2025 08:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21Sep2025 08:48:04.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Sep2025 08:48:04.943] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:04.944] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.483] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.483] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.483] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.484] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.485] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.486] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.487] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.487] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.487] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[21Sep2025 08:48:05.489] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[21Sep2025 08:48:05.490] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Sep2025 08:48:05.491] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/aventurapro/servidor_minecraft/config/goblintraders-entities.toml
+[21Sep2025 08:48:05.491] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[21Sep2025 08:48:05.499] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Sep2025 08:48:05.499] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[21Sep2025 08:48:05.499] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[21Sep2025 08:48:05.506] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
