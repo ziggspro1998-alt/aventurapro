@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-21 06:53:55 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
     "criteria": {
       "has_bone_meal": "2025-09-21 05:10:30 +0000"
@@ -158,6 +164,12 @@
   "expanded_combat:recipes/combat/leather_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-09-21 06:53:18 +0000"
     },
     "done": true
   },
@@ -1243,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-09-21 06:53:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
     "criteria": {
       "cooked_mutton_chops": "2025-09-21 06:34:11 +0000"
@@ -1326,6 +1344,12 @@
       "day_counter_root_advancement_0": "2025-09-21 05:02:00 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-09-21 06:50:31 +0000"
+    },
+    "done": false
   },
   "expanded_combat:recipes/combat/rabbit_leather_gauntlet_conditional_shaped": {
     "criteria": {
@@ -2246,6 +2270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-09-21 06:53:55 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/oak_plank_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:07:00 +0000"
@@ -2859,6 +2889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-09-21 06:53:55 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/iron_table": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -3225,6 +3261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-09-21 06:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-09-21 05:26:54 +0000"
@@ -3392,12 +3434,20 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-21 06:50:26 +0000",
       "suspicious_stew": "2025-09-21 06:11:41 +0000",
       "neapolitan:strawberry_scones": "2025-09-21 05:18:57 +0000",
       "apple": "2025-09-21 05:12:59 +0000",
-      "bread": "2025-09-21 05:45:48 +0000"
+      "bread": "2025-09-21 05:45:48 +0000",
+      "cooked_rabbit": "2025-09-21 06:47:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-09-21 06:53:18 +0000"
+    },
+    "done": true
   },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {

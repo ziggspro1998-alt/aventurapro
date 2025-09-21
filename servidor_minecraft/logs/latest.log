@@ -8670,3 +8670,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
 [21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
 [21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:49:27.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has reached the goal [Pumpkin Sir]
+[21Sep2025 06:56:48.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Another Kind of Slime]
+[21Sep2025 06:58:10.577] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:58:10.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:58:10.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:58:10.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:58:10.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:58:10.578] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[21Sep2025 06:58:23.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Mine? Mine? Mine?]
+[21Sep2025 06:58:24.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[21Sep2025 06:58:24.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[21Sep2025 06:58:24.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[21Sep2025 06:58:24.962] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[21Sep2025 06:58:24.963] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
