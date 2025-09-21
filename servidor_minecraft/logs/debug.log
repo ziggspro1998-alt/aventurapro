@@ -14303,3 +14303,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 14:17:54.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Sep2025 14:17:54.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Sep2025 14:18:25.511] [Server thread/DEBUG] [mixin/]: Mixing ServerPlaceRecipeMixin from bagofholding.common.mixins.json into net.minecraft.recipebook.ServerPlaceRecipe
+[21Sep2025 14:22:54.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 14:22:54.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 14:27:54.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 14:27:54.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 14:31:31.845] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
