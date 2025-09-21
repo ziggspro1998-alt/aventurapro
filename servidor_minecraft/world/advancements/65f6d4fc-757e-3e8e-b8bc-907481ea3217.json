@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 05:36:25 +0000"
@@ -275,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/half_iron_bow_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:12:49 +0000"
@@ -320,6 +332,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-09-21 05:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -864,6 +882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-09-21 05:30:49 +0000"
@@ -988,6 +1012,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-09-21 05:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -1120,6 +1150,12 @@
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-09-21 06:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -1447,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -1555,6 +1597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
       "bornin_chaos_0": "2025-09-21 05:02:00 +0000"
@@ -1588,6 +1636,12 @@
   "bakery:recipes/chocolate_box": {
     "criteria": {
       "has_oak_planks": "2025-09-21 05:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -1759,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/small_cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -1768,6 +1828,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-09-21 05:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -1975,6 +2041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_dagger_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:42 +0000"
@@ -2005,9 +2077,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_scythe_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -2304,6 +2388,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-09-21 05:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -3057,6 +3147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-21 05:53:07 +0000"
@@ -3090,6 +3186,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-09-21 06:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },
@@ -3132,6 +3234,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-09-21 05:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 06:39:58 +0000"
     },
     "done": true
   },

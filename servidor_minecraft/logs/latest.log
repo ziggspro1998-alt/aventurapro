@@ -8660,3 +8660,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
 [21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
 [21Sep2025 06:37:46.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:43:00.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas has made the advancement [Tools of the Trade]
+[21Sep2025 06:45:23.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[21Sep2025 06:48:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ultramegas fell from a high place
+[21Sep2025 06:48:06.996] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(927, 54, -811) minecraft:overworld
+[21Sep2025 06:48:17.394] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:48:17.394] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Sep2025 06:48:17.395] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
