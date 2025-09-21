@@ -6413,3 +6413,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [21Sep2025 14:13:21.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3029ms or 60 ticks behind
 [21Sep2025 14:15:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Cover Me with Diamonds]
 [21Sep2025 14:31:31.845] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[21Sep2025 14:38:55.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nasusperro has made the advancement [Ice Bucket Challenge]
