@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-09-21 06:14:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 05:36:25 +0000"
@@ -116,6 +122,12 @@
   "bakery:recipes/vegetable_sandwich": {
     "criteria": {
       "has_carrot": "2025-09-21 05:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-21 06:06:15 +0000"
     },
     "done": true
   },
@@ -413,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-09-21 06:12:06 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:46:15 +0000"
@@ -555,6 +573,12 @@
   "expanded_combat:recipes/combat/iron_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-09-21 06:12:06 +0000"
     },
     "done": true
   },
@@ -795,6 +819,12 @@
   "sophisticatedstorage:recipes/misc/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2025-09-21 05:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-09-21 06:14:08 +0000"
     },
     "done": true
   },
@@ -1105,6 +1135,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-09-21 06:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -1138,6 +1174,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 05:13:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-21 06:07:50 +0000"
     },
     "done": true
   },
@@ -1393,6 +1435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 06:13:03 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:46:15 +0000"
@@ -1474,6 +1522,12 @@
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:07:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-21 06:08:52 +0000"
     },
     "done": true
   },
@@ -1669,6 +1723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-21 06:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-09-21 05:13:16 +0000"
@@ -1678,6 +1738,12 @@
   "expanded_combat:recipes/combat/iron_bow_conditional_shaped_skip": {
     "criteria": {
       "has_item": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-21 06:12:06 +0000"
     },
     "done": true
   },
@@ -1708,6 +1774,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-21 05:07:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-09-21 06:10:52 +0000"
     },
     "done": true
   },
@@ -1849,6 +1921,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-21 06:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -1921,9 +1999,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-21 06:13:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_the_recipe": "2025-09-21 05:16:27 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-09-21 06:06:30 +0000"
     },
     "done": true
   },
@@ -1996,6 +2086,13 @@
   "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-21 06:14:08 +0000",
+      "has_the_recipe": "2025-09-21 06:14:08 +0000"
     },
     "done": true
   },
@@ -2101,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-09-21 06:12:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 05:36:44 +0000"
@@ -2203,6 +2306,12 @@
     },
     "done": true
   },
+  "some_assembly_required:obtain_sandwich": {
+    "criteria": {
+      "obtain_sandwich": "2025-09-21 06:12:23 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-09-21 05:13:19 +0000"
@@ -2248,6 +2357,12 @@
   "expanded_combat:recipes/combat/oak_plank_claymore_conditional_shaped": {
     "criteria": {
       "has_item": "2025-09-21 05:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 06:13:03 +0000"
     },
     "done": true
   },
@@ -2368,6 +2483,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-09-21 05:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-09-21 06:14:08 +0000"
     },
     "done": true
   },
@@ -2599,6 +2720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 06:13:03 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/brick_stove": {
     "criteria": {
       "has_iron_ingot": "2025-09-21 05:12:49 +0000"
@@ -2632,6 +2759,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-09-21 05:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 06:12:21 +0000"
     },
     "done": true
   },
@@ -2725,6 +2858,12 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "black_eye": "2025-09-21 06:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-09-21 05:53:07 +0000"
@@ -2740,6 +2879,12 @@
   "man_of_many_planes:misc/expanded_aircraftery": {
     "criteria": {
       "has_item": "2025-09-21 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-09-21 06:11:22 +0000"
     },
     "done": true
   },
@@ -2956,6 +3101,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "suspicious_stew": "2025-09-21 06:11:41 +0000",
       "neapolitan:strawberry_scones": "2025-09-21 05:18:57 +0000",
       "apple": "2025-09-21 05:12:59 +0000",
       "bread": "2025-09-21 05:45:48 +0000"
